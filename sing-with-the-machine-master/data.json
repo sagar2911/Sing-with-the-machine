@@ -1,0 +1,8242 @@
+{
+	"abduction": {
+		"valenceMean": 2.76,
+		"valenceSD": 2.06,
+		"arousalMean": 5.53,
+		"arousalSD": 2.43,
+		"dominanceMean": 3.49,
+		"dominanceSD": 2.38
+	},
+	"abortion": {
+		"valenceMean": 3.5,
+		"valenceSD": 2.3,
+		"arousalMean": 5.39,
+		"arousalSD": 2.8,
+		"dominanceMean": 4.59,
+		"dominanceSD": 2.54
+	},
+	"absurd": {
+		"valenceMean": 4.26,
+		"valenceSD": 1.82,
+		"arousalMean": 4.36,
+		"arousalSD": 2.2,
+		"dominanceMean": 4.73,
+		"dominanceSD": 1.72
+	},
+	"abundance": {
+		"valenceMean": 6.59,
+		"valenceSD": 2.01,
+		"arousalMean": 5.51,
+		"arousalSD": 2.63,
+		"dominanceMean": 5.8,
+		"dominanceSD": 2.16
+	},
+	"abuse": {
+		"valenceMean": 1.8,
+		"valenceSD": 1.23,
+		"arousalMean": 6.83,
+		"arousalSD": 2.7,
+		"dominanceMean": 3.69,
+		"dominanceSD": 2.94
+	},
+	"acceptance": {
+		"valenceMean": 7.98,
+		"valenceSD": 1.42,
+		"arousalMean": 5.4,
+		"arousalSD": 2.7,
+		"dominanceMean": 6.64,
+		"dominanceSD": 1.91
+	},
+	"accident": {
+		"valenceMean": 2.05,
+		"valenceSD": 1.19,
+		"arousalMean": 6.26,
+		"arousalSD": 2.87,
+		"dominanceMean": 3.76,
+		"dominanceSD": 2.22
+	},
+	"ace": {
+		"valenceMean": 6.88,
+		"valenceSD": 1.93,
+		"arousalMean": 5.5,
+		"arousalSD": 2.66,
+		"dominanceMean": 6.39,
+		"dominanceSD": 2.31
+	},
+	"ache": {
+		"valenceMean": 2.46,
+		"valenceSD": 1.52,
+		"arousalMean": 5.0,
+		"arousalSD": 2.45,
+		"dominanceMean": 3.54,
+		"dominanceSD": 1.73
+	},
+	"achievement": {
+		"valenceMean": 7.89,
+		"valenceSD": 1.38,
+		"arousalMean": 5.53,
+		"arousalSD": 2.81,
+		"dominanceMean": 6.56,
+		"dominanceSD": 2.35
+	},
+	"activate": {
+		"valenceMean": 5.46,
+		"valenceSD": 0.98,
+		"arousalMean": 4.86,
+		"arousalSD": 2.56,
+		"dominanceMean": 5.43,
+		"dominanceSD": 1.84
+	},
+	"addict": {
+		"valenceMean": 2.48,
+		"valenceSD": 2.08,
+		"arousalMean": 5.66,
+		"arousalSD": 2.26,
+		"dominanceMean": 3.72,
+		"dominanceSD": 2.54
+	},
+	"addicted": {
+		"valenceMean": 2.51,
+		"valenceSD": 1.42,
+		"arousalMean": 4.81,
+		"arousalSD": 2.46,
+		"dominanceMean": 3.46,
+		"dominanceSD": 2.23
+	},
+	"admired": {
+		"valenceMean": 7.74,
+		"valenceSD": 1.84,
+		"arousalMean": 6.11,
+		"arousalSD": 2.36,
+		"dominanceMean": 7.53,
+		"dominanceSD": 1.94
+	},
+	"adorable": {
+		"valenceMean": 7.81,
+		"valenceSD": 1.24,
+		"arousalMean": 5.12,
+		"arousalSD": 2.71,
+		"dominanceMean": 5.74,
+		"dominanceSD": 2.48
+	},
+	"adult": {
+		"valenceMean": 6.49,
+		"valenceSD": 1.5,
+		"arousalMean": 4.76,
+		"arousalSD": 1.95,
+		"dominanceMean": 5.75,
+		"dominanceSD": 2.21
+	},
+	"advantage": {
+		"valenceMean": 6.95,
+		"valenceSD": 1.85,
+		"arousalMean": 4.76,
+		"arousalSD": 2.18,
+		"dominanceMean": 6.36,
+		"dominanceSD": 2.23
+	},
+	"adventure": {
+		"valenceMean": 7.6,
+		"valenceSD": 1.5,
+		"arousalMean": 6.98,
+		"arousalSD": 2.15,
+		"dominanceMean": 6.46,
+		"dominanceSD": 1.67
+	},
+	"affection": {
+		"valenceMean": 8.39,
+		"valenceSD": 0.86,
+		"arousalMean": 6.21,
+		"arousalSD": 2.75,
+		"dominanceMean": 6.08,
+		"dominanceSD": 2.22
+	},
+	"afraid": {
+		"valenceMean": 2.0,
+		"valenceSD": 1.28,
+		"arousalMean": 6.67,
+		"arousalSD": 2.54,
+		"dominanceMean": 3.98,
+		"dominanceSD": 2.63
+	},
+	"aggressive": {
+		"valenceMean": 5.1,
+		"valenceSD": 1.68,
+		"arousalMean": 5.83,
+		"arousalSD": 2.33,
+		"dominanceMean": 5.59,
+		"dominanceSD": 2.4
+	},
+	"agility": {
+		"valenceMean": 6.46,
+		"valenceSD": 1.57,
+		"arousalMean": 4.85,
+		"arousalSD": 1.8,
+		"dominanceMean": 5.87,
+		"dominanceSD": 1.52
+	},
+	"agony": {
+		"valenceMean": 2.43,
+		"valenceSD": 2.17,
+		"arousalMean": 6.06,
+		"arousalSD": 2.67,
+		"dominanceMean": 4.02,
+		"dominanceSD": 2.49
+	},
+	"agreement": {
+		"valenceMean": 7.08,
+		"valenceSD": 1.59,
+		"arousalMean": 5.02,
+		"arousalSD": 2.24,
+		"dominanceMean": 6.22,
+		"dominanceSD": 1.85
+	},
+	"air": {
+		"valenceMean": 6.34,
+		"valenceSD": 1.56,
+		"arousalMean": 4.12,
+		"arousalSD": 2.3,
+		"dominanceMean": 5.1,
+		"dominanceSD": 1.56
+	},
+	"alcoholic": {
+		"valenceMean": 2.84,
+		"valenceSD": 2.34,
+		"arousalMean": 5.69,
+		"arousalSD": 2.36,
+		"dominanceMean": 4.45,
+		"dominanceSD": 2.56
+	},
+	"alert": {
+		"valenceMean": 6.2,
+		"valenceSD": 1.76,
+		"arousalMean": 6.85,
+		"arousalSD": 2.53,
+		"dominanceMean": 5.96,
+		"dominanceSD": 2.24
+	},
+	"alien": {
+		"valenceMean": 5.6,
+		"valenceSD": 1.82,
+		"arousalMean": 5.45,
+		"arousalSD": 2.15,
+		"dominanceMean": 4.64,
+		"dominanceSD": 2.07
+	},
+	"alimony": {
+		"valenceMean": 3.95,
+		"valenceSD": 2.0,
+		"arousalMean": 4.3,
+		"arousalSD": 2.29,
+		"dominanceMean": 4.63,
+		"dominanceSD": 2.3
+	},
+	"alive": {
+		"valenceMean": 7.25,
+		"valenceSD": 2.22,
+		"arousalMean": 5.5,
+		"arousalSD": 2.74,
+		"dominanceMean": 6.39,
+		"dominanceSD": 2.15
+	},
+	"allergy": {
+		"valenceMean": 3.07,
+		"valenceSD": 1.64,
+		"arousalMean": 4.64,
+		"arousalSD": 2.34,
+		"dominanceMean": 3.21,
+		"dominanceSD": 1.77
+	},
+	"alley": {
+		"valenceMean": 4.48,
+		"valenceSD": 1.97,
+		"arousalMean": 4.91,
+		"arousalSD": 2.42,
+		"dominanceMean": 4.0,
+		"dominanceSD": 1.7
+	},
+	"alone": {
+		"valenceMean": 2.41,
+		"valenceSD": 1.77,
+		"arousalMean": 4.83,
+		"arousalSD": 2.66,
+		"dominanceMean": 3.7,
+		"dominanceSD": 2.42
+	},
+	"aloof": {
+		"valenceMean": 4.9,
+		"valenceSD": 1.92,
+		"arousalMean": 4.28,
+		"arousalSD": 2.1,
+		"dominanceMean": 4.69,
+		"dominanceSD": 1.92
+	},
+	"ambition": {
+		"valenceMean": 7.04,
+		"valenceSD": 1.98,
+		"arousalMean": 5.61,
+		"arousalSD": 2.92,
+		"dominanceMean": 6.93,
+		"dominanceSD": 2.07
+	},
+	"ambulance": {
+		"valenceMean": 2.47,
+		"valenceSD": 1.5,
+		"arousalMean": 7.33,
+		"arousalSD": 1.96,
+		"dominanceMean": 3.22,
+		"dominanceSD": 2.29
+	},
+	"angel": {
+		"valenceMean": 7.53,
+		"valenceSD": 1.58,
+		"arousalMean": 4.83,
+		"arousalSD": 2.63,
+		"dominanceMean": 4.97,
+		"dominanceSD": 2.34
+	},
+	"anger": {
+		"valenceMean": 2.34,
+		"valenceSD": 1.32,
+		"arousalMean": 7.63,
+		"arousalSD": 1.91,
+		"dominanceMean": 5.5,
+		"dominanceSD": 2.82
+	},
+	"angry": {
+		"valenceMean": 2.85,
+		"valenceSD": 1.7,
+		"arousalMean": 7.17,
+		"arousalSD": 2.07,
+		"dominanceMean": 5.55,
+		"dominanceSD": 2.74
+	},
+	"anguished": {
+		"valenceMean": 2.12,
+		"valenceSD": 1.56,
+		"arousalMean": 5.33,
+		"arousalSD": 2.69,
+		"dominanceMean": 3.45,
+		"dominanceSD": 2.37
+	},
+	"ankle": {
+		"valenceMean": 5.27,
+		"valenceSD": 1.54,
+		"arousalMean": 4.16,
+		"arousalSD": 2.03,
+		"dominanceMean": 4.77,
+		"dominanceSD": 1.74
+	},
+	"annoy": {
+		"valenceMean": 2.74,
+		"valenceSD": 1.81,
+		"arousalMean": 6.49,
+		"arousalSD": 2.17,
+		"dominanceMean": 5.09,
+		"dominanceSD": 2.04
+	},
+	"answer": {
+		"valenceMean": 6.63,
+		"valenceSD": 1.68,
+		"arousalMean": 5.41,
+		"arousalSD": 2.43,
+		"dominanceMean": 5.85,
+		"dominanceSD": 1.88
+	},
+	"anxious": {
+		"valenceMean": 4.81,
+		"valenceSD": 1.98,
+		"arousalMean": 6.92,
+		"arousalSD": 1.81,
+		"dominanceMean": 5.33,
+		"dominanceSD": 1.82
+	},
+	"applause": {
+		"valenceMean": 7.5,
+		"valenceSD": 1.5,
+		"arousalMean": 5.8,
+		"arousalSD": 2.79,
+		"dominanceMean": 6.48,
+		"dominanceSD": 2.11
+	},
+	"appliance": {
+		"valenceMean": 5.1,
+		"valenceSD": 1.21,
+		"arousalMean": 4.05,
+		"arousalSD": 2.06,
+		"dominanceMean": 5.05,
+		"dominanceSD": 1.34
+	},
+	"arm": {
+		"valenceMean": 5.34,
+		"valenceSD": 1.82,
+		"arousalMean": 3.59,
+		"arousalSD": 2.4,
+		"dominanceMean": 5.07,
+		"dominanceSD": 1.5
+	},
+	"army": {
+		"valenceMean": 4.72,
+		"valenceSD": 1.75,
+		"arousalMean": 5.03,
+		"arousalSD": 2.03,
+		"dominanceMean": 5.03,
+		"dominanceSD": 2.45
+	},
+	"aroused": {
+		"valenceMean": 7.97,
+		"valenceSD": 1.0,
+		"arousalMean": 6.63,
+		"arousalSD": 2.7,
+		"dominanceMean": 6.14,
+		"dominanceSD": 1.97
+	},
+	"arrogant": {
+		"valenceMean": 3.69,
+		"valenceSD": 2.4,
+		"arousalMean": 5.65,
+		"arousalSD": 2.23,
+		"dominanceMean": 5.14,
+		"dominanceSD": 2.71
+	},
+	"art": {
+		"valenceMean": 6.68,
+		"valenceSD": 2.1,
+		"arousalMean": 4.86,
+		"arousalSD": 2.88,
+		"dominanceMean": 5.3,
+		"dominanceSD": 2.33
+	},
+	"assassin": {
+		"valenceMean": 3.09,
+		"valenceSD": 2.09,
+		"arousalMean": 6.28,
+		"arousalSD": 2.53,
+		"dominanceMean": 4.33,
+		"dominanceSD": 2.68
+	},
+	"assault": {
+		"valenceMean": 2.03,
+		"valenceSD": 1.55,
+		"arousalMean": 7.51,
+		"arousalSD": 2.28,
+		"dominanceMean": 3.94,
+		"dominanceSD": 3.1
+	},
+	"astonished": {
+		"valenceMean": 6.56,
+		"valenceSD": 1.61,
+		"arousalMean": 6.58,
+		"arousalSD": 2.22,
+		"dominanceMean": 5.16,
+		"dominanceSD": 1.79
+	},
+	"astronaut": {
+		"valenceMean": 6.66,
+		"valenceSD": 1.6,
+		"arousalMean": 5.28,
+		"arousalSD": 2.11,
+		"dominanceMean": 5.2,
+		"dominanceSD": 1.95
+	},
+	"athletics": {
+		"valenceMean": 6.61,
+		"valenceSD": 2.08,
+		"arousalMean": 6.1,
+		"arousalSD": 2.29,
+		"dominanceMean": 6.12,
+		"dominanceSD": 2.12
+	},
+	"autumn": {
+		"valenceMean": 6.3,
+		"valenceSD": 2.14,
+		"arousalMean": 4.51,
+		"arousalSD": 2.5,
+		"dominanceMean": 5.15,
+		"dominanceSD": 1.85
+	},
+	"avalanche": {
+		"valenceMean": 3.29,
+		"valenceSD": 1.95,
+		"arousalMean": 5.54,
+		"arousalSD": 2.37,
+		"dominanceMean": 3.61,
+		"dominanceSD": 2.0
+	},
+	"avenue": {
+		"valenceMean": 5.5,
+		"valenceSD": 1.37,
+		"arousalMean": 4.12,
+		"arousalSD": 2.01,
+		"dominanceMean": 5.4,
+		"dominanceSD": 1.53
+	},
+	"awed": {
+		"valenceMean": 6.7,
+		"valenceSD": 1.38,
+		"arousalMean": 5.74,
+		"arousalSD": 2.31,
+		"dominanceMean": 5.3,
+		"dominanceSD": 2.03
+	},
+	"baby": {
+		"valenceMean": 8.22,
+		"valenceSD": 1.2,
+		"arousalMean": 5.53,
+		"arousalSD": 2.8,
+		"dominanceMean": 5.0,
+		"dominanceSD": 2.8
+	},
+	"bake": {
+		"valenceMean": 6.17,
+		"valenceSD": 1.71,
+		"arousalMean": 5.1,
+		"arousalSD": 2.3,
+		"dominanceMean": 5.49,
+		"dominanceSD": 1.88
+	},
+	"bandage": {
+		"valenceMean": 4.54,
+		"valenceSD": 1.75,
+		"arousalMean": 3.9,
+		"arousalSD": 2.07,
+		"dominanceMean": 4.52,
+		"dominanceSD": 1.89
+	},
+	"bankrupt": {
+		"valenceMean": 2.0,
+		"valenceSD": 1.31,
+		"arousalMean": 6.21,
+		"arousalSD": 2.79,
+		"dominanceMean": 3.27,
+		"dominanceSD": 2.39
+	},
+	"banner": {
+		"valenceMean": 5.4,
+		"valenceSD": 0.83,
+		"arousalMean": 3.83,
+		"arousalSD": 1.95,
+		"dominanceMean": 4.8,
+		"dominanceSD": 1.57
+	},
+	"bar": {
+		"valenceMean": 6.42,
+		"valenceSD": 2.05,
+		"arousalMean": 5.0,
+		"arousalSD": 2.83,
+		"dominanceMean": 5.47,
+		"dominanceSD": 1.94
+	},
+	"barrel": {
+		"valenceMean": 5.05,
+		"valenceSD": 1.46,
+		"arousalMean": 3.36,
+		"arousalSD": 2.28,
+		"dominanceMean": 4.89,
+		"dominanceSD": 1.57
+	},
+	"basket": {
+		"valenceMean": 5.45,
+		"valenceSD": 1.15,
+		"arousalMean": 3.63,
+		"arousalSD": 2.02,
+		"dominanceMean": 5.76,
+		"dominanceSD": 1.45
+	},
+	"bastard": {
+		"valenceMean": 3.36,
+		"valenceSD": 2.16,
+		"arousalMean": 6.07,
+		"arousalSD": 2.15,
+		"dominanceMean": 4.17,
+		"dominanceSD": 2.4
+	},
+	"bath": {
+		"valenceMean": 7.33,
+		"valenceSD": 1.45,
+		"arousalMean": 4.16,
+		"arousalSD": 2.31,
+		"dominanceMean": 6.41,
+		"dominanceSD": 1.87
+	},
+	"bathroom": {
+		"valenceMean": 5.55,
+		"valenceSD": 1.36,
+		"arousalMean": 3.88,
+		"arousalSD": 1.72,
+		"dominanceMean": 5.65,
+		"dominanceSD": 1.59
+	},
+	"bathtub": {
+		"valenceMean": 6.69,
+		"valenceSD": 1.57,
+		"arousalMean": 4.36,
+		"arousalSD": 2.59,
+		"dominanceMean": 5.76,
+		"dominanceSD": 1.76
+	},
+	"beach": {
+		"valenceMean": 8.03,
+		"valenceSD": 1.59,
+		"arousalMean": 5.53,
+		"arousalSD": 3.07,
+		"dominanceMean": 5.44,
+		"dominanceSD": 2.52
+	},
+	"beast": {
+		"valenceMean": 4.23,
+		"valenceSD": 2.41,
+		"arousalMean": 5.57,
+		"arousalSD": 2.61,
+		"dominanceMean": 4.89,
+		"dominanceSD": 2.29
+	},
+	"beautiful": {
+		"valenceMean": 7.6,
+		"valenceSD": 1.64,
+		"arousalMean": 6.17,
+		"arousalSD": 2.34,
+		"dominanceMean": 6.29,
+		"dominanceSD": 1.81
+	},
+	"beauty": {
+		"valenceMean": 7.82,
+		"valenceSD": 1.16,
+		"arousalMean": 4.95,
+		"arousalSD": 2.57,
+		"dominanceMean": 5.53,
+		"dominanceSD": 2.1
+	},
+	"bed": {
+		"valenceMean": 7.51,
+		"valenceSD": 1.38,
+		"arousalMean": 3.61,
+		"arousalSD": 2.56,
+		"dominanceMean": 6.88,
+		"dominanceSD": 1.78
+	},
+	"bees": {
+		"valenceMean": 3.2,
+		"valenceSD": 2.07,
+		"arousalMean": 6.51,
+		"arousalSD": 2.14,
+		"dominanceMean": 4.16,
+		"dominanceSD": 2.11
+	},
+	"beggar": {
+		"valenceMean": 3.22,
+		"valenceSD": 2.02,
+		"arousalMean": 4.91,
+		"arousalSD": 2.45,
+		"dominanceMean": 4.09,
+		"dominanceSD": 2.38
+	},
+	"bench": {
+		"valenceMean": 4.61,
+		"valenceSD": 1.4,
+		"arousalMean": 3.59,
+		"arousalSD": 2.07,
+		"dominanceMean": 4.68,
+		"dominanceSD": 1.38
+	},
+	"bereavement": {
+		"valenceMean": 4.57,
+		"valenceSD": 1.7,
+		"arousalMean": 4.2,
+		"arousalSD": 2.15,
+		"dominanceMean": 4.33,
+		"dominanceSD": 1.73
+	},
+	"betray": {
+		"valenceMean": 1.68,
+		"valenceSD": 1.02,
+		"arousalMean": 7.24,
+		"arousalSD": 2.06,
+		"dominanceMean": 4.92,
+		"dominanceSD": 2.97
+	},
+	"beverage": {
+		"valenceMean": 6.83,
+		"valenceSD": 1.48,
+		"arousalMean": 5.21,
+		"arousalSD": 2.46,
+		"dominanceMean": 5.63,
+		"dominanceSD": 2.17
+	},
+	"bird": {
+		"valenceMean": 7.27,
+		"valenceSD": 1.36,
+		"arousalMean": 3.17,
+		"arousalSD": 2.23,
+		"dominanceMean": 4.42,
+		"dominanceSD": 2.26
+	},
+	"birthday": {
+		"valenceMean": 7.84,
+		"valenceSD": 1.92,
+		"arousalMean": 6.68,
+		"arousalSD": 2.11,
+		"dominanceMean": 5.89,
+		"dominanceSD": 2.61
+	},
+	"black": {
+		"valenceMean": 5.39,
+		"valenceSD": 1.8,
+		"arousalMean": 4.61,
+		"arousalSD": 2.24,
+		"dominanceMean": 5.14,
+		"dominanceSD": 1.79
+	},
+	"blackmail": {
+		"valenceMean": 2.95,
+		"valenceSD": 1.95,
+		"arousalMean": 6.03,
+		"arousalSD": 2.7,
+		"dominanceMean": 3.54,
+		"dominanceSD": 2.67
+	},
+	"bland": {
+		"valenceMean": 4.1,
+		"valenceSD": 1.08,
+		"arousalMean": 3.29,
+		"arousalSD": 1.89,
+		"dominanceMean": 4.88,
+		"dominanceSD": 1.27
+	},
+	"blase": {
+		"valenceMean": 4.89,
+		"valenceSD": 1.16,
+		"arousalMean": 3.94,
+		"arousalSD": 1.76,
+		"dominanceMean": 4.57,
+		"dominanceSD": 1.44
+	},
+	"blasphemy": {
+		"valenceMean": 3.75,
+		"valenceSD": 2.26,
+		"arousalMean": 4.93,
+		"arousalSD": 2.34,
+		"dominanceMean": 4.75,
+		"dominanceSD": 1.59
+	},
+	"bless": {
+		"valenceMean": 7.19,
+		"valenceSD": 1.69,
+		"arousalMean": 4.05,
+		"arousalSD": 2.59,
+		"dominanceMean": 5.52,
+		"dominanceSD": 2.22
+	},
+	"blind": {
+		"valenceMean": 3.05,
+		"valenceSD": 1.99,
+		"arousalMean": 4.39,
+		"arousalSD": 2.36,
+		"dominanceMean": 3.28,
+		"dominanceSD": 1.91
+	},
+	"bliss": {
+		"valenceMean": 6.95,
+		"valenceSD": 2.24,
+		"arousalMean": 4.41,
+		"arousalSD": 2.95,
+		"dominanceMean": 6.12,
+		"dominanceSD": 2.15
+	},
+	"blister": {
+		"valenceMean": 2.88,
+		"valenceSD": 1.75,
+		"arousalMean": 4.1,
+		"arousalSD": 2.34,
+		"dominanceMean": 3.98,
+		"dominanceSD": 1.9
+	},
+	"blond": {
+		"valenceMean": 6.43,
+		"valenceSD": 2.04,
+		"arousalMean": 5.07,
+		"arousalSD": 2.7,
+		"dominanceMean": 5.74,
+		"dominanceSD": 1.67
+	},
+	"bloody": {
+		"valenceMean": 2.9,
+		"valenceSD": 1.98,
+		"arousalMean": 6.41,
+		"arousalSD": 2.0,
+		"dominanceMean": 3.96,
+		"dominanceSD": 1.89
+	},
+	"blossom": {
+		"valenceMean": 7.26,
+		"valenceSD": 1.18,
+		"arousalMean": 5.03,
+		"arousalSD": 2.65,
+		"dominanceMean": 5.53,
+		"dominanceSD": 2.21
+	},
+	"blubber": {
+		"valenceMean": 3.52,
+		"valenceSD": 1.99,
+		"arousalMean": 4.57,
+		"arousalSD": 2.38,
+		"dominanceMean": 3.86,
+		"dominanceSD": 1.97
+	},
+	"blue": {
+		"valenceMean": 6.76,
+		"valenceSD": 1.78,
+		"arousalMean": 4.31,
+		"arousalSD": 2.2,
+		"dominanceMean": 5.63,
+		"dominanceSD": 1.64
+	},
+	"board": {
+		"valenceMean": 4.82,
+		"valenceSD": 1.23,
+		"arousalMean": 3.36,
+		"arousalSD": 2.12,
+		"dominanceMean": 4.98,
+		"dominanceSD": 1.77
+	},
+	"body": {
+		"valenceMean": 5.55,
+		"valenceSD": 2.37,
+		"arousalMean": 5.52,
+		"arousalSD": 2.63,
+		"dominanceMean": 5.34,
+		"dominanceSD": 2.12
+	},
+	"bold": {
+		"valenceMean": 6.8,
+		"valenceSD": 1.61,
+		"arousalMean": 5.6,
+		"arousalSD": 2.21,
+		"dominanceMean": 6.67,
+		"dominanceSD": 1.81
+	},
+	"bomb": {
+		"valenceMean": 2.1,
+		"valenceSD": 1.19,
+		"arousalMean": 7.15,
+		"arousalSD": 2.4,
+		"dominanceMean": 4.54,
+		"dominanceSD": 2.88
+	},
+	"book": {
+		"valenceMean": 5.72,
+		"valenceSD": 1.54,
+		"arousalMean": 4.17,
+		"arousalSD": 2.49,
+		"dominanceMean": 5.3,
+		"dominanceSD": 2.05
+	},
+	"bored": {
+		"valenceMean": 2.95,
+		"valenceSD": 1.35,
+		"arousalMean": 2.83,
+		"arousalSD": 2.31,
+		"dominanceMean": 4.11,
+		"dominanceSD": 1.7
+	},
+	"bottle": {
+		"valenceMean": 6.15,
+		"valenceSD": 1.49,
+		"arousalMean": 4.79,
+		"arousalSD": 2.44,
+		"dominanceMean": 4.78,
+		"dominanceSD": 1.65
+	},
+	"bouquet": {
+		"valenceMean": 7.02,
+		"valenceSD": 1.84,
+		"arousalMean": 5.46,
+		"arousalSD": 2.47,
+		"dominanceMean": 6.15,
+		"dominanceSD": 1.8
+	},
+	"bowl": {
+		"valenceMean": 5.33,
+		"valenceSD": 1.33,
+		"arousalMean": 3.47,
+		"arousalSD": 2.12,
+		"dominanceMean": 4.69,
+		"dominanceSD": 1.67
+	},
+	"boxer": {
+		"valenceMean": 5.51,
+		"valenceSD": 1.8,
+		"arousalMean": 5.12,
+		"arousalSD": 2.26,
+		"dominanceMean": 5.1,
+		"dominanceSD": 1.64
+	},
+	"boy": {
+		"valenceMean": 6.32,
+		"valenceSD": 1.6,
+		"arousalMean": 4.58,
+		"arousalSD": 2.37,
+		"dominanceMean": 5.34,
+		"dominanceSD": 2.2
+	},
+	"brave": {
+		"valenceMean": 7.15,
+		"valenceSD": 1.64,
+		"arousalMean": 6.15,
+		"arousalSD": 2.45,
+		"dominanceMean": 7.22,
+		"dominanceSD": 1.86
+	},
+	"breast": {
+		"valenceMean": 6.5,
+		"valenceSD": 1.78,
+		"arousalMean": 5.37,
+		"arousalSD": 2.39,
+		"dominanceMean": 5.39,
+		"dominanceSD": 2.27
+	},
+	"breeze": {
+		"valenceMean": 6.85,
+		"valenceSD": 1.71,
+		"arousalMean": 4.37,
+		"arousalSD": 2.32,
+		"dominanceMean": 5.54,
+		"dominanceSD": 1.67
+	},
+	"bride": {
+		"valenceMean": 7.34,
+		"valenceSD": 1.71,
+		"arousalMean": 5.55,
+		"arousalSD": 2.74,
+		"dominanceMean": 5.74,
+		"dominanceSD": 2.36
+	},
+	"bright": {
+		"valenceMean": 7.5,
+		"valenceSD": 1.55,
+		"arousalMean": 5.4,
+		"arousalSD": 2.33,
+		"dominanceMean": 6.34,
+		"dominanceSD": 1.82
+	},
+	"broken": {
+		"valenceMean": 3.05,
+		"valenceSD": 1.92,
+		"arousalMean": 5.43,
+		"arousalSD": 2.42,
+		"dominanceMean": 4.14,
+		"dominanceSD": 1.62
+	},
+	"brother": {
+		"valenceMean": 7.11,
+		"valenceSD": 2.17,
+		"arousalMean": 4.71,
+		"arousalSD": 2.68,
+		"dominanceMean": 5.12,
+		"dominanceSD": 2.31
+	},
+	"brutal": {
+		"valenceMean": 2.8,
+		"valenceSD": 1.9,
+		"arousalMean": 6.6,
+		"arousalSD": 2.36,
+		"dominanceMean": 4.59,
+		"dominanceSD": 2.7
+	},
+	"building": {
+		"valenceMean": 5.29,
+		"valenceSD": 1.15,
+		"arousalMean": 3.92,
+		"arousalSD": 1.94,
+		"dominanceMean": 5.25,
+		"dominanceSD": 1.57
+	},
+	"bullet": {
+		"valenceMean": 3.29,
+		"valenceSD": 2.06,
+		"arousalMean": 5.33,
+		"arousalSD": 2.48,
+		"dominanceMean": 3.9,
+		"dominanceSD": 2.61
+	},
+	"bunny": {
+		"valenceMean": 7.24,
+		"valenceSD": 1.32,
+		"arousalMean": 4.06,
+		"arousalSD": 2.61,
+		"dominanceMean": 4.97,
+		"dominanceSD": 2.18
+	},
+	"burdened": {
+		"valenceMean": 2.5,
+		"valenceSD": 1.32,
+		"arousalMean": 5.63,
+		"arousalSD": 2.07,
+		"dominanceMean": 5.03,
+		"dominanceSD": 2.35
+	},
+	"burial": {
+		"valenceMean": 2.05,
+		"valenceSD": 1.41,
+		"arousalMean": 5.08,
+		"arousalSD": 2.4,
+		"dominanceMean": 3.55,
+		"dominanceSD": 1.95
+	},
+	"burn": {
+		"valenceMean": 2.73,
+		"valenceSD": 1.72,
+		"arousalMean": 6.22,
+		"arousalSD": 1.91,
+		"dominanceMean": 4.22,
+		"dominanceSD": 1.83
+	},
+	"bus": {
+		"valenceMean": 4.51,
+		"valenceSD": 1.57,
+		"arousalMean": 3.55,
+		"arousalSD": 1.8,
+		"dominanceMean": 4.84,
+		"dominanceSD": 1.75
+	},
+	"busybody": {
+		"valenceMean": 5.17,
+		"valenceSD": 2.02,
+		"arousalMean": 4.84,
+		"arousalSD": 2.41,
+		"dominanceMean": 5.45,
+		"dominanceSD": 1.97
+	},
+	"butter": {
+		"valenceMean": 5.33,
+		"valenceSD": 1.2,
+		"arousalMean": 3.17,
+		"arousalSD": 1.84,
+		"dominanceMean": 4.67,
+		"dominanceSD": 1.69
+	},
+	"butterfly": {
+		"valenceMean": 7.17,
+		"valenceSD": 1.2,
+		"arousalMean": 3.47,
+		"arousalSD": 2.39,
+		"dominanceMean": 4.65,
+		"dominanceSD": 2.27
+	},
+	"cabinet": {
+		"valenceMean": 5.05,
+		"valenceSD": 0.31,
+		"arousalMean": 3.43,
+		"arousalSD": 1.85,
+		"dominanceMean": 4.73,
+		"dominanceSD": 1.66
+	},
+	"cake": {
+		"valenceMean": 7.26,
+		"valenceSD": 1.27,
+		"arousalMean": 5.0,
+		"arousalSD": 2.37,
+		"dominanceMean": 5.16,
+		"dominanceSD": 2.05
+	},
+	"cancer": {
+		"valenceMean": 1.5,
+		"valenceSD": 0.85,
+		"arousalMean": 6.42,
+		"arousalSD": 2.83,
+		"dominanceMean": 3.42,
+		"dominanceSD": 2.99
+	},
+	"candy": {
+		"valenceMean": 6.54,
+		"valenceSD": 2.09,
+		"arousalMean": 4.58,
+		"arousalSD": 2.4,
+		"dominanceMean": 5.33,
+		"dominanceSD": 1.91
+	},
+	"cane": {
+		"valenceMean": 4.0,
+		"valenceSD": 1.8,
+		"arousalMean": 4.2,
+		"arousalSD": 1.93,
+		"dominanceMean": 4.27,
+		"dominanceSD": 1.95
+	},
+	"cannon": {
+		"valenceMean": 4.9,
+		"valenceSD": 2.2,
+		"arousalMean": 4.71,
+		"arousalSD": 2.84,
+		"dominanceMean": 5.17,
+		"dominanceSD": 2.29
+	},
+	"capable": {
+		"valenceMean": 7.16,
+		"valenceSD": 1.39,
+		"arousalMean": 5.08,
+		"arousalSD": 2.07,
+		"dominanceMean": 6.47,
+		"dominanceSD": 1.94
+	},
+	"car": {
+		"valenceMean": 7.73,
+		"valenceSD": 1.63,
+		"arousalMean": 6.24,
+		"arousalSD": 2.04,
+		"dominanceMean": 6.98,
+		"dominanceSD": 2.06
+	},
+	"carcass": {
+		"valenceMean": 3.34,
+		"valenceSD": 1.92,
+		"arousalMean": 4.83,
+		"arousalSD": 2.07,
+		"dominanceMean": 4.9,
+		"dominanceSD": 1.79
+	},
+	"carefree": {
+		"valenceMean": 7.54,
+		"valenceSD": 1.38,
+		"arousalMean": 4.17,
+		"arousalSD": 2.84,
+		"dominanceMean": 5.78,
+		"dominanceSD": 2.5
+	},
+	"caress": {
+		"valenceMean": 7.84,
+		"valenceSD": 1.16,
+		"arousalMean": 5.14,
+		"arousalSD": 3.0,
+		"dominanceMean": 5.83,
+		"dominanceSD": 2.13
+	},
+	"cash": {
+		"valenceMean": 8.37,
+		"valenceSD": 1.0,
+		"arousalMean": 7.37,
+		"arousalSD": 2.21,
+		"dominanceMean": 6.96,
+		"dominanceSD": 2.39
+	},
+	"casino": {
+		"valenceMean": 6.81,
+		"valenceSD": 1.66,
+		"arousalMean": 6.51,
+		"arousalSD": 2.12,
+		"dominanceMean": 5.12,
+		"dominanceSD": 2.15
+	},
+	"cat": {
+		"valenceMean": 5.72,
+		"valenceSD": 2.43,
+		"arousalMean": 4.38,
+		"arousalSD": 2.24,
+		"dominanceMean": 6.16,
+		"dominanceSD": 2.05
+	},
+	"cell": {
+		"valenceMean": 3.82,
+		"valenceSD": 1.7,
+		"arousalMean": 4.08,
+		"arousalSD": 2.19,
+		"dominanceMean": 4.12,
+		"dominanceSD": 2.13
+	},
+	"cellar": {
+		"valenceMean": 4.32,
+		"valenceSD": 1.68,
+		"arousalMean": 4.39,
+		"arousalSD": 2.33,
+		"dominanceMean": 4.66,
+		"dominanceSD": 1.61
+	},
+	"cemetery": {
+		"valenceMean": 2.63,
+		"valenceSD": 1.4,
+		"arousalMean": 4.82,
+		"arousalSD": 2.66,
+		"dominanceMean": 4.27,
+		"dominanceSD": 2.14
+	},
+	"chair": {
+		"valenceMean": 5.08,
+		"valenceSD": 0.98,
+		"arousalMean": 3.15,
+		"arousalSD": 1.77,
+		"dominanceMean": 4.56,
+		"dominanceSD": 1.6
+	},
+	"champ": {
+		"valenceMean": 7.18,
+		"valenceSD": 1.97,
+		"arousalMean": 6.0,
+		"arousalSD": 2.43,
+		"dominanceMean": 6.77,
+		"dominanceSD": 2.0
+	},
+	"champion": {
+		"valenceMean": 8.44,
+		"valenceSD": 0.9,
+		"arousalMean": 5.85,
+		"arousalSD": 3.15,
+		"dominanceMean": 6.5,
+		"dominanceSD": 2.85
+	},
+	"chance": {
+		"valenceMean": 6.02,
+		"valenceSD": 1.77,
+		"arousalMean": 5.38,
+		"arousalSD": 2.58,
+		"dominanceMean": 4.64,
+		"dominanceSD": 1.93
+	},
+	"chaos": {
+		"valenceMean": 4.17,
+		"valenceSD": 2.36,
+		"arousalMean": 6.67,
+		"arousalSD": 2.06,
+		"dominanceMean": 3.86,
+		"dominanceSD": 1.95
+	},
+	"charm": {
+		"valenceMean": 6.77,
+		"valenceSD": 1.58,
+		"arousalMean": 5.16,
+		"arousalSD": 2.25,
+		"dominanceMean": 5.57,
+		"dominanceSD": 2.25
+	},
+	"cheer": {
+		"valenceMean": 8.1,
+		"valenceSD": 1.17,
+		"arousalMean": 6.12,
+		"arousalSD": 2.45,
+		"dominanceMean": 6.0,
+		"dominanceSD": 2.06
+	},
+	"child": {
+		"valenceMean": 7.08,
+		"valenceSD": 1.98,
+		"arousalMean": 5.55,
+		"arousalSD": 2.29,
+		"dominanceMean": 5.1,
+		"dominanceSD": 2.3
+	},
+	"chin": {
+		"valenceMean": 5.29,
+		"valenceSD": 1.27,
+		"arousalMean": 3.31,
+		"arousalSD": 1.98,
+		"dominanceMean": 5.26,
+		"dominanceSD": 1.48
+	},
+	"chocolate": {
+		"valenceMean": 6.88,
+		"valenceSD": 1.89,
+		"arousalMean": 5.29,
+		"arousalSD": 2.55,
+		"dominanceMean": 5.18,
+		"dominanceSD": 1.97
+	},
+	"christmas": {
+		"valenceMean": 7.8,
+		"valenceSD": 1.55,
+		"arousalMean": 6.27,
+		"arousalSD": 2.56,
+		"dominanceMean": 5.37,
+		"dominanceSD": 2.09
+	},
+	"church": {
+		"valenceMean": 6.28,
+		"valenceSD": 2.31,
+		"arousalMean": 4.34,
+		"arousalSD": 2.45,
+		"dominanceMean": 5.0,
+		"dominanceSD": 2.42
+	},
+	"circle": {
+		"valenceMean": 5.67,
+		"valenceSD": 1.26,
+		"arousalMean": 3.86,
+		"arousalSD": 2.13,
+		"dominanceMean": 5.03,
+		"dominanceSD": 1.46
+	},
+	"circus": {
+		"valenceMean": 7.3,
+		"valenceSD": 1.84,
+		"arousalMean": 5.97,
+		"arousalSD": 2.59,
+		"dominanceMean": 5.39,
+		"dominanceSD": 2.25
+	},
+	"city": {
+		"valenceMean": 6.03,
+		"valenceSD": 1.37,
+		"arousalMean": 5.24,
+		"arousalSD": 2.53,
+		"dominanceMean": 5.74,
+		"dominanceSD": 2.08
+	},
+	"cliff": {
+		"valenceMean": 4.67,
+		"valenceSD": 2.08,
+		"arousalMean": 6.25,
+		"arousalSD": 2.15,
+		"dominanceMean": 4.35,
+		"dominanceSD": 2.11
+	},
+	"clock": {
+		"valenceMean": 5.14,
+		"valenceSD": 1.54,
+		"arousalMean": 4.02,
+		"arousalSD": 2.54,
+		"dominanceMean": 4.67,
+		"dominanceSD": 1.97
+	},
+	"clothing": {
+		"valenceMean": 6.54,
+		"valenceSD": 1.85,
+		"arousalMean": 4.78,
+		"arousalSD": 2.88,
+		"dominanceMean": 5.33,
+		"dominanceSD": 2.14
+	},
+	"clouds": {
+		"valenceMean": 6.18,
+		"valenceSD": 2.18,
+		"arousalMean": 3.3,
+		"arousalSD": 2.08,
+		"dominanceMean": 5.22,
+		"dominanceSD": 1.66
+	},
+	"clumsy": {
+		"valenceMean": 4.0,
+		"valenceSD": 2.22,
+		"arousalMean": 5.18,
+		"arousalSD": 2.4,
+		"dominanceMean": 3.86,
+		"dominanceSD": 1.79
+	},
+	"coarse": {
+		"valenceMean": 4.55,
+		"valenceSD": 1.42,
+		"arousalMean": 4.21,
+		"arousalSD": 1.84,
+		"dominanceMean": 5.0,
+		"dominanceSD": 1.43
+	},
+	"coast": {
+		"valenceMean": 5.98,
+		"valenceSD": 1.86,
+		"arousalMean": 4.59,
+		"arousalSD": 2.31,
+		"dominanceMean": 5.67,
+		"dominanceSD": 1.71
+	},
+	"cockroach": {
+		"valenceMean": 2.81,
+		"valenceSD": 2.11,
+		"arousalMean": 6.11,
+		"arousalSD": 2.78,
+		"dominanceMean": 4.74,
+		"dominanceSD": 2.58
+	},
+	"coffin": {
+		"valenceMean": 2.56,
+		"valenceSD": 1.96,
+		"arousalMean": 5.03,
+		"arousalSD": 2.79,
+		"dominanceMean": 4.08,
+		"dominanceSD": 2.54
+	},
+	"coin": {
+		"valenceMean": 6.02,
+		"valenceSD": 1.96,
+		"arousalMean": 4.29,
+		"arousalSD": 2.48,
+		"dominanceMean": 5.66,
+		"dominanceSD": 1.68
+	},
+	"cold": {
+		"valenceMean": 4.02,
+		"valenceSD": 1.99,
+		"arousalMean": 5.19,
+		"arousalSD": 2.23,
+		"dominanceMean": 4.69,
+		"dominanceSD": 1.73
+	},
+	"color": {
+		"valenceMean": 7.02,
+		"valenceSD": 1.57,
+		"arousalMean": 4.73,
+		"arousalSD": 2.64,
+		"dominanceMean": 6.17,
+		"dominanceSD": 1.82
+	},
+	"column": {
+		"valenceMean": 5.17,
+		"valenceSD": 0.85,
+		"arousalMean": 3.62,
+		"arousalSD": 1.91,
+		"dominanceMean": 4.81,
+		"dominanceSD": 1.58
+	},
+	"comedy": {
+		"valenceMean": 8.37,
+		"valenceSD": 0.94,
+		"arousalMean": 5.85,
+		"arousalSD": 2.81,
+		"dominanceMean": 5.44,
+		"dominanceSD": 2.08
+	},
+	"comfort": {
+		"valenceMean": 7.07,
+		"valenceSD": 2.14,
+		"arousalMean": 3.93,
+		"arousalSD": 2.85,
+		"dominanceMean": 5.7,
+		"dominanceSD": 2.05
+	},
+	"computer": {
+		"valenceMean": 6.24,
+		"valenceSD": 1.61,
+		"arousalMean": 4.75,
+		"arousalSD": 1.93,
+		"dominanceMean": 5.29,
+		"dominanceSD": 1.99
+	},
+	"concentrate": {
+		"valenceMean": 5.2,
+		"valenceSD": 1.28,
+		"arousalMean": 4.65,
+		"arousalSD": 2.13,
+		"dominanceMean": 4.97,
+		"dominanceSD": 1.75
+	},
+	"confident": {
+		"valenceMean": 7.98,
+		"valenceSD": 1.29,
+		"arousalMean": 6.22,
+		"arousalSD": 2.41,
+		"dominanceMean": 7.68,
+		"dominanceSD": 1.94
+	},
+	"confused": {
+		"valenceMean": 3.21,
+		"valenceSD": 1.51,
+		"arousalMean": 6.03,
+		"arousalSD": 1.88,
+		"dominanceMean": 4.24,
+		"dominanceSD": 1.91
+	},
+	"consoled": {
+		"valenceMean": 5.78,
+		"valenceSD": 1.64,
+		"arousalMean": 4.53,
+		"arousalSD": 2.22,
+		"dominanceMean": 4.44,
+		"dominanceSD": 1.84
+	},
+	"contempt": {
+		"valenceMean": 3.85,
+		"valenceSD": 2.13,
+		"arousalMean": 5.28,
+		"arousalSD": 2.04,
+		"dominanceMean": 5.13,
+		"dominanceSD": 1.73
+	},
+	"contents": {
+		"valenceMean": 4.89,
+		"valenceSD": 0.89,
+		"arousalMean": 4.32,
+		"arousalSD": 2.14,
+		"dominanceMean": 4.85,
+		"dominanceSD": 1.49
+	},
+	"context": {
+		"valenceMean": 5.2,
+		"valenceSD": 1.38,
+		"arousalMean": 4.22,
+		"arousalSD": 2.24,
+		"dominanceMean": 5.17,
+		"dominanceSD": 1.39
+	},
+	"controlling": {
+		"valenceMean": 3.8,
+		"valenceSD": 2.25,
+		"arousalMean": 6.1,
+		"arousalSD": 2.19,
+		"dominanceMean": 5.17,
+		"dominanceSD": 3.15
+	},
+	"cook": {
+		"valenceMean": 6.16,
+		"valenceSD": 1.89,
+		"arousalMean": 4.44,
+		"arousalSD": 1.96,
+		"dominanceMean": 5.14,
+		"dominanceSD": 1.49
+	},
+	"cord": {
+		"valenceMean": 5.1,
+		"valenceSD": 1.09,
+		"arousalMean": 3.54,
+		"arousalSD": 2.09,
+		"dominanceMean": 5.0,
+		"dominanceSD": 1.22
+	},
+	"cork": {
+		"valenceMean": 5.22,
+		"valenceSD": 1.13,
+		"arousalMean": 3.8,
+		"arousalSD": 2.18,
+		"dominanceMean": 4.98,
+		"dominanceSD": 1.04
+	},
+	"corner": {
+		"valenceMean": 4.36,
+		"valenceSD": 1.21,
+		"arousalMean": 3.91,
+		"arousalSD": 1.92,
+		"dominanceMean": 4.12,
+		"dominanceSD": 1.66
+	},
+	"corpse": {
+		"valenceMean": 2.18,
+		"valenceSD": 1.48,
+		"arousalMean": 4.74,
+		"arousalSD": 2.94,
+		"dominanceMean": 3.59,
+		"dominanceSD": 2.44
+	},
+	"corridor": {
+		"valenceMean": 4.88,
+		"valenceSD": 1.14,
+		"arousalMean": 3.63,
+		"arousalSD": 2.41,
+		"dominanceMean": 5.0,
+		"dominanceSD": 1.48
+	},
+	"corrupt": {
+		"valenceMean": 3.32,
+		"valenceSD": 2.32,
+		"arousalMean": 4.67,
+		"arousalSD": 2.35,
+		"dominanceMean": 4.64,
+		"dominanceSD": 2.3
+	},
+	"cottage": {
+		"valenceMean": 6.45,
+		"valenceSD": 1.52,
+		"arousalMean": 3.39,
+		"arousalSD": 2.54,
+		"dominanceMean": 5.39,
+		"dominanceSD": 1.78
+	},
+	"couple": {
+		"valenceMean": 7.41,
+		"valenceSD": 1.97,
+		"arousalMean": 6.39,
+		"arousalSD": 2.31,
+		"dominanceMean": 6.02,
+		"dominanceSD": 2.28
+	},
+	"cow": {
+		"valenceMean": 5.57,
+		"valenceSD": 1.53,
+		"arousalMean": 3.49,
+		"arousalSD": 2.13,
+		"dominanceMean": 5.32,
+		"dominanceSD": 1.61
+	},
+	"coward": {
+		"valenceMean": 2.74,
+		"valenceSD": 1.64,
+		"arousalMean": 4.07,
+		"arousalSD": 2.19,
+		"dominanceMean": 2.83,
+		"dominanceSD": 1.61
+	},
+	"cozy": {
+		"valenceMean": 7.39,
+		"valenceSD": 1.53,
+		"arousalMean": 3.32,
+		"arousalSD": 2.28,
+		"dominanceMean": 4.89,
+		"dominanceSD": 2.28
+	},
+	"crash": {
+		"valenceMean": 2.31,
+		"valenceSD": 1.44,
+		"arousalMean": 6.95,
+		"arousalSD": 2.44,
+		"dominanceMean": 3.44,
+		"dominanceSD": 2.21
+	},
+	"crime": {
+		"valenceMean": 2.89,
+		"valenceSD": 2.06,
+		"arousalMean": 5.41,
+		"arousalSD": 2.69,
+		"dominanceMean": 4.12,
+		"dominanceSD": 2.24
+	},
+	"criminal": {
+		"valenceMean": 2.93,
+		"valenceSD": 1.66,
+		"arousalMean": 4.79,
+		"arousalSD": 2.51,
+		"dominanceMean": 3.34,
+		"dominanceSD": 1.73
+	},
+	"crisis": {
+		"valenceMean": 2.74,
+		"valenceSD": 2.23,
+		"arousalMean": 5.44,
+		"arousalSD": 3.07,
+		"dominanceMean": 3.6,
+		"dominanceSD": 2.47
+	},
+	"crown": {
+		"valenceMean": 6.58,
+		"valenceSD": 1.42,
+		"arousalMean": 4.28,
+		"arousalSD": 2.53,
+		"dominanceMean": 6.06,
+		"dominanceSD": 2.15
+	},
+	"crucify": {
+		"valenceMean": 2.23,
+		"valenceSD": 1.72,
+		"arousalMean": 6.47,
+		"arousalSD": 2.47,
+		"dominanceMean": 3.74,
+		"dominanceSD": 2.48
+	},
+	"crude": {
+		"valenceMean": 3.12,
+		"valenceSD": 1.65,
+		"arousalMean": 5.07,
+		"arousalSD": 2.37,
+		"dominanceMean": 4.27,
+		"dominanceSD": 1.94
+	},
+	"cruel": {
+		"valenceMean": 1.97,
+		"valenceSD": 1.67,
+		"arousalMean": 5.68,
+		"arousalSD": 2.65,
+		"dominanceMean": 4.24,
+		"dominanceSD": 2.84
+	},
+	"crushed": {
+		"valenceMean": 2.21,
+		"valenceSD": 1.74,
+		"arousalMean": 5.52,
+		"arousalSD": 2.87,
+		"dominanceMean": 3.36,
+		"dominanceSD": 2.69
+	},
+	"crutch": {
+		"valenceMean": 3.43,
+		"valenceSD": 1.62,
+		"arousalMean": 4.14,
+		"arousalSD": 2.05,
+		"dominanceMean": 3.91,
+		"dominanceSD": 1.79
+	},
+	"cuddle": {
+		"valenceMean": 7.72,
+		"valenceSD": 1.92,
+		"arousalMean": 4.4,
+		"arousalSD": 2.67,
+		"dominanceMean": 5.85,
+		"dominanceSD": 2.42
+	},
+	"cuisine": {
+		"valenceMean": 6.64,
+		"valenceSD": 1.48,
+		"arousalMean": 4.39,
+		"arousalSD": 1.99,
+		"dominanceMean": 5.41,
+		"dominanceSD": 1.19
+	},
+	"curious": {
+		"valenceMean": 6.08,
+		"valenceSD": 1.63,
+		"arousalMean": 5.82,
+		"arousalSD": 1.64,
+		"dominanceMean": 5.42,
+		"dominanceSD": 1.6
+	},
+	"curtains": {
+		"valenceMean": 4.83,
+		"valenceSD": 0.83,
+		"arousalMean": 3.67,
+		"arousalSD": 1.83,
+		"dominanceMean": 5.05,
+		"dominanceSD": 1.56
+	},
+	"custom": {
+		"valenceMean": 5.85,
+		"valenceSD": 1.53,
+		"arousalMean": 4.66,
+		"arousalSD": 2.12,
+		"dominanceMean": 5.0,
+		"dominanceSD": 1.87
+	},
+	"cut": {
+		"valenceMean": 3.64,
+		"valenceSD": 2.08,
+		"arousalMean": 5.0,
+		"arousalSD": 2.32,
+		"dominanceMean": 4.7,
+		"dominanceSD": 1.98
+	},
+	"cute": {
+		"valenceMean": 7.62,
+		"valenceSD": 1.01,
+		"arousalMean": 5.53,
+		"arousalSD": 2.71,
+		"dominanceMean": 4.86,
+		"dominanceSD": 2.32
+	},
+	"cyclone": {
+		"valenceMean": 3.6,
+		"valenceSD": 2.38,
+		"arousalMean": 6.36,
+		"arousalSD": 2.89,
+		"dominanceMean": 4.89,
+		"dominanceSD": 2.56
+	},
+	"dagger": {
+		"valenceMean": 3.38,
+		"valenceSD": 1.77,
+		"arousalMean": 6.14,
+		"arousalSD": 2.64,
+		"dominanceMean": 4.52,
+		"dominanceSD": 2.27
+	},
+	"damage": {
+		"valenceMean": 3.05,
+		"valenceSD": 1.65,
+		"arousalMean": 5.57,
+		"arousalSD": 2.26,
+		"dominanceMean": 3.88,
+		"dominanceSD": 1.86
+	},
+	"dancer": {
+		"valenceMean": 7.14,
+		"valenceSD": 1.56,
+		"arousalMean": 6.0,
+		"arousalSD": 2.2,
+		"dominanceMean": 6.02,
+		"dominanceSD": 1.93
+	},
+	"danger": {
+		"valenceMean": 2.95,
+		"valenceSD": 2.22,
+		"arousalMean": 7.32,
+		"arousalSD": 2.07,
+		"dominanceMean": 3.59,
+		"dominanceSD": 2.31
+	},
+	"dark": {
+		"valenceMean": 4.71,
+		"valenceSD": 2.36,
+		"arousalMean": 4.28,
+		"arousalSD": 2.21,
+		"dominanceMean": 4.84,
+		"dominanceSD": 2.15
+	},
+	"dawn": {
+		"valenceMean": 6.16,
+		"valenceSD": 2.33,
+		"arousalMean": 4.39,
+		"arousalSD": 2.81,
+		"dominanceMean": 5.16,
+		"dominanceSD": 2.23
+	},
+	"daylight": {
+		"valenceMean": 6.8,
+		"valenceSD": 2.17,
+		"arousalMean": 4.77,
+		"arousalSD": 2.5,
+		"dominanceMean": 5.48,
+		"dominanceSD": 2.14
+	},
+	"dazzle": {
+		"valenceMean": 7.29,
+		"valenceSD": 1.09,
+		"arousalMean": 6.33,
+		"arousalSD": 2.02,
+		"dominanceMean": 5.62,
+		"dominanceSD": 1.81
+	},
+	"dead": {
+		"valenceMean": 1.94,
+		"valenceSD": 1.76,
+		"arousalMean": 5.73,
+		"arousalSD": 2.73,
+		"dominanceMean": 2.84,
+		"dominanceSD": 2.32
+	},
+	"death": {
+		"valenceMean": 1.61,
+		"valenceSD": 1.4,
+		"arousalMean": 4.59,
+		"arousalSD": 3.07,
+		"dominanceMean": 3.47,
+		"dominanceSD": 2.5
+	},
+	"debt": {
+		"valenceMean": 2.22,
+		"valenceSD": 1.17,
+		"arousalMean": 5.68,
+		"arousalSD": 2.74,
+		"dominanceMean": 3.02,
+		"dominanceSD": 2.16
+	},
+	"deceit": {
+		"valenceMean": 2.9,
+		"valenceSD": 1.63,
+		"arousalMean": 5.68,
+		"arousalSD": 2.46,
+		"dominanceMean": 3.95,
+		"dominanceSD": 2.12
+	},
+	"decompose": {
+		"valenceMean": 3.2,
+		"valenceSD": 1.81,
+		"arousalMean": 4.65,
+		"arousalSD": 2.39,
+		"dominanceMean": 4.02,
+		"dominanceSD": 1.91
+	},
+	"decorate": {
+		"valenceMean": 6.93,
+		"valenceSD": 1.3,
+		"arousalMean": 5.14,
+		"arousalSD": 2.39,
+		"dominanceMean": 6.05,
+		"dominanceSD": 1.86
+	},
+	"defeated": {
+		"valenceMean": 2.34,
+		"valenceSD": 1.66,
+		"arousalMean": 5.09,
+		"arousalSD": 3.0,
+		"dominanceMean": 3.11,
+		"dominanceSD": 2.34
+	},
+	"defiant": {
+		"valenceMean": 4.26,
+		"valenceSD": 2.12,
+		"arousalMean": 6.1,
+		"arousalSD": 2.51,
+		"dominanceMean": 5.77,
+		"dominanceSD": 2.4
+	},
+	"deformed": {
+		"valenceMean": 2.41,
+		"valenceSD": 1.66,
+		"arousalMean": 4.07,
+		"arousalSD": 2.34,
+		"dominanceMean": 3.95,
+		"dominanceSD": 2.18
+	},
+	"delayed": {
+		"valenceMean": 3.07,
+		"valenceSD": 1.74,
+		"arousalMean": 5.62,
+		"arousalSD": 2.39,
+		"dominanceMean": 3.64,
+		"dominanceSD": 1.94
+	},
+	"delight": {
+		"valenceMean": 8.26,
+		"valenceSD": 1.04,
+		"arousalMean": 5.44,
+		"arousalSD": 2.88,
+		"dominanceMean": 5.79,
+		"dominanceSD": 2.24
+	},
+	"demon": {
+		"valenceMean": 2.11,
+		"valenceSD": 1.56,
+		"arousalMean": 6.76,
+		"arousalSD": 2.68,
+		"dominanceMean": 4.89,
+		"dominanceSD": 2.89
+	},
+	"dentist": {
+		"valenceMean": 4.02,
+		"valenceSD": 2.23,
+		"arousalMean": 5.73,
+		"arousalSD": 2.13,
+		"dominanceMean": 3.8,
+		"dominanceSD": 2.16
+	},
+	"depressed": {
+		"valenceMean": 1.83,
+		"valenceSD": 1.42,
+		"arousalMean": 4.72,
+		"arousalSD": 2.95,
+		"dominanceMean": 2.74,
+		"dominanceSD": 2.13
+	},
+	"depression": {
+		"valenceMean": 1.85,
+		"valenceSD": 1.67,
+		"arousalMean": 4.54,
+		"arousalSD": 3.19,
+		"dominanceMean": 2.91,
+		"dominanceSD": 2.27
+	},
+	"derelict": {
+		"valenceMean": 4.28,
+		"valenceSD": 1.84,
+		"arousalMean": 4.1,
+		"arousalSD": 1.94,
+		"dominanceMean": 4.78,
+		"dominanceSD": 1.56
+	},
+	"deserter": {
+		"valenceMean": 2.45,
+		"valenceSD": 1.8,
+		"arousalMean": 5.5,
+		"arousalSD": 2.55,
+		"dominanceMean": 3.77,
+		"dominanceSD": 2.29
+	},
+	"desire": {
+		"valenceMean": 7.69,
+		"valenceSD": 1.39,
+		"arousalMean": 7.35,
+		"arousalSD": 1.76,
+		"dominanceMean": 6.49,
+		"dominanceSD": 1.83
+	},
+	"despairing": {
+		"valenceMean": 2.43,
+		"valenceSD": 1.47,
+		"arousalMean": 5.68,
+		"arousalSD": 2.37,
+		"dominanceMean": 3.43,
+		"dominanceSD": 2.11
+	},
+	"despise": {
+		"valenceMean": 2.03,
+		"valenceSD": 1.38,
+		"arousalMean": 6.28,
+		"arousalSD": 2.43,
+		"dominanceMean": 4.72,
+		"dominanceSD": 2.8
+	},
+	"destroy": {
+		"valenceMean": 2.64,
+		"valenceSD": 2.03,
+		"arousalMean": 6.83,
+		"arousalSD": 2.38,
+		"dominanceMean": 4.94,
+		"dominanceSD": 2.86
+	},
+	"destruction": {
+		"valenceMean": 3.16,
+		"valenceSD": 2.44,
+		"arousalMean": 5.82,
+		"arousalSD": 2.71,
+		"dominanceMean": 3.93,
+		"dominanceSD": 2.29
+	},
+	"detached": {
+		"valenceMean": 3.86,
+		"valenceSD": 1.88,
+		"arousalMean": 4.26,
+		"arousalSD": 2.57,
+		"dominanceMean": 3.63,
+		"dominanceSD": 2.15
+	},
+	"detail": {
+		"valenceMean": 5.55,
+		"valenceSD": 1.58,
+		"arousalMean": 4.1,
+		"arousalSD": 2.24,
+		"dominanceMean": 5.21,
+		"dominanceSD": 1.6
+	},
+	"detest": {
+		"valenceMean": 2.17,
+		"valenceSD": 1.3,
+		"arousalMean": 6.06,
+		"arousalSD": 2.39,
+		"dominanceMean": 5.83,
+		"dominanceSD": 2.6
+	},
+	"devil": {
+		"valenceMean": 2.21,
+		"valenceSD": 1.99,
+		"arousalMean": 6.07,
+		"arousalSD": 2.61,
+		"dominanceMean": 5.35,
+		"dominanceSD": 2.75
+	},
+	"devoted": {
+		"valenceMean": 7.41,
+		"valenceSD": 1.37,
+		"arousalMean": 5.23,
+		"arousalSD": 2.21,
+		"dominanceMean": 6.18,
+		"dominanceSD": 2.36
+	},
+	"diamond": {
+		"valenceMean": 7.92,
+		"valenceSD": 1.2,
+		"arousalMean": 5.53,
+		"arousalSD": 2.96,
+		"dominanceMean": 5.54,
+		"dominanceSD": 2.28
+	},
+	"dignified": {
+		"valenceMean": 7.1,
+		"valenceSD": 1.26,
+		"arousalMean": 4.12,
+		"arousalSD": 2.29,
+		"dominanceMean": 6.12,
+		"dominanceSD": 2.4
+	},
+	"dinner": {
+		"valenceMean": 7.16,
+		"valenceSD": 1.5,
+		"arousalMean": 5.43,
+		"arousalSD": 2.14,
+		"dominanceMean": 6.1,
+		"dominanceSD": 1.87
+	},
+	"diploma": {
+		"valenceMean": 8.0,
+		"valenceSD": 1.39,
+		"arousalMean": 5.67,
+		"arousalSD": 2.8,
+		"dominanceMean": 6.76,
+		"dominanceSD": 2.5
+	},
+	"dirt": {
+		"valenceMean": 4.17,
+		"valenceSD": 1.77,
+		"arousalMean": 3.76,
+		"arousalSD": 2.26,
+		"dominanceMean": 4.83,
+		"dominanceSD": 1.82
+	},
+	"dirty": {
+		"valenceMean": 3.08,
+		"valenceSD": 2.05,
+		"arousalMean": 4.88,
+		"arousalSD": 2.29,
+		"dominanceMean": 4.7,
+		"dominanceSD": 2.12
+	},
+	"disappoint": {
+		"valenceMean": 2.39,
+		"valenceSD": 1.44,
+		"arousalMean": 4.92,
+		"arousalSD": 2.64,
+		"dominanceMean": 3.29,
+		"dominanceSD": 2.32
+	},
+	"disaster": {
+		"valenceMean": 1.73,
+		"valenceSD": 1.13,
+		"arousalMean": 6.33,
+		"arousalSD": 2.7,
+		"dominanceMean": 3.52,
+		"dominanceSD": 2.42
+	},
+	"discomfort": {
+		"valenceMean": 2.19,
+		"valenceSD": 1.23,
+		"arousalMean": 4.17,
+		"arousalSD": 2.44,
+		"dominanceMean": 3.86,
+		"dominanceSD": 2.26
+	},
+	"discouraged": {
+		"valenceMean": 3.0,
+		"valenceSD": 2.16,
+		"arousalMean": 4.53,
+		"arousalSD": 2.11,
+		"dominanceMean": 3.61,
+		"dominanceSD": 2.01
+	},
+	"disdainful": {
+		"valenceMean": 3.68,
+		"valenceSD": 1.9,
+		"arousalMean": 5.04,
+		"arousalSD": 2.14,
+		"dominanceMean": 4.55,
+		"dominanceSD": 1.92
+	},
+	"disgusted": {
+		"valenceMean": 2.45,
+		"valenceSD": 1.41,
+		"arousalMean": 5.42,
+		"arousalSD": 2.59,
+		"dominanceMean": 4.34,
+		"dominanceSD": 1.94
+	},
+	"disloyal": {
+		"valenceMean": 1.93,
+		"valenceSD": 1.61,
+		"arousalMean": 6.56,
+		"arousalSD": 2.21,
+		"dominanceMean": 3.79,
+		"dominanceSD": 2.75
+	},
+	"displeased": {
+		"valenceMean": 2.79,
+		"valenceSD": 2.23,
+		"arousalMean": 5.64,
+		"arousalSD": 2.48,
+		"dominanceMean": 4.19,
+		"dominanceSD": 2.19
+	},
+	"distressed": {
+		"valenceMean": 1.94,
+		"valenceSD": 1.1,
+		"arousalMean": 6.4,
+		"arousalSD": 2.38,
+		"dominanceMean": 3.76,
+		"dominanceSD": 2.41
+	},
+	"disturb": {
+		"valenceMean": 3.66,
+		"valenceSD": 2.0,
+		"arousalMean": 5.8,
+		"arousalSD": 2.39,
+		"dominanceMean": 4.55,
+		"dominanceSD": 1.9
+	},
+	"diver": {
+		"valenceMean": 6.45,
+		"valenceSD": 1.55,
+		"arousalMean": 5.04,
+		"arousalSD": 2.1,
+		"dominanceMean": 5.04,
+		"dominanceSD": 1.91
+	},
+	"divorce": {
+		"valenceMean": 2.22,
+		"valenceSD": 1.88,
+		"arousalMean": 6.33,
+		"arousalSD": 2.71,
+		"dominanceMean": 3.26,
+		"dominanceSD": 2.24
+	},
+	"doctor": {
+		"valenceMean": 5.2,
+		"valenceSD": 2.54,
+		"arousalMean": 5.86,
+		"arousalSD": 2.7,
+		"dominanceMean": 4.89,
+		"dominanceSD": 2.75
+	},
+	"dog": {
+		"valenceMean": 7.57,
+		"valenceSD": 1.66,
+		"arousalMean": 5.76,
+		"arousalSD": 2.5,
+		"dominanceMean": 6.25,
+		"dominanceSD": 2.1
+	},
+	"doll": {
+		"valenceMean": 6.09,
+		"valenceSD": 1.96,
+		"arousalMean": 4.24,
+		"arousalSD": 2.43,
+		"dominanceMean": 4.61,
+		"dominanceSD": 2.07
+	},
+	"dollar": {
+		"valenceMean": 7.47,
+		"valenceSD": 1.72,
+		"arousalMean": 6.07,
+		"arousalSD": 2.67,
+		"dominanceMean": 6.33,
+		"dominanceSD": 2.42
+	},
+	"door": {
+		"valenceMean": 5.13,
+		"valenceSD": 1.44,
+		"arousalMean": 3.8,
+		"arousalSD": 2.29,
+		"dominanceMean": 4.69,
+		"dominanceSD": 1.72
+	},
+	"dove": {
+		"valenceMean": 6.9,
+		"valenceSD": 1.54,
+		"arousalMean": 3.79,
+		"arousalSD": 2.28,
+		"dominanceMean": 5.48,
+		"dominanceSD": 1.7
+	},
+	"dreadful": {
+		"valenceMean": 2.26,
+		"valenceSD": 1.91,
+		"arousalMean": 5.84,
+		"arousalSD": 2.62,
+		"dominanceMean": 4.1,
+		"dominanceSD": 2.36
+	},
+	"dream": {
+		"valenceMean": 6.73,
+		"valenceSD": 1.75,
+		"arousalMean": 4.53,
+		"arousalSD": 2.72,
+		"dominanceMean": 5.53,
+		"dominanceSD": 1.98
+	},
+	"dreary": {
+		"valenceMean": 3.05,
+		"valenceSD": 1.58,
+		"arousalMean": 2.98,
+		"arousalSD": 2.18,
+		"dominanceMean": 3.81,
+		"dominanceSD": 1.64
+	},
+	"dress": {
+		"valenceMean": 6.41,
+		"valenceSD": 1.34,
+		"arousalMean": 4.05,
+		"arousalSD": 1.89,
+		"dominanceMean": 5.0,
+		"dominanceSD": 1.89
+	},
+	"drown": {
+		"valenceMean": 1.92,
+		"valenceSD": 1.48,
+		"arousalMean": 6.57,
+		"arousalSD": 2.33,
+		"dominanceMean": 2.86,
+		"dominanceSD": 1.99
+	},
+	"dummy": {
+		"valenceMean": 3.38,
+		"valenceSD": 1.7,
+		"arousalMean": 4.35,
+		"arousalSD": 2.25,
+		"dominanceMean": 3.67,
+		"dominanceSD": 2.02
+	},
+	"dump": {
+		"valenceMean": 3.21,
+		"valenceSD": 1.87,
+		"arousalMean": 4.12,
+		"arousalSD": 2.36,
+		"dominanceMean": 3.83,
+		"dominanceSD": 1.87
+	},
+	"dustpan": {
+		"valenceMean": 3.98,
+		"valenceSD": 1.68,
+		"arousalMean": 3.43,
+		"arousalSD": 2.0,
+		"dominanceMean": 5.45,
+		"dominanceSD": 1.81
+	},
+	"earth": {
+		"valenceMean": 7.15,
+		"valenceSD": 1.67,
+		"arousalMean": 4.24,
+		"arousalSD": 2.49,
+		"dominanceMean": 5.61,
+		"dominanceSD": 2.3
+	},
+	"easy": {
+		"valenceMean": 7.1,
+		"valenceSD": 1.91,
+		"arousalMean": 4.48,
+		"arousalSD": 2.82,
+		"dominanceMean": 7.0,
+		"dominanceSD": 1.63
+	},
+	"easygoing": {
+		"valenceMean": 7.2,
+		"valenceSD": 1.5,
+		"arousalMean": 4.3,
+		"arousalSD": 2.52,
+		"dominanceMean": 5.25,
+		"dominanceSD": 1.75
+	},
+	"eat": {
+		"valenceMean": 7.47,
+		"valenceSD": 1.73,
+		"arousalMean": 5.69,
+		"arousalSD": 2.51,
+		"dominanceMean": 5.6,
+		"dominanceSD": 2.12
+	},
+	"ecstasy": {
+		"valenceMean": 7.98,
+		"valenceSD": 1.52,
+		"arousalMean": 7.38,
+		"arousalSD": 1.92,
+		"dominanceMean": 6.68,
+		"dominanceSD": 2.08
+	},
+	"education": {
+		"valenceMean": 6.69,
+		"valenceSD": 1.77,
+		"arousalMean": 5.74,
+		"arousalSD": 2.46,
+		"dominanceMean": 6.15,
+		"dominanceSD": 2.35
+	},
+	"egg": {
+		"valenceMean": 5.29,
+		"valenceSD": 1.82,
+		"arousalMean": 3.76,
+		"arousalSD": 2.39,
+		"dominanceMean": 4.49,
+		"dominanceSD": 2.16
+	},
+	"elated": {
+		"valenceMean": 7.45,
+		"valenceSD": 1.77,
+		"arousalMean": 6.21,
+		"arousalSD": 2.3,
+		"dominanceMean": 5.53,
+		"dominanceSD": 2.35
+	},
+	"elbow": {
+		"valenceMean": 5.12,
+		"valenceSD": 0.92,
+		"arousalMean": 3.81,
+		"arousalSD": 2.14,
+		"dominanceMean": 4.88,
+		"dominanceSD": 1.52
+	},
+	"elegant": {
+		"valenceMean": 7.43,
+		"valenceSD": 1.26,
+		"arousalMean": 4.53,
+		"arousalSD": 2.65,
+		"dominanceMean": 5.95,
+		"dominanceSD": 2.09
+	},
+	"elevator": {
+		"valenceMean": 5.44,
+		"valenceSD": 1.18,
+		"arousalMean": 4.16,
+		"arousalSD": 1.99,
+		"dominanceMean": 4.32,
+		"dominanceSD": 1.69
+	},
+	"embarrassed": {
+		"valenceMean": 3.03,
+		"valenceSD": 1.85,
+		"arousalMean": 5.87,
+		"arousalSD": 2.55,
+		"dominanceMean": 2.87,
+		"dominanceSD": 1.99
+	},
+	"embattled": {
+		"valenceMean": 4.39,
+		"valenceSD": 1.63,
+		"arousalMean": 5.36,
+		"arousalSD": 2.37,
+		"dominanceMean": 4.81,
+		"dominanceSD": 1.79
+	},
+	"employment": {
+		"valenceMean": 6.47,
+		"valenceSD": 1.81,
+		"arousalMean": 5.28,
+		"arousalSD": 2.12,
+		"dominanceMean": 5.73,
+		"dominanceSD": 2.08
+	},
+	"engaged": {
+		"valenceMean": 8.0,
+		"valenceSD": 1.38,
+		"arousalMean": 6.77,
+		"arousalSD": 2.07,
+		"dominanceMean": 6.49,
+		"dominanceSD": 2.22
+	},
+	"engine": {
+		"valenceMean": 5.2,
+		"valenceSD": 1.18,
+		"arousalMean": 3.98,
+		"arousalSD": 2.33,
+		"dominanceMean": 5.0,
+		"dominanceSD": 1.77
+	},
+	"enjoyment": {
+		"valenceMean": 7.8,
+		"valenceSD": 1.2,
+		"arousalMean": 5.2,
+		"arousalSD": 2.72,
+		"dominanceMean": 6.46,
+		"dominanceSD": 1.77
+	},
+	"ennui": {
+		"valenceMean": 5.09,
+		"valenceSD": 1.76,
+		"arousalMean": 4.4,
+		"arousalSD": 2.33,
+		"dominanceMean": 4.67,
+		"dominanceSD": 1.8
+	},
+	"enraged": {
+		"valenceMean": 2.46,
+		"valenceSD": 1.65,
+		"arousalMean": 7.97,
+		"arousalSD": 2.17,
+		"dominanceMean": 6.33,
+		"dominanceSD": 2.92
+	},
+	"erotic": {
+		"valenceMean": 7.43,
+		"valenceSD": 1.53,
+		"arousalMean": 7.24,
+		"arousalSD": 1.97,
+		"dominanceMean": 6.39,
+		"dominanceSD": 2.16
+	},
+	"errand": {
+		"valenceMean": 4.58,
+		"valenceSD": 1.74,
+		"arousalMean": 3.85,
+		"arousalSD": 1.92,
+		"dominanceMean": 4.78,
+		"dominanceSD": 1.51
+	},
+	"event": {
+		"valenceMean": 6.21,
+		"valenceSD": 1.63,
+		"arousalMean": 5.1,
+		"arousalSD": 2.4,
+		"dominanceMean": 5.52,
+		"dominanceSD": 1.57
+	},
+	"evil": {
+		"valenceMean": 3.23,
+		"valenceSD": 2.64,
+		"arousalMean": 6.39,
+		"arousalSD": 2.44,
+		"dominanceMean": 5.25,
+		"dominanceSD": 2.6
+	},
+	"excellence": {
+		"valenceMean": 8.38,
+		"valenceSD": 0.96,
+		"arousalMean": 5.54,
+		"arousalSD": 2.67,
+		"dominanceMean": 7.28,
+		"dominanceSD": 2.32
+	},
+	"excitement": {
+		"valenceMean": 7.5,
+		"valenceSD": 2.2,
+		"arousalMean": 7.67,
+		"arousalSD": 1.91,
+		"dominanceMean": 6.18,
+		"dominanceSD": 2.17
+	},
+	"excuse": {
+		"valenceMean": 4.05,
+		"valenceSD": 1.41,
+		"arousalMean": 4.48,
+		"arousalSD": 2.29,
+		"dominanceMean": 4.07,
+		"dominanceSD": 2.1
+	},
+	"execution": {
+		"valenceMean": 2.37,
+		"valenceSD": 2.06,
+		"arousalMean": 5.71,
+		"arousalSD": 2.74,
+		"dominanceMean": 4.11,
+		"dominanceSD": 2.66
+	},
+	"exercise": {
+		"valenceMean": 7.13,
+		"valenceSD": 1.58,
+		"arousalMean": 6.84,
+		"arousalSD": 2.06,
+		"dominanceMean": 5.68,
+		"dominanceSD": 2.44
+	},
+	"fabric": {
+		"valenceMean": 5.3,
+		"valenceSD": 1.2,
+		"arousalMean": 4.14,
+		"arousalSD": 1.98,
+		"dominanceMean": 5.03,
+		"dominanceSD": 1.61
+	},
+	"face": {
+		"valenceMean": 6.39,
+		"valenceSD": 1.6,
+		"arousalMean": 5.04,
+		"arousalSD": 2.18,
+		"dominanceMean": 5.67,
+		"dominanceSD": 1.58
+	},
+	"failure": {
+		"valenceMean": 1.7,
+		"valenceSD": 1.07,
+		"arousalMean": 4.95,
+		"arousalSD": 2.81,
+		"dominanceMean": 2.4,
+		"dominanceSD": 2.18
+	},
+	"fall": {
+		"valenceMean": 4.09,
+		"valenceSD": 2.21,
+		"arousalMean": 4.7,
+		"arousalSD": 2.48,
+		"dominanceMean": 4.0,
+		"dominanceSD": 2.15
+	},
+	"fame": {
+		"valenceMean": 7.93,
+		"valenceSD": 1.29,
+		"arousalMean": 6.55,
+		"arousalSD": 2.46,
+		"dominanceMean": 6.85,
+		"dominanceSD": 2.14
+	},
+	"family": {
+		"valenceMean": 7.65,
+		"valenceSD": 1.55,
+		"arousalMean": 4.8,
+		"arousalSD": 2.71,
+		"dominanceMean": 6.0,
+		"dominanceSD": 1.87
+	},
+	"famous": {
+		"valenceMean": 6.98,
+		"valenceSD": 2.07,
+		"arousalMean": 5.73,
+		"arousalSD": 2.68,
+		"dominanceMean": 6.32,
+		"dominanceSD": 2.18
+	},
+	"fantasy": {
+		"valenceMean": 7.41,
+		"valenceSD": 1.9,
+		"arousalMean": 5.14,
+		"arousalSD": 2.82,
+		"dominanceMean": 6.43,
+		"dominanceSD": 2.05
+	},
+	"farm": {
+		"valenceMean": 5.53,
+		"valenceSD": 1.85,
+		"arousalMean": 3.9,
+		"arousalSD": 1.95,
+		"dominanceMean": 5.59,
+		"dominanceSD": 1.81
+	},
+	"fascinate": {
+		"valenceMean": 7.34,
+		"valenceSD": 1.68,
+		"arousalMean": 5.83,
+		"arousalSD": 2.73,
+		"dominanceMean": 6.15,
+		"dominanceSD": 1.89
+	},
+	"fat": {
+		"valenceMean": 2.28,
+		"valenceSD": 1.92,
+		"arousalMean": 4.81,
+		"arousalSD": 2.8,
+		"dominanceMean": 4.47,
+		"dominanceSD": 3.06
+	},
+	"father": {
+		"valenceMean": 7.08,
+		"valenceSD": 2.2,
+		"arousalMean": 5.92,
+		"arousalSD": 2.6,
+		"dominanceMean": 5.63,
+		"dominanceSD": 2.89
+	},
+	"fatigued": {
+		"valenceMean": 3.28,
+		"valenceSD": 1.43,
+		"arousalMean": 2.64,
+		"arousalSD": 2.19,
+		"dominanceMean": 3.78,
+		"dominanceSD": 1.97
+	},
+	"fault": {
+		"valenceMean": 3.43,
+		"valenceSD": 1.38,
+		"arousalMean": 4.07,
+		"arousalSD": 1.69,
+		"dominanceMean": 4.02,
+		"dominanceSD": 1.66
+	},
+	"favor": {
+		"valenceMean": 6.46,
+		"valenceSD": 1.52,
+		"arousalMean": 4.54,
+		"arousalSD": 1.86,
+		"dominanceMean": 5.67,
+		"dominanceSD": 1.76
+	},
+	"fear": {
+		"valenceMean": 2.76,
+		"valenceSD": 2.12,
+		"arousalMean": 6.96,
+		"arousalSD": 2.17,
+		"dominanceMean": 3.22,
+		"dominanceSD": 2.2
+	},
+	"fearful": {
+		"valenceMean": 2.25,
+		"valenceSD": 1.18,
+		"arousalMean": 6.33,
+		"arousalSD": 2.28,
+		"dominanceMean": 3.64,
+		"dominanceSD": 2.18
+	},
+	"feeble": {
+		"valenceMean": 3.26,
+		"valenceSD": 1.47,
+		"arousalMean": 4.1,
+		"arousalSD": 2.07,
+		"dominanceMean": 2.71,
+		"dominanceSD": 1.64
+	},
+	"festive": {
+		"valenceMean": 7.3,
+		"valenceSD": 2.26,
+		"arousalMean": 6.58,
+		"arousalSD": 2.29,
+		"dominanceMean": 5.77,
+		"dominanceSD": 2.34
+	},
+	"fever": {
+		"valenceMean": 2.76,
+		"valenceSD": 1.64,
+		"arousalMean": 4.29,
+		"arousalSD": 2.31,
+		"dominanceMean": 3.52,
+		"dominanceSD": 2.15
+	},
+	"field": {
+		"valenceMean": 6.2,
+		"valenceSD": 1.37,
+		"arousalMean": 4.08,
+		"arousalSD": 2.41,
+		"dominanceMean": 5.84,
+		"dominanceSD": 1.94
+	},
+	"fight": {
+		"valenceMean": 3.76,
+		"valenceSD": 2.63,
+		"arousalMean": 7.15,
+		"arousalSD": 2.19,
+		"dominanceMean": 5.27,
+		"dominanceSD": 2.69
+	},
+	"filth": {
+		"valenceMean": 2.47,
+		"valenceSD": 1.68,
+		"arousalMean": 5.12,
+		"arousalSD": 2.32,
+		"dominanceMean": 3.81,
+		"dominanceSD": 2.06
+	},
+	"finger": {
+		"valenceMean": 5.29,
+		"valenceSD": 1.42,
+		"arousalMean": 3.78,
+		"arousalSD": 2.42,
+		"dominanceMean": 5.05,
+		"dominanceSD": 1.7
+	},
+	"fire": {
+		"valenceMean": 3.22,
+		"valenceSD": 2.06,
+		"arousalMean": 7.17,
+		"arousalSD": 2.06,
+		"dominanceMean": 4.49,
+		"dominanceSD": 2.49
+	},
+	"fireworks": {
+		"valenceMean": 7.55,
+		"valenceSD": 1.5,
+		"arousalMean": 6.67,
+		"arousalSD": 2.12,
+		"dominanceMean": 5.51,
+		"dominanceSD": 1.98
+	},
+	"fish": {
+		"valenceMean": 6.04,
+		"valenceSD": 1.94,
+		"arousalMean": 4.0,
+		"arousalSD": 2.19,
+		"dominanceMean": 6.02,
+		"dominanceSD": 1.68
+	},
+	"flabby": {
+		"valenceMean": 2.66,
+		"valenceSD": 1.87,
+		"arousalMean": 4.82,
+		"arousalSD": 2.81,
+		"dominanceMean": 3.31,
+		"dominanceSD": 1.9
+	},
+	"flag": {
+		"valenceMean": 6.02,
+		"valenceSD": 1.66,
+		"arousalMean": 4.6,
+		"arousalSD": 2.35,
+		"dominanceMean": 5.5,
+		"dominanceSD": 1.66
+	},
+	"flirt": {
+		"valenceMean": 7.52,
+		"valenceSD": 1.19,
+		"arousalMean": 6.91,
+		"arousalSD": 1.69,
+		"dominanceMean": 6.24,
+		"dominanceSD": 2.33
+	},
+	"flood": {
+		"valenceMean": 3.19,
+		"valenceSD": 1.66,
+		"arousalMean": 6.0,
+		"arousalSD": 2.02,
+		"dominanceMean": 3.24,
+		"dominanceSD": 2.14
+	},
+	"flower": {
+		"valenceMean": 6.64,
+		"valenceSD": 1.78,
+		"arousalMean": 4.0,
+		"arousalSD": 2.44,
+		"dominanceMean": 4.98,
+		"dominanceSD": 2.17
+	},
+	"foam": {
+		"valenceMean": 6.07,
+		"valenceSD": 2.03,
+		"arousalMean": 5.26,
+		"arousalSD": 2.54,
+		"dominanceMean": 5.24,
+		"dominanceSD": 1.97
+	},
+	"food": {
+		"valenceMean": 7.65,
+		"valenceSD": 1.37,
+		"arousalMean": 5.92,
+		"arousalSD": 2.11,
+		"dominanceMean": 6.18,
+		"dominanceSD": 2.48
+	},
+	"foot": {
+		"valenceMean": 5.02,
+		"valenceSD": 0.93,
+		"arousalMean": 3.27,
+		"arousalSD": 1.98,
+		"dominanceMean": 4.98,
+		"dominanceSD": 1.42
+	},
+	"fork": {
+		"valenceMean": 5.29,
+		"valenceSD": 0.97,
+		"arousalMean": 3.96,
+		"arousalSD": 1.94,
+		"dominanceMean": 5.74,
+		"dominanceSD": 1.52
+	},
+	"foul": {
+		"valenceMean": 2.81,
+		"valenceSD": 1.52,
+		"arousalMean": 4.93,
+		"arousalSD": 2.23,
+		"dominanceMean": 4.51,
+		"dominanceSD": 1.89
+	},
+	"fragrance": {
+		"valenceMean": 6.07,
+		"valenceSD": 1.97,
+		"arousalMean": 4.79,
+		"arousalSD": 2.54,
+		"dominanceMean": 5.14,
+		"dominanceSD": 1.91
+	},
+	"fraud": {
+		"valenceMean": 2.67,
+		"valenceSD": 1.66,
+		"arousalMean": 5.75,
+		"arousalSD": 2.45,
+		"dominanceMean": 3.58,
+		"dominanceSD": 2.5
+	},
+	"free": {
+		"valenceMean": 8.26,
+		"valenceSD": 1.31,
+		"arousalMean": 5.15,
+		"arousalSD": 3.04,
+		"dominanceMean": 6.35,
+		"dominanceSD": 2.4
+	},
+	"freedom": {
+		"valenceMean": 7.58,
+		"valenceSD": 2.04,
+		"arousalMean": 5.52,
+		"arousalSD": 2.72,
+		"dominanceMean": 6.76,
+		"dominanceSD": 2.29
+	},
+	"friend": {
+		"valenceMean": 7.74,
+		"valenceSD": 1.24,
+		"arousalMean": 5.74,
+		"arousalSD": 2.57,
+		"dominanceMean": 6.74,
+		"dominanceSD": 1.89
+	},
+	"friendly": {
+		"valenceMean": 8.43,
+		"valenceSD": 1.08,
+		"arousalMean": 5.11,
+		"arousalSD": 2.96,
+		"dominanceMean": 5.92,
+		"dominanceSD": 2.42
+	},
+	"frigid": {
+		"valenceMean": 3.5,
+		"valenceSD": 1.85,
+		"arousalMean": 4.75,
+		"arousalSD": 2.56,
+		"dominanceMean": 4.27,
+		"dominanceSD": 1.98
+	},
+	"frog": {
+		"valenceMean": 5.71,
+		"valenceSD": 1.74,
+		"arousalMean": 4.54,
+		"arousalSD": 2.03,
+		"dominanceMean": 5.34,
+		"dominanceSD": 1.96
+	},
+	"frustrated": {
+		"valenceMean": 2.48,
+		"valenceSD": 1.64,
+		"arousalMean": 5.61,
+		"arousalSD": 2.76,
+		"dominanceMean": 3.5,
+		"dominanceSD": 2.12
+	},
+	"fun": {
+		"valenceMean": 8.37,
+		"valenceSD": 1.11,
+		"arousalMean": 7.22,
+		"arousalSD": 2.01,
+		"dominanceMean": 6.8,
+		"dominanceSD": 1.85
+	},
+	"funeral": {
+		"valenceMean": 1.39,
+		"valenceSD": 0.87,
+		"arousalMean": 4.94,
+		"arousalSD": 3.21,
+		"dominanceMean": 2.97,
+		"dominanceSD": 2.55
+	},
+	"fungus": {
+		"valenceMean": 3.06,
+		"valenceSD": 1.75,
+		"arousalMean": 4.68,
+		"arousalSD": 2.33,
+		"dominanceMean": 4.06,
+		"dominanceSD": 1.94
+	},
+	"fur": {
+		"valenceMean": 4.51,
+		"valenceSD": 1.88,
+		"arousalMean": 4.18,
+		"arousalSD": 2.44,
+		"dominanceMean": 4.32,
+		"dominanceSD": 1.97
+	},
+	"game": {
+		"valenceMean": 6.98,
+		"valenceSD": 1.97,
+		"arousalMean": 5.89,
+		"arousalSD": 2.37,
+		"dominanceMean": 5.7,
+		"dominanceSD": 1.65
+	},
+	"gangrene": {
+		"valenceMean": 2.28,
+		"valenceSD": 1.91,
+		"arousalMean": 5.7,
+		"arousalSD": 2.96,
+		"dominanceMean": 3.36,
+		"dominanceSD": 2.34
+	},
+	"garbage": {
+		"valenceMean": 2.98,
+		"valenceSD": 1.96,
+		"arousalMean": 5.04,
+		"arousalSD": 2.5,
+		"dominanceMean": 4.24,
+		"dominanceSD": 2.02
+	},
+	"garden": {
+		"valenceMean": 6.71,
+		"valenceSD": 1.74,
+		"arousalMean": 4.39,
+		"arousalSD": 2.35,
+		"dominanceMean": 6.02,
+		"dominanceSD": 1.71
+	},
+	"garment": {
+		"valenceMean": 6.07,
+		"valenceSD": 1.61,
+		"arousalMean": 4.49,
+		"arousalSD": 2.5,
+		"dominanceMean": 5.3,
+		"dominanceSD": 1.96
+	},
+	"garter": {
+		"valenceMean": 6.22,
+		"valenceSD": 1.59,
+		"arousalMean": 5.47,
+		"arousalSD": 2.15,
+		"dominanceMean": 5.82,
+		"dominanceSD": 1.62
+	},
+	"gender": {
+		"valenceMean": 5.73,
+		"valenceSD": 1.55,
+		"arousalMean": 4.38,
+		"arousalSD": 2.13,
+		"dominanceMean": 5.6,
+		"dominanceSD": 1.84
+	},
+	"gentle": {
+		"valenceMean": 7.31,
+		"valenceSD": 1.3,
+		"arousalMean": 3.21,
+		"arousalSD": 2.57,
+		"dominanceMean": 5.1,
+		"dominanceSD": 2.16
+	},
+	"germs": {
+		"valenceMean": 2.86,
+		"valenceSD": 1.39,
+		"arousalMean": 4.49,
+		"arousalSD": 2.24,
+		"dominanceMean": 3.79,
+		"dominanceSD": 1.59
+	},
+	"gift": {
+		"valenceMean": 7.77,
+		"valenceSD": 2.24,
+		"arousalMean": 6.14,
+		"arousalSD": 2.76,
+		"dominanceMean": 5.52,
+		"dominanceSD": 2.54
+	},
+	"girl": {
+		"valenceMean": 6.87,
+		"valenceSD": 1.64,
+		"arousalMean": 4.29,
+		"arousalSD": 2.69,
+		"dominanceMean": 5.8,
+		"dominanceSD": 2.16
+	},
+	"glacier": {
+		"valenceMean": 5.5,
+		"valenceSD": 1.25,
+		"arousalMean": 4.24,
+		"arousalSD": 2.29,
+		"dominanceMean": 4.92,
+		"dominanceSD": 2.12
+	},
+	"glamour": {
+		"valenceMean": 6.76,
+		"valenceSD": 1.6,
+		"arousalMean": 4.68,
+		"arousalSD": 2.23,
+		"dominanceMean": 5.76,
+		"dominanceSD": 2.49
+	},
+	"glass": {
+		"valenceMean": 4.75,
+		"valenceSD": 1.38,
+		"arousalMean": 4.27,
+		"arousalSD": 2.07,
+		"dominanceMean": 5.0,
+		"dominanceSD": 1.46
+	},
+	"gloom": {
+		"valenceMean": 1.88,
+		"valenceSD": 1.23,
+		"arousalMean": 3.83,
+		"arousalSD": 2.33,
+		"dominanceMean": 3.55,
+		"dominanceSD": 2.07
+	},
+	"glory": {
+		"valenceMean": 7.55,
+		"valenceSD": 1.68,
+		"arousalMean": 6.02,
+		"arousalSD": 2.71,
+		"dominanceMean": 6.85,
+		"dominanceSD": 2.23
+	},
+	"god": {
+		"valenceMean": 8.15,
+		"valenceSD": 1.27,
+		"arousalMean": 5.95,
+		"arousalSD": 2.84,
+		"dominanceMean": 5.88,
+		"dominanceSD": 2.89
+	},
+	"gold": {
+		"valenceMean": 7.54,
+		"valenceSD": 1.63,
+		"arousalMean": 5.76,
+		"arousalSD": 2.79,
+		"dominanceMean": 5.85,
+		"dominanceSD": 2.46
+	},
+	"golfer": {
+		"valenceMean": 5.61,
+		"valenceSD": 1.93,
+		"arousalMean": 3.73,
+		"arousalSD": 2.26,
+		"dominanceMean": 5.55,
+		"dominanceSD": 1.79
+	},
+	"good": {
+		"valenceMean": 7.47,
+		"valenceSD": 1.45,
+		"arousalMean": 5.43,
+		"arousalSD": 2.85,
+		"dominanceMean": 6.41,
+		"dominanceSD": 2.05
+	},
+	"gossip": {
+		"valenceMean": 3.48,
+		"valenceSD": 2.33,
+		"arousalMean": 5.74,
+		"arousalSD": 2.38,
+		"dominanceMean": 3.57,
+		"dominanceSD": 2.26
+	},
+	"graduate": {
+		"valenceMean": 8.19,
+		"valenceSD": 1.13,
+		"arousalMean": 7.25,
+		"arousalSD": 2.25,
+		"dominanceMean": 6.94,
+		"dominanceSD": 2.44
+	},
+	"grass": {
+		"valenceMean": 6.12,
+		"valenceSD": 1.44,
+		"arousalMean": 4.14,
+		"arousalSD": 2.11,
+		"dominanceMean": 5.44,
+		"dominanceSD": 1.36
+	},
+	"grateful": {
+		"valenceMean": 7.37,
+		"valenceSD": 0.97,
+		"arousalMean": 4.58,
+		"arousalSD": 2.14,
+		"dominanceMean": 6.18,
+		"dominanceSD": 1.77
+	},
+	"greed": {
+		"valenceMean": 3.51,
+		"valenceSD": 1.93,
+		"arousalMean": 4.71,
+		"arousalSD": 2.26,
+		"dominanceMean": 4.88,
+		"dominanceSD": 2.03
+	},
+	"green": {
+		"valenceMean": 6.18,
+		"valenceSD": 2.05,
+		"arousalMean": 4.28,
+		"arousalSD": 2.46,
+		"dominanceMean": 4.82,
+		"dominanceSD": 2.05
+	},
+	"greet": {
+		"valenceMean": 7.0,
+		"valenceSD": 1.52,
+		"arousalMean": 5.27,
+		"arousalSD": 2.31,
+		"dominanceMean": 5.95,
+		"dominanceSD": 2.07
+	},
+	"grenade": {
+		"valenceMean": 3.6,
+		"valenceSD": 1.88,
+		"arousalMean": 5.7,
+		"arousalSD": 2.52,
+		"dominanceMean": 4.29,
+		"dominanceSD": 2.5
+	},
+	"grief": {
+		"valenceMean": 1.69,
+		"valenceSD": 1.04,
+		"arousalMean": 4.78,
+		"arousalSD": 2.84,
+		"dominanceMean": 3.5,
+		"dominanceSD": 2.35
+	},
+	"grime": {
+		"valenceMean": 3.37,
+		"valenceSD": 1.34,
+		"arousalMean": 3.98,
+		"arousalSD": 2.29,
+		"dominanceMean": 4.47,
+		"dominanceSD": 1.28
+	},
+	"grin": {
+		"valenceMean": 7.4,
+		"valenceSD": 1.87,
+		"arousalMean": 5.27,
+		"arousalSD": 2.64,
+		"dominanceMean": 6.0,
+		"dominanceSD": 1.86
+	},
+	"gripe": {
+		"valenceMean": 3.14,
+		"valenceSD": 1.56,
+		"arousalMean": 5.0,
+		"arousalSD": 2.19,
+		"dominanceMean": 4.67,
+		"dominanceSD": 1.79
+	},
+	"guillotine": {
+		"valenceMean": 2.48,
+		"valenceSD": 2.11,
+		"arousalMean": 6.56,
+		"arousalSD": 2.54,
+		"dominanceMean": 4.64,
+		"dominanceSD": 2.63
+	},
+	"guilty": {
+		"valenceMean": 2.63,
+		"valenceSD": 1.98,
+		"arousalMean": 6.04,
+		"arousalSD": 2.76,
+		"dominanceMean": 3.09,
+		"dominanceSD": 2.22
+	},
+	"gun": {
+		"valenceMean": 3.47,
+		"valenceSD": 2.48,
+		"arousalMean": 7.02,
+		"arousalSD": 1.84,
+		"dominanceMean": 3.53,
+		"dominanceSD": 2.72
+	},
+	"gymnast": {
+		"valenceMean": 6.35,
+		"valenceSD": 1.79,
+		"arousalMean": 5.02,
+		"arousalSD": 2.2,
+		"dominanceMean": 5.31,
+		"dominanceSD": 1.79
+	},
+	"habit": {
+		"valenceMean": 4.11,
+		"valenceSD": 1.77,
+		"arousalMean": 3.95,
+		"arousalSD": 2.11,
+		"dominanceMean": 4.3,
+		"dominanceSD": 1.79
+	},
+	"hairdryer": {
+		"valenceMean": 4.84,
+		"valenceSD": 0.84,
+		"arousalMean": 3.71,
+		"arousalSD": 1.75,
+		"dominanceMean": 5.57,
+		"dominanceSD": 1.27
+	},
+	"hairpin": {
+		"valenceMean": 5.26,
+		"valenceSD": 1.45,
+		"arousalMean": 3.27,
+		"arousalSD": 2.41,
+		"dominanceMean": 5.05,
+		"dominanceSD": 1.32
+	},
+	"hamburger": {
+		"valenceMean": 6.27,
+		"valenceSD": 1.5,
+		"arousalMean": 4.55,
+		"arousalSD": 2.14,
+		"dominanceMean": 5.32,
+		"dominanceSD": 1.21
+	},
+	"hammer": {
+		"valenceMean": 4.88,
+		"valenceSD": 1.16,
+		"arousalMean": 4.58,
+		"arousalSD": 2.02,
+		"dominanceMean": 4.75,
+		"dominanceSD": 1.88
+	},
+	"hand": {
+		"valenceMean": 5.95,
+		"valenceSD": 1.38,
+		"arousalMean": 4.4,
+		"arousalSD": 2.07,
+		"dominanceMean": 5.35,
+		"dominanceSD": 1.49
+	},
+	"handicap": {
+		"valenceMean": 3.29,
+		"valenceSD": 1.69,
+		"arousalMean": 3.81,
+		"arousalSD": 2.27,
+		"dominanceMean": 4.0,
+		"dominanceSD": 2.24
+	},
+	"handsome": {
+		"valenceMean": 7.93,
+		"valenceSD": 1.47,
+		"arousalMean": 5.95,
+		"arousalSD": 2.73,
+		"dominanceMean": 5.19,
+		"dominanceSD": 2.22
+	},
+	"haphazard": {
+		"valenceMean": 4.02,
+		"valenceSD": 1.41,
+		"arousalMean": 4.07,
+		"arousalSD": 2.18,
+		"dominanceMean": 4.29,
+		"dominanceSD": 1.67
+	},
+	"happy": {
+		"valenceMean": 8.21,
+		"valenceSD": 1.82,
+		"arousalMean": 6.49,
+		"arousalSD": 2.77,
+		"dominanceMean": 6.63,
+		"dominanceSD": 2.43
+	},
+	"hard": {
+		"valenceMean": 5.22,
+		"valenceSD": 1.82,
+		"arousalMean": 5.12,
+		"arousalSD": 2.19,
+		"dominanceMean": 5.59,
+		"dominanceSD": 1.63
+	},
+	"hardship": {
+		"valenceMean": 2.45,
+		"valenceSD": 1.61,
+		"arousalMean": 4.76,
+		"arousalSD": 2.55,
+		"dominanceMean": 4.22,
+		"dominanceSD": 2.4
+	},
+	"hat": {
+		"valenceMean": 5.46,
+		"valenceSD": 1.36,
+		"arousalMean": 4.1,
+		"arousalSD": 2.0,
+		"dominanceMean": 5.39,
+		"dominanceSD": 1.43
+	},
+	"hate": {
+		"valenceMean": 2.12,
+		"valenceSD": 1.72,
+		"arousalMean": 6.95,
+		"arousalSD": 2.56,
+		"dominanceMean": 5.05,
+		"dominanceSD": 2.95
+	},
+	"hatred": {
+		"valenceMean": 1.98,
+		"valenceSD": 1.92,
+		"arousalMean": 6.66,
+		"arousalSD": 2.56,
+		"dominanceMean": 4.3,
+		"dominanceSD": 2.76
+	},
+	"hawk": {
+		"valenceMean": 5.88,
+		"valenceSD": 1.62,
+		"arousalMean": 4.39,
+		"arousalSD": 2.29,
+		"dominanceMean": 5.5,
+		"dominanceSD": 1.69
+	},
+	"hay": {
+		"valenceMean": 5.24,
+		"valenceSD": 1.24,
+		"arousalMean": 3.95,
+		"arousalSD": 2.58,
+		"dominanceMean": 5.37,
+		"dominanceSD": 1.64
+	},
+	"headache": {
+		"valenceMean": 2.02,
+		"valenceSD": 1.06,
+		"arousalMean": 5.07,
+		"arousalSD": 2.74,
+		"dominanceMean": 3.6,
+		"dominanceSD": 1.98
+	},
+	"headlight": {
+		"valenceMean": 5.24,
+		"valenceSD": 1.51,
+		"arousalMean": 3.81,
+		"arousalSD": 2.22,
+		"dominanceMean": 4.88,
+		"dominanceSD": 1.47
+	},
+	"heal": {
+		"valenceMean": 7.09,
+		"valenceSD": 1.46,
+		"arousalMean": 4.77,
+		"arousalSD": 2.23,
+		"dominanceMean": 5.79,
+		"dominanceSD": 1.8
+	},
+	"health": {
+		"valenceMean": 6.81,
+		"valenceSD": 1.88,
+		"arousalMean": 5.13,
+		"arousalSD": 2.35,
+		"dominanceMean": 5.83,
+		"dominanceSD": 1.91
+	},
+	"heart": {
+		"valenceMean": 7.39,
+		"valenceSD": 1.53,
+		"arousalMean": 6.34,
+		"arousalSD": 2.25,
+		"dominanceMean": 5.49,
+		"dominanceSD": 2.11
+	},
+	"heaven": {
+		"valenceMean": 7.3,
+		"valenceSD": 2.39,
+		"arousalMean": 5.61,
+		"arousalSD": 3.2,
+		"dominanceMean": 6.15,
+		"dominanceSD": 2.56
+	},
+	"hell": {
+		"valenceMean": 2.24,
+		"valenceSD": 1.62,
+		"arousalMean": 5.38,
+		"arousalSD": 2.62,
+		"dominanceMean": 3.24,
+		"dominanceSD": 2.36
+	},
+	"helpless": {
+		"valenceMean": 2.2,
+		"valenceSD": 1.42,
+		"arousalMean": 5.34,
+		"arousalSD": 2.52,
+		"dominanceMean": 2.27,
+		"dominanceSD": 1.83
+	},
+	"heroin": {
+		"valenceMean": 4.36,
+		"valenceSD": 2.73,
+		"arousalMean": 5.11,
+		"arousalSD": 2.72,
+		"dominanceMean": 4.8,
+		"dominanceSD": 2.54
+	},
+	"hide": {
+		"valenceMean": 4.32,
+		"valenceSD": 1.91,
+		"arousalMean": 5.28,
+		"arousalSD": 2.51,
+		"dominanceMean": 3.4,
+		"dominanceSD": 2.12
+	},
+	"highway": {
+		"valenceMean": 5.92,
+		"valenceSD": 1.72,
+		"arousalMean": 5.16,
+		"arousalSD": 2.44,
+		"dominanceMean": 5.66,
+		"dominanceSD": 1.81
+	},
+	"hinder": {
+		"valenceMean": 3.81,
+		"valenceSD": 1.42,
+		"arousalMean": 4.12,
+		"arousalSD": 2.01,
+		"dominanceMean": 4.21,
+		"dominanceSD": 1.54
+	},
+	"history": {
+		"valenceMean": 5.24,
+		"valenceSD": 2.01,
+		"arousalMean": 3.93,
+		"arousalSD": 2.29,
+		"dominanceMean": 4.83,
+		"dominanceSD": 2.08
+	},
+	"hit": {
+		"valenceMean": 4.33,
+		"valenceSD": 2.35,
+		"arousalMean": 5.73,
+		"arousalSD": 2.09,
+		"dominanceMean": 4.88,
+		"dominanceSD": 2.01
+	},
+	"holiday": {
+		"valenceMean": 7.55,
+		"valenceSD": 2.14,
+		"arousalMean": 6.59,
+		"arousalSD": 2.73,
+		"dominanceMean": 6.3,
+		"dominanceSD": 2.17
+	},
+	"home": {
+		"valenceMean": 7.91,
+		"valenceSD": 1.63,
+		"arousalMean": 4.21,
+		"arousalSD": 2.94,
+		"dominanceMean": 5.9,
+		"dominanceSD": 2.3
+	},
+	"honest": {
+		"valenceMean": 7.7,
+		"valenceSD": 1.43,
+		"arousalMean": 5.32,
+		"arousalSD": 1.92,
+		"dominanceMean": 6.24,
+		"dominanceSD": 2.13
+	},
+	"honey": {
+		"valenceMean": 6.73,
+		"valenceSD": 1.7,
+		"arousalMean": 4.51,
+		"arousalSD": 2.25,
+		"dominanceMean": 5.44,
+		"dominanceSD": 1.47
+	},
+	"honor": {
+		"valenceMean": 7.66,
+		"valenceSD": 1.24,
+		"arousalMean": 5.9,
+		"arousalSD": 1.83,
+		"dominanceMean": 6.7,
+		"dominanceSD": 2.04
+	},
+	"hooker": {
+		"valenceMean": 3.34,
+		"valenceSD": 2.31,
+		"arousalMean": 4.93,
+		"arousalSD": 2.82,
+		"dominanceMean": 4.73,
+		"dominanceSD": 2.48
+	},
+	"hope": {
+		"valenceMean": 7.05,
+		"valenceSD": 1.96,
+		"arousalMean": 5.44,
+		"arousalSD": 2.47,
+		"dominanceMean": 5.52,
+		"dominanceSD": 2.2
+	},
+	"hopeful": {
+		"valenceMean": 7.1,
+		"valenceSD": 1.46,
+		"arousalMean": 5.78,
+		"arousalSD": 2.09,
+		"dominanceMean": 5.41,
+		"dominanceSD": 1.92
+	},
+	"horror": {
+		"valenceMean": 2.76,
+		"valenceSD": 2.25,
+		"arousalMean": 7.21,
+		"arousalSD": 2.14,
+		"dominanceMean": 4.63,
+		"dominanceSD": 2.7
+	},
+	"horse": {
+		"valenceMean": 5.89,
+		"valenceSD": 1.55,
+		"arousalMean": 3.89,
+		"arousalSD": 2.17,
+		"dominanceMean": 4.67,
+		"dominanceSD": 1.6
+	},
+	"hospital": {
+		"valenceMean": 5.04,
+		"valenceSD": 2.45,
+		"arousalMean": 5.98,
+		"arousalSD": 2.54,
+		"dominanceMean": 4.69,
+		"dominanceSD": 2.16
+	},
+	"hostage": {
+		"valenceMean": 2.2,
+		"valenceSD": 1.8,
+		"arousalMean": 6.76,
+		"arousalSD": 2.63,
+		"dominanceMean": 2.83,
+		"dominanceSD": 2.32
+	},
+	"hostile": {
+		"valenceMean": 2.73,
+		"valenceSD": 1.5,
+		"arousalMean": 6.44,
+		"arousalSD": 2.28,
+		"dominanceMean": 4.85,
+		"dominanceSD": 2.58
+	},
+	"hotel": {
+		"valenceMean": 6.0,
+		"valenceSD": 1.77,
+		"arousalMean": 4.8,
+		"arousalSD": 2.53,
+		"dominanceMean": 5.12,
+		"dominanceSD": 1.84
+	},
+	"house": {
+		"valenceMean": 7.26,
+		"valenceSD": 1.72,
+		"arousalMean": 4.56,
+		"arousalSD": 2.41,
+		"dominanceMean": 6.08,
+		"dominanceSD": 2.12
+	},
+	"hug": {
+		"valenceMean": 8.0,
+		"valenceSD": 1.55,
+		"arousalMean": 5.35,
+		"arousalSD": 2.76,
+		"dominanceMean": 5.79,
+		"dominanceSD": 2.41
+	},
+	"humane": {
+		"valenceMean": 6.89,
+		"valenceSD": 1.7,
+		"arousalMean": 4.5,
+		"arousalSD": 1.91,
+		"dominanceMean": 5.7,
+		"dominanceSD": 1.91
+	},
+	"humble": {
+		"valenceMean": 5.86,
+		"valenceSD": 1.42,
+		"arousalMean": 3.74,
+		"arousalSD": 2.33,
+		"dominanceMean": 4.76,
+		"dominanceSD": 2.25
+	},
+	"humiliate": {
+		"valenceMean": 2.24,
+		"valenceSD": 1.34,
+		"arousalMean": 6.14,
+		"arousalSD": 2.42,
+		"dominanceMean": 2.6,
+		"dominanceSD": 1.94
+	},
+	"humor": {
+		"valenceMean": 8.56,
+		"valenceSD": 0.81,
+		"arousalMean": 5.5,
+		"arousalSD": 2.91,
+		"dominanceMean": 6.08,
+		"dominanceSD": 2.14
+	},
+	"hungry": {
+		"valenceMean": 3.58,
+		"valenceSD": 2.01,
+		"arousalMean": 5.13,
+		"arousalSD": 2.44,
+		"dominanceMean": 4.68,
+		"dominanceSD": 2.05
+	},
+	"hurricane": {
+		"valenceMean": 3.34,
+		"valenceSD": 2.12,
+		"arousalMean": 6.83,
+		"arousalSD": 2.06,
+		"dominanceMean": 3.07,
+		"dominanceSD": 2.18
+	},
+	"hurt": {
+		"valenceMean": 1.9,
+		"valenceSD": 1.26,
+		"arousalMean": 5.85,
+		"arousalSD": 2.49,
+		"dominanceMean": 3.33,
+		"dominanceSD": 2.22
+	},
+	"hydrant": {
+		"valenceMean": 5.02,
+		"valenceSD": 0.93,
+		"arousalMean": 3.71,
+		"arousalSD": 1.75,
+		"dominanceMean": 5.53,
+		"dominanceSD": 1.3
+	},
+	"icebox": {
+		"valenceMean": 4.95,
+		"valenceSD": 1.0,
+		"arousalMean": 4.17,
+		"arousalSD": 2.11,
+		"dominanceMean": 5.05,
+		"dominanceSD": 1.05
+	},
+	"idea": {
+		"valenceMean": 7.0,
+		"valenceSD": 1.34,
+		"arousalMean": 5.86,
+		"arousalSD": 1.81,
+		"dominanceMean": 6.26,
+		"dominanceSD": 2.0
+	},
+	"identity": {
+		"valenceMean": 6.57,
+		"valenceSD": 1.99,
+		"arousalMean": 4.95,
+		"arousalSD": 2.24,
+		"dominanceMean": 6.4,
+		"dominanceSD": 1.89
+	},
+	"idiot": {
+		"valenceMean": 3.16,
+		"valenceSD": 1.91,
+		"arousalMean": 4.21,
+		"arousalSD": 2.47,
+		"dominanceMean": 3.18,
+		"dominanceSD": 2.13
+	},
+	"idol": {
+		"valenceMean": 6.12,
+		"valenceSD": 1.86,
+		"arousalMean": 4.95,
+		"arousalSD": 2.14,
+		"dominanceMean": 5.37,
+		"dominanceSD": 2.17
+	},
+	"ignorance": {
+		"valenceMean": 3.07,
+		"valenceSD": 2.25,
+		"arousalMean": 4.39,
+		"arousalSD": 2.49,
+		"dominanceMean": 4.41,
+		"dominanceSD": 2.38
+	},
+	"illness": {
+		"valenceMean": 2.48,
+		"valenceSD": 1.4,
+		"arousalMean": 4.71,
+		"arousalSD": 2.24,
+		"dominanceMean": 3.21,
+		"dominanceSD": 1.85
+	},
+	"imagine": {
+		"valenceMean": 7.32,
+		"valenceSD": 1.52,
+		"arousalMean": 5.98,
+		"arousalSD": 2.14,
+		"dominanceMean": 7.07,
+		"dominanceSD": 1.99
+	},
+	"immature": {
+		"valenceMean": 3.39,
+		"valenceSD": 1.7,
+		"arousalMean": 4.15,
+		"arousalSD": 1.96,
+		"dominanceMean": 4.85,
+		"dominanceSD": 2.2
+	},
+	"immoral": {
+		"valenceMean": 3.5,
+		"valenceSD": 2.16,
+		"arousalMean": 4.98,
+		"arousalSD": 2.48,
+		"dominanceMean": 4.66,
+		"dominanceSD": 2.33
+	},
+	"impair": {
+		"valenceMean": 3.18,
+		"valenceSD": 1.86,
+		"arousalMean": 4.04,
+		"arousalSD": 2.14,
+		"dominanceMean": 4.09,
+		"dominanceSD": 2.18
+	},
+	"impotent": {
+		"valenceMean": 2.81,
+		"valenceSD": 1.92,
+		"arousalMean": 4.57,
+		"arousalSD": 2.59,
+		"dominanceMean": 3.43,
+		"dominanceSD": 2.43
+	},
+	"impressed": {
+		"valenceMean": 7.33,
+		"valenceSD": 1.84,
+		"arousalMean": 5.42,
+		"arousalSD": 2.65,
+		"dominanceMean": 5.51,
+		"dominanceSD": 2.21
+	},
+	"improve": {
+		"valenceMean": 7.65,
+		"valenceSD": 1.16,
+		"arousalMean": 5.69,
+		"arousalSD": 2.15,
+		"dominanceMean": 6.08,
+		"dominanceSD": 2.25
+	},
+	"incentive": {
+		"valenceMean": 7.0,
+		"valenceSD": 1.72,
+		"arousalMean": 5.69,
+		"arousalSD": 2.45,
+		"dominanceMean": 5.93,
+		"dominanceSD": 2.02
+	},
+	"indifferent": {
+		"valenceMean": 4.61,
+		"valenceSD": 1.28,
+		"arousalMean": 3.18,
+		"arousalSD": 1.85,
+		"dominanceMean": 4.84,
+		"dominanceSD": 1.67
+	},
+	"industry": {
+		"valenceMean": 5.3,
+		"valenceSD": 1.61,
+		"arousalMean": 4.47,
+		"arousalSD": 2.43,
+		"dominanceMean": 4.91,
+		"dominanceSD": 2.04
+	},
+	"infant": {
+		"valenceMean": 6.95,
+		"valenceSD": 2.08,
+		"arousalMean": 5.05,
+		"arousalSD": 2.66,
+		"dominanceMean": 5.67,
+		"dominanceSD": 2.48
+	},
+	"infatuation": {
+		"valenceMean": 6.73,
+		"valenceSD": 2.08,
+		"arousalMean": 7.02,
+		"arousalSD": 1.87,
+		"dominanceMean": 4.9,
+		"dominanceSD": 2.28
+	},
+	"infection": {
+		"valenceMean": 1.66,
+		"valenceSD": 1.34,
+		"arousalMean": 5.03,
+		"arousalSD": 2.77,
+		"dominanceMean": 3.61,
+		"dominanceSD": 2.64
+	},
+	"inferior": {
+		"valenceMean": 3.07,
+		"valenceSD": 1.57,
+		"arousalMean": 3.83,
+		"arousalSD": 2.05,
+		"dominanceMean": 2.78,
+		"dominanceSD": 2.08
+	},
+	"inhabitant": {
+		"valenceMean": 5.05,
+		"valenceSD": 1.34,
+		"arousalMean": 3.95,
+		"arousalSD": 1.97,
+		"dominanceMean": 5.37,
+		"dominanceSD": 1.43
+	},
+	"injury": {
+		"valenceMean": 2.49,
+		"valenceSD": 1.76,
+		"arousalMean": 5.69,
+		"arousalSD": 2.06,
+		"dominanceMean": 3.57,
+		"dominanceSD": 1.62
+	},
+	"ink": {
+		"valenceMean": 5.05,
+		"valenceSD": 0.81,
+		"arousalMean": 3.84,
+		"arousalSD": 1.88,
+		"dominanceMean": 4.61,
+		"dominanceSD": 2.13
+	},
+	"innocent": {
+		"valenceMean": 6.51,
+		"valenceSD": 1.34,
+		"arousalMean": 4.21,
+		"arousalSD": 1.99,
+		"dominanceMean": 5.28,
+		"dominanceSD": 2.08
+	},
+	"insane": {
+		"valenceMean": 2.85,
+		"valenceSD": 1.94,
+		"arousalMean": 5.83,
+		"arousalSD": 2.45,
+		"dominanceMean": 4.12,
+		"dominanceSD": 2.23
+	},
+	"insect": {
+		"valenceMean": 4.07,
+		"valenceSD": 2.16,
+		"arousalMean": 4.07,
+		"arousalSD": 2.46,
+		"dominanceMean": 4.56,
+		"dominanceSD": 2.47
+	},
+	"insecure": {
+		"valenceMean": 2.36,
+		"valenceSD": 1.33,
+		"arousalMean": 5.56,
+		"arousalSD": 2.34,
+		"dominanceMean": 2.33,
+		"dominanceSD": 1.95
+	},
+	"insolent": {
+		"valenceMean": 4.35,
+		"valenceSD": 1.76,
+		"arousalMean": 5.38,
+		"arousalSD": 2.37,
+		"dominanceMean": 4.5,
+		"dominanceSD": 2.06
+	},
+	"inspire": {
+		"valenceMean": 6.97,
+		"valenceSD": 1.91,
+		"arousalMean": 5.0,
+		"arousalSD": 2.53,
+		"dominanceMean": 6.34,
+		"dominanceSD": 2.11
+	},
+	"inspired": {
+		"valenceMean": 7.15,
+		"valenceSD": 1.85,
+		"arousalMean": 6.02,
+		"arousalSD": 2.67,
+		"dominanceMean": 6.67,
+		"dominanceSD": 2.31
+	},
+	"insult": {
+		"valenceMean": 2.29,
+		"valenceSD": 1.33,
+		"arousalMean": 6.0,
+		"arousalSD": 2.46,
+		"dominanceMean": 3.62,
+		"dominanceSD": 2.05
+	},
+	"intellect": {
+		"valenceMean": 6.82,
+		"valenceSD": 1.96,
+		"arousalMean": 4.75,
+		"arousalSD": 2.5,
+		"dominanceMean": 6.3,
+		"dominanceSD": 1.98
+	},
+	"intercourse": {
+		"valenceMean": 7.36,
+		"valenceSD": 1.57,
+		"arousalMean": 7.0,
+		"arousalSD": 2.07,
+		"dominanceMean": 6.4,
+		"dominanceSD": 1.78
+	},
+	"interest": {
+		"valenceMean": 6.97,
+		"valenceSD": 1.53,
+		"arousalMean": 5.66,
+		"arousalSD": 2.26,
+		"dominanceMean": 5.88,
+		"dominanceSD": 1.78
+	},
+	"intimate": {
+		"valenceMean": 7.61,
+		"valenceSD": 1.51,
+		"arousalMean": 6.98,
+		"arousalSD": 2.21,
+		"dominanceMean": 5.86,
+		"dominanceSD": 2.29
+	},
+	"intruder": {
+		"valenceMean": 2.77,
+		"valenceSD": 2.32,
+		"arousalMean": 6.86,
+		"arousalSD": 2.41,
+		"dominanceMean": 4.0,
+		"dominanceSD": 2.68
+	},
+	"invader": {
+		"valenceMean": 3.05,
+		"valenceSD": 2.01,
+		"arousalMean": 5.5,
+		"arousalSD": 2.4,
+		"dominanceMean": 4.0,
+		"dominanceSD": 2.6
+	},
+	"invest": {
+		"valenceMean": 5.93,
+		"valenceSD": 2.1,
+		"arousalMean": 5.12,
+		"arousalSD": 2.42,
+		"dominanceMean": 5.88,
+		"dominanceSD": 1.95
+	},
+	"iron": {
+		"valenceMean": 4.9,
+		"valenceSD": 1.02,
+		"arousalMean": 3.76,
+		"arousalSD": 2.06,
+		"dominanceMean": 5.1,
+		"dominanceSD": 1.27
+	},
+	"irritate": {
+		"valenceMean": 3.11,
+		"valenceSD": 1.67,
+		"arousalMean": 5.76,
+		"arousalSD": 2.15,
+		"dominanceMean": 5.03,
+		"dominanceSD": 2.05
+	},
+	"item": {
+		"valenceMean": 5.26,
+		"valenceSD": 0.86,
+		"arousalMean": 3.24,
+		"arousalSD": 2.08,
+		"dominanceMean": 5.26,
+		"dominanceSD": 1.67
+	},
+	"jail": {
+		"valenceMean": 1.95,
+		"valenceSD": 1.27,
+		"arousalMean": 5.49,
+		"arousalSD": 2.67,
+		"dominanceMean": 3.81,
+		"dominanceSD": 2.71
+	},
+	"jealousy": {
+		"valenceMean": 2.51,
+		"valenceSD": 1.83,
+		"arousalMean": 6.36,
+		"arousalSD": 2.66,
+		"dominanceMean": 3.8,
+		"dominanceSD": 2.41
+	},
+	"jelly": {
+		"valenceMean": 5.66,
+		"valenceSD": 1.44,
+		"arousalMean": 3.7,
+		"arousalSD": 2.29,
+		"dominanceMean": 4.53,
+		"dominanceSD": 1.77
+	},
+	"jewel": {
+		"valenceMean": 7.0,
+		"valenceSD": 1.72,
+		"arousalMean": 5.38,
+		"arousalSD": 2.54,
+		"dominanceMean": 5.59,
+		"dominanceSD": 2.19
+	},
+	"joke": {
+		"valenceMean": 8.1,
+		"valenceSD": 1.36,
+		"arousalMean": 6.74,
+		"arousalSD": 1.84,
+		"dominanceMean": 6.15,
+		"dominanceSD": 1.86
+	},
+	"jolly": {
+		"valenceMean": 7.41,
+		"valenceSD": 1.92,
+		"arousalMean": 5.57,
+		"arousalSD": 2.8,
+		"dominanceMean": 6.39,
+		"dominanceSD": 1.72
+	},
+	"journal": {
+		"valenceMean": 5.14,
+		"valenceSD": 1.49,
+		"arousalMean": 4.05,
+		"arousalSD": 1.96,
+		"dominanceMean": 5.26,
+		"dominanceSD": 1.42
+	},
+	"joy": {
+		"valenceMean": 8.6,
+		"valenceSD": 0.71,
+		"arousalMean": 7.22,
+		"arousalSD": 2.13,
+		"dominanceMean": 6.28,
+		"dominanceSD": 2.15
+	},
+	"joyful": {
+		"valenceMean": 8.22,
+		"valenceSD": 1.22,
+		"arousalMean": 5.98,
+		"arousalSD": 2.54,
+		"dominanceMean": 6.6,
+		"dominanceSD": 1.8
+	},
+	"jug": {
+		"valenceMean": 5.24,
+		"valenceSD": 1.65,
+		"arousalMean": 3.88,
+		"arousalSD": 2.15,
+		"dominanceMean": 5.05,
+		"dominanceSD": 1.62
+	},
+	"justice": {
+		"valenceMean": 7.78,
+		"valenceSD": 1.35,
+		"arousalMean": 5.47,
+		"arousalSD": 2.54,
+		"dominanceMean": 6.47,
+		"dominanceSD": 2.26
+	},
+	"kerchief": {
+		"valenceMean": 5.11,
+		"valenceSD": 1.33,
+		"arousalMean": 3.43,
+		"arousalSD": 2.08,
+		"dominanceMean": 5.25,
+		"dominanceSD": 1.28
+	},
+	"kerosene": {
+		"valenceMean": 4.8,
+		"valenceSD": 1.59,
+		"arousalMean": 4.34,
+		"arousalSD": 2.51,
+		"dominanceMean": 4.63,
+		"dominanceSD": 1.99
+	},
+	"ketchup": {
+		"valenceMean": 5.6,
+		"valenceSD": 1.35,
+		"arousalMean": 4.09,
+		"arousalSD": 2.08,
+		"dominanceMean": 5.29,
+		"dominanceSD": 1.81
+	},
+	"kettle": {
+		"valenceMean": 5.22,
+		"valenceSD": 0.91,
+		"arousalMean": 3.22,
+		"arousalSD": 2.23,
+		"dominanceMean": 5.0,
+		"dominanceSD": 1.4
+	},
+	"key": {
+		"valenceMean": 5.68,
+		"valenceSD": 1.62,
+		"arousalMean": 3.7,
+		"arousalSD": 2.18,
+		"dominanceMean": 4.98,
+		"dominanceSD": 2.04
+	},
+	"kick": {
+		"valenceMean": 4.31,
+		"valenceSD": 2.18,
+		"arousalMean": 4.9,
+		"arousalSD": 2.35,
+		"dominanceMean": 5.5,
+		"dominanceSD": 1.93
+	},
+	"kids": {
+		"valenceMean": 6.91,
+		"valenceSD": 1.99,
+		"arousalMean": 5.27,
+		"arousalSD": 2.36,
+		"dominanceMean": 5.07,
+		"dominanceSD": 2.03
+	},
+	"killer": {
+		"valenceMean": 1.89,
+		"valenceSD": 1.39,
+		"arousalMean": 7.86,
+		"arousalSD": 1.89,
+		"dominanceMean": 4.54,
+		"dominanceSD": 3.11
+	},
+	"kind": {
+		"valenceMean": 7.59,
+		"valenceSD": 1.67,
+		"arousalMean": 4.46,
+		"arousalSD": 2.55,
+		"dominanceMean": 5.95,
+		"dominanceSD": 1.93
+	},
+	"kindness": {
+		"valenceMean": 7.82,
+		"valenceSD": 1.39,
+		"arousalMean": 4.3,
+		"arousalSD": 2.62,
+		"dominanceMean": 5.67,
+		"dominanceSD": 2.63
+	},
+	"king": {
+		"valenceMean": 7.26,
+		"valenceSD": 1.67,
+		"arousalMean": 5.51,
+		"arousalSD": 2.77,
+		"dominanceMean": 7.38,
+		"dominanceSD": 2.1
+	},
+	"kiss": {
+		"valenceMean": 8.26,
+		"valenceSD": 1.54,
+		"arousalMean": 7.32,
+		"arousalSD": 2.03,
+		"dominanceMean": 6.93,
+		"dominanceSD": 2.28
+	},
+	"kitten": {
+		"valenceMean": 6.86,
+		"valenceSD": 2.13,
+		"arousalMean": 5.08,
+		"arousalSD": 2.45,
+		"dominanceMean": 6.86,
+		"dominanceSD": 2.01
+	},
+	"knife": {
+		"valenceMean": 3.62,
+		"valenceSD": 2.18,
+		"arousalMean": 5.8,
+		"arousalSD": 2.0,
+		"dominanceMean": 4.12,
+		"dominanceSD": 2.18
+	},
+	"knot": {
+		"valenceMean": 4.64,
+		"valenceSD": 1.36,
+		"arousalMean": 4.07,
+		"arousalSD": 2.15,
+		"dominanceMean": 4.67,
+		"dominanceSD": 1.65
+	},
+	"knowledge": {
+		"valenceMean": 7.58,
+		"valenceSD": 1.32,
+		"arousalMean": 5.92,
+		"arousalSD": 2.32,
+		"dominanceMean": 6.78,
+		"dominanceSD": 2.41
+	},
+	"lake": {
+		"valenceMean": 6.82,
+		"valenceSD": 1.54,
+		"arousalMean": 3.95,
+		"arousalSD": 2.44,
+		"dominanceMean": 4.9,
+		"dominanceSD": 2.1
+	},
+	"lamb": {
+		"valenceMean": 5.89,
+		"valenceSD": 1.73,
+		"arousalMean": 3.36,
+		"arousalSD": 2.18,
+		"dominanceMean": 4.91,
+		"dominanceSD": 1.96
+	},
+	"lamp": {
+		"valenceMean": 5.41,
+		"valenceSD": 1.0,
+		"arousalMean": 3.8,
+		"arousalSD": 2.12,
+		"dominanceMean": 5.27,
+		"dominanceSD": 1.61
+	},
+	"lantern": {
+		"valenceMean": 5.57,
+		"valenceSD": 1.19,
+		"arousalMean": 4.05,
+		"arousalSD": 2.28,
+		"dominanceMean": 5.07,
+		"dominanceSD": 1.82
+	},
+	"laughter": {
+		"valenceMean": 8.45,
+		"valenceSD": 1.08,
+		"arousalMean": 6.75,
+		"arousalSD": 2.5,
+		"dominanceMean": 6.45,
+		"dominanceSD": 2.45
+	},
+	"lavish": {
+		"valenceMean": 6.21,
+		"valenceSD": 2.03,
+		"arousalMean": 4.93,
+		"arousalSD": 2.4,
+		"dominanceMean": 5.64,
+		"dominanceSD": 1.61
+	},
+	"lawn": {
+		"valenceMean": 5.24,
+		"valenceSD": 0.86,
+		"arousalMean": 4.0,
+		"arousalSD": 1.79,
+		"dominanceMean": 5.37,
+		"dominanceSD": 1.11
+	},
+	"lawsuit": {
+		"valenceMean": 3.37,
+		"valenceSD": 2.0,
+		"arousalMean": 4.93,
+		"arousalSD": 2.44,
+		"dominanceMean": 3.92,
+		"dominanceSD": 2.02
+	},
+	"lazy": {
+		"valenceMean": 4.38,
+		"valenceSD": 2.02,
+		"arousalMean": 2.65,
+		"arousalSD": 2.06,
+		"dominanceMean": 4.07,
+		"dominanceSD": 1.93
+	},
+	"leader": {
+		"valenceMean": 7.63,
+		"valenceSD": 1.59,
+		"arousalMean": 6.27,
+		"arousalSD": 2.18,
+		"dominanceMean": 7.88,
+		"dominanceSD": 1.6
+	},
+	"learn": {
+		"valenceMean": 7.15,
+		"valenceSD": 1.49,
+		"arousalMean": 5.39,
+		"arousalSD": 2.22,
+		"dominanceMean": 6.34,
+		"dominanceSD": 2.17
+	},
+	"legend": {
+		"valenceMean": 6.39,
+		"valenceSD": 1.34,
+		"arousalMean": 4.88,
+		"arousalSD": 1.76,
+		"dominanceMean": 5.54,
+		"dominanceSD": 1.64
+	},
+	"leisurely": {
+		"valenceMean": 6.88,
+		"valenceSD": 1.81,
+		"arousalMean": 3.8,
+		"arousalSD": 2.38,
+		"dominanceMean": 5.15,
+		"dominanceSD": 1.9
+	},
+	"leprosy": {
+		"valenceMean": 2.09,
+		"valenceSD": 1.4,
+		"arousalMean": 6.29,
+		"arousalSD": 2.23,
+		"dominanceMean": 4.0,
+		"dominanceSD": 2.3
+	},
+	"lesbian": {
+		"valenceMean": 4.67,
+		"valenceSD": 2.45,
+		"arousalMean": 5.12,
+		"arousalSD": 2.27,
+		"dominanceMean": 5.35,
+		"dominanceSD": 2.2
+	},
+	"letter": {
+		"valenceMean": 6.61,
+		"valenceSD": 1.59,
+		"arousalMean": 4.9,
+		"arousalSD": 2.37,
+		"dominanceMean": 5.73,
+		"dominanceSD": 1.48
+	},
+	"liberty": {
+		"valenceMean": 7.98,
+		"valenceSD": 1.22,
+		"arousalMean": 5.6,
+		"arousalSD": 2.65,
+		"dominanceMean": 6.29,
+		"dominanceSD": 2.44
+	},
+	"lice": {
+		"valenceMean": 2.31,
+		"valenceSD": 1.78,
+		"arousalMean": 5.0,
+		"arousalSD": 2.26,
+		"dominanceMean": 3.95,
+		"dominanceSD": 2.29
+	},
+	"lie": {
+		"valenceMean": 2.79,
+		"valenceSD": 1.92,
+		"arousalMean": 5.96,
+		"arousalSD": 2.63,
+		"dominanceMean": 3.3,
+		"dominanceSD": 2.42
+	},
+	"life": {
+		"valenceMean": 7.27,
+		"valenceSD": 1.88,
+		"arousalMean": 6.02,
+		"arousalSD": 2.62,
+		"dominanceMean": 5.72,
+		"dominanceSD": 2.51
+	},
+	"lightbulb": {
+		"valenceMean": 5.61,
+		"valenceSD": 1.28,
+		"arousalMean": 4.1,
+		"arousalSD": 2.02,
+		"dominanceMean": 5.82,
+		"dominanceSD": 1.56
+	},
+	"lighthouse": {
+		"valenceMean": 5.89,
+		"valenceSD": 2.08,
+		"arousalMean": 4.41,
+		"arousalSD": 2.44,
+		"dominanceMean": 5.25,
+		"dominanceSD": 2.02
+	},
+	"lightning": {
+		"valenceMean": 4.57,
+		"valenceSD": 2.66,
+		"arousalMean": 6.61,
+		"arousalSD": 1.77,
+		"dominanceMean": 3.67,
+		"dominanceSD": 2.19
+	},
+	"limber": {
+		"valenceMean": 5.68,
+		"valenceSD": 1.49,
+		"arousalMean": 4.57,
+		"arousalSD": 2.26,
+		"dominanceMean": 5.34,
+		"dominanceSD": 1.84
+	},
+	"lion": {
+		"valenceMean": 5.57,
+		"valenceSD": 1.99,
+		"arousalMean": 6.2,
+		"arousalSD": 2.16,
+		"dominanceMean": 4.12,
+		"dominanceSD": 2.33
+	},
+	"listless": {
+		"valenceMean": 4.12,
+		"valenceSD": 1.73,
+		"arousalMean": 4.1,
+		"arousalSD": 2.31,
+		"dominanceMean": 4.14,
+		"dominanceSD": 1.73
+	},
+	"lively": {
+		"valenceMean": 7.2,
+		"valenceSD": 1.97,
+		"arousalMean": 5.53,
+		"arousalSD": 2.9,
+		"dominanceMean": 6.09,
+		"dominanceSD": 1.95
+	},
+	"locker": {
+		"valenceMean": 5.19,
+		"valenceSD": 1.31,
+		"arousalMean": 3.38,
+		"arousalSD": 2.13,
+		"dominanceMean": 5.36,
+		"dominanceSD": 1.87
+	},
+	"loneliness": {
+		"valenceMean": 1.61,
+		"valenceSD": 1.02,
+		"arousalMean": 4.56,
+		"arousalSD": 2.97,
+		"dominanceMean": 2.51,
+		"dominanceSD": 2.27
+	},
+	"lonely": {
+		"valenceMean": 2.17,
+		"valenceSD": 1.76,
+		"arousalMean": 4.51,
+		"arousalSD": 2.68,
+		"dominanceMean": 2.95,
+		"dominanceSD": 2.12
+	},
+	"loser": {
+		"valenceMean": 2.25,
+		"valenceSD": 1.48,
+		"arousalMean": 4.95,
+		"arousalSD": 2.57,
+		"dominanceMean": 3.02,
+		"dominanceSD": 2.17
+	},
+	"lost": {
+		"valenceMean": 2.82,
+		"valenceSD": 1.83,
+		"arousalMean": 5.82,
+		"arousalSD": 2.62,
+		"dominanceMean": 2.86,
+		"dominanceSD": 1.64
+	},
+	"lottery": {
+		"valenceMean": 6.57,
+		"valenceSD": 2.04,
+		"arousalMean": 5.36,
+		"arousalSD": 2.45,
+		"dominanceMean": 4.81,
+		"dominanceSD": 2.11
+	},
+	"louse": {
+		"valenceMean": 2.81,
+		"valenceSD": 1.92,
+		"arousalMean": 4.98,
+		"arousalSD": 2.03,
+		"dominanceMean": 3.57,
+		"dominanceSD": 2.26
+	},
+	"love": {
+		"valenceMean": 8.72,
+		"valenceSD": 0.7,
+		"arousalMean": 6.44,
+		"arousalSD": 3.35,
+		"dominanceMean": 7.11,
+		"dominanceSD": 2.56
+	},
+	"loved": {
+		"valenceMean": 8.64,
+		"valenceSD": 0.71,
+		"arousalMean": 6.38,
+		"arousalSD": 2.68,
+		"dominanceMean": 6.62,
+		"dominanceSD": 2.53
+	},
+	"loyal": {
+		"valenceMean": 7.55,
+		"valenceSD": 1.9,
+		"arousalMean": 5.16,
+		"arousalSD": 2.42,
+		"dominanceMean": 6.91,
+		"dominanceSD": 2.23
+	},
+	"lucky": {
+		"valenceMean": 8.17,
+		"valenceSD": 1.06,
+		"arousalMean": 6.53,
+		"arousalSD": 2.34,
+		"dominanceMean": 6.05,
+		"dominanceSD": 2.25
+	},
+	"lump": {
+		"valenceMean": 4.16,
+		"valenceSD": 2.34,
+		"arousalMean": 4.8,
+		"arousalSD": 2.82,
+		"dominanceMean": 4.32,
+		"dominanceSD": 2.18
+	},
+	"luscious": {
+		"valenceMean": 7.5,
+		"valenceSD": 1.08,
+		"arousalMean": 5.34,
+		"arousalSD": 2.51,
+		"dominanceMean": 5.68,
+		"dominanceSD": 1.84
+	},
+	"lust": {
+		"valenceMean": 7.12,
+		"valenceSD": 1.62,
+		"arousalMean": 6.88,
+		"arousalSD": 1.85,
+		"dominanceMean": 5.49,
+		"dominanceSD": 2.27
+	},
+	"luxury": {
+		"valenceMean": 7.88,
+		"valenceSD": 1.49,
+		"arousalMean": 4.75,
+		"arousalSD": 2.91,
+		"dominanceMean": 6.4,
+		"dominanceSD": 2.45
+	},
+	"machine": {
+		"valenceMean": 5.09,
+		"valenceSD": 1.67,
+		"arousalMean": 3.82,
+		"arousalSD": 2.4,
+		"dominanceMean": 5.23,
+		"dominanceSD": 2.06
+	},
+	"mad": {
+		"valenceMean": 2.44,
+		"valenceSD": 1.72,
+		"arousalMean": 6.76,
+		"arousalSD": 2.26,
+		"dominanceMean": 5.86,
+		"dominanceSD": 2.2
+	},
+	"madman": {
+		"valenceMean": 3.91,
+		"valenceSD": 2.49,
+		"arousalMean": 5.56,
+		"arousalSD": 2.78,
+		"dominanceMean": 4.79,
+		"dominanceSD": 2.55
+	},
+	"maggot": {
+		"valenceMean": 2.06,
+		"valenceSD": 1.47,
+		"arousalMean": 5.28,
+		"arousalSD": 2.96,
+		"dominanceMean": 4.03,
+		"dominanceSD": 2.09
+	},
+	"magical": {
+		"valenceMean": 7.46,
+		"valenceSD": 1.64,
+		"arousalMean": 5.95,
+		"arousalSD": 2.36,
+		"dominanceMean": 5.73,
+		"dominanceSD": 2.19
+	},
+	"mail": {
+		"valenceMean": 6.88,
+		"valenceSD": 1.74,
+		"arousalMean": 5.63,
+		"arousalSD": 2.36,
+		"dominanceMean": 5.67,
+		"dominanceSD": 1.79
+	},
+	"malaria": {
+		"valenceMean": 2.4,
+		"valenceSD": 1.38,
+		"arousalMean": 4.4,
+		"arousalSD": 2.54,
+		"dominanceMean": 3.22,
+		"dominanceSD": 1.9
+	},
+	"malice": {
+		"valenceMean": 2.69,
+		"valenceSD": 1.84,
+		"arousalMean": 5.86,
+		"arousalSD": 2.75,
+		"dominanceMean": 4.74,
+		"dominanceSD": 2.72
+	},
+	"man": {
+		"valenceMean": 6.73,
+		"valenceSD": 1.7,
+		"arousalMean": 5.24,
+		"arousalSD": 2.31,
+		"dominanceMean": 5.53,
+		"dominanceSD": 2.23
+	},
+	"mangle": {
+		"valenceMean": 3.9,
+		"valenceSD": 2.01,
+		"arousalMean": 5.44,
+		"arousalSD": 2.1,
+		"dominanceMean": 4.61,
+		"dominanceSD": 1.84
+	},
+	"maniac": {
+		"valenceMean": 3.76,
+		"valenceSD": 2.0,
+		"arousalMean": 5.39,
+		"arousalSD": 2.46,
+		"dominanceMean": 4.22,
+		"dominanceSD": 2.07
+	},
+	"manner": {
+		"valenceMean": 5.64,
+		"valenceSD": 1.34,
+		"arousalMean": 4.56,
+		"arousalSD": 1.78,
+		"dominanceMean": 5.05,
+		"dominanceSD": 1.83
+	},
+	"mantel": {
+		"valenceMean": 4.93,
+		"valenceSD": 1.4,
+		"arousalMean": 3.27,
+		"arousalSD": 2.23,
+		"dominanceMean": 4.95,
+		"dominanceSD": 1.61
+	},
+	"manure": {
+		"valenceMean": 3.1,
+		"valenceSD": 1.74,
+		"arousalMean": 4.17,
+		"arousalSD": 2.09,
+		"dominanceMean": 4.67,
+		"dominanceSD": 1.36
+	},
+	"market": {
+		"valenceMean": 5.66,
+		"valenceSD": 1.02,
+		"arousalMean": 4.12,
+		"arousalSD": 1.83,
+		"dominanceMean": 5.27,
+		"dominanceSD": 1.4
+	},
+	"massacre": {
+		"valenceMean": 2.28,
+		"valenceSD": 1.74,
+		"arousalMean": 5.33,
+		"arousalSD": 2.63,
+		"dominanceMean": 3.5,
+		"dominanceSD": 2.26
+	},
+	"masterful": {
+		"valenceMean": 7.09,
+		"valenceSD": 1.78,
+		"arousalMean": 5.2,
+		"arousalSD": 2.85,
+		"dominanceMean": 7.18,
+		"dominanceSD": 2.56
+	},
+	"masturbate": {
+		"valenceMean": 5.45,
+		"valenceSD": 2.02,
+		"arousalMean": 5.67,
+		"arousalSD": 2.18,
+		"dominanceMean": 5.63,
+		"dominanceSD": 2.25
+	},
+	"material": {
+		"valenceMean": 5.26,
+		"valenceSD": 1.29,
+		"arousalMean": 4.05,
+		"arousalSD": 2.34,
+		"dominanceMean": 5.12,
+		"dominanceSD": 1.45
+	},
+	"measles": {
+		"valenceMean": 2.74,
+		"valenceSD": 1.97,
+		"arousalMean": 5.06,
+		"arousalSD": 2.44,
+		"dominanceMean": 4.13,
+		"dominanceSD": 2.16
+	},
+	"medicine": {
+		"valenceMean": 5.67,
+		"valenceSD": 2.06,
+		"arousalMean": 4.4,
+		"arousalSD": 2.36,
+		"dominanceMean": 4.7,
+		"dominanceSD": 1.91
+	},
+	"meek": {
+		"valenceMean": 3.87,
+		"valenceSD": 1.69,
+		"arousalMean": 3.8,
+		"arousalSD": 2.13,
+		"dominanceMean": 3.67,
+		"dominanceSD": 2.23
+	},
+	"melody": {
+		"valenceMean": 7.07,
+		"valenceSD": 1.79,
+		"arousalMean": 4.98,
+		"arousalSD": 2.52,
+		"dominanceMean": 5.46,
+		"dominanceSD": 1.78
+	},
+	"memories": {
+		"valenceMean": 7.48,
+		"valenceSD": 1.61,
+		"arousalMean": 6.1,
+		"arousalSD": 2.1,
+		"dominanceMean": 5.88,
+		"dominanceSD": 1.92
+	},
+	"memory": {
+		"valenceMean": 6.62,
+		"valenceSD": 1.5,
+		"arousalMean": 5.42,
+		"arousalSD": 2.25,
+		"dominanceMean": 5.11,
+		"dominanceSD": 2.12
+	},
+	"menace": {
+		"valenceMean": 2.88,
+		"valenceSD": 1.64,
+		"arousalMean": 5.52,
+		"arousalSD": 2.45,
+		"dominanceMean": 4.98,
+		"dominanceSD": 2.25
+	},
+	"merry": {
+		"valenceMean": 7.9,
+		"valenceSD": 1.49,
+		"arousalMean": 5.9,
+		"arousalSD": 2.42,
+		"dominanceMean": 6.64,
+		"dominanceSD": 1.66
+	},
+	"messy": {
+		"valenceMean": 3.15,
+		"valenceSD": 1.73,
+		"arousalMean": 3.34,
+		"arousalSD": 2.37,
+		"dominanceMean": 4.75,
+		"dominanceSD": 2.15
+	},
+	"metal": {
+		"valenceMean": 4.95,
+		"valenceSD": 1.17,
+		"arousalMean": 3.79,
+		"arousalSD": 1.96,
+		"dominanceMean": 5.38,
+		"dominanceSD": 1.4
+	},
+	"method": {
+		"valenceMean": 5.56,
+		"valenceSD": 1.76,
+		"arousalMean": 3.85,
+		"arousalSD": 2.58,
+		"dominanceMean": 5.67,
+		"dominanceSD": 1.58
+	},
+	"mighty": {
+		"valenceMean": 6.54,
+		"valenceSD": 2.19,
+		"arousalMean": 5.61,
+		"arousalSD": 2.38,
+		"dominanceMean": 7.23,
+		"dominanceSD": 2.11
+	},
+	"mildew": {
+		"valenceMean": 3.17,
+		"valenceSD": 1.36,
+		"arousalMean": 4.08,
+		"arousalSD": 1.79,
+		"dominanceMean": 4.4,
+		"dominanceSD": 1.79
+	},
+	"milk": {
+		"valenceMean": 5.95,
+		"valenceSD": 2.16,
+		"arousalMean": 3.68,
+		"arousalSD": 2.57,
+		"dominanceMean": 5.83,
+		"dominanceSD": 1.5
+	},
+	"millionaire": {
+		"valenceMean": 8.03,
+		"valenceSD": 1.42,
+		"arousalMean": 6.14,
+		"arousalSD": 2.7,
+		"dominanceMean": 6.97,
+		"dominanceSD": 2.4
+	},
+	"mind": {
+		"valenceMean": 6.68,
+		"valenceSD": 1.84,
+		"arousalMean": 5.0,
+		"arousalSD": 2.68,
+		"dominanceMean": 6.37,
+		"dominanceSD": 2.19
+	},
+	"miracle": {
+		"valenceMean": 8.6,
+		"valenceSD": 0.71,
+		"arousalMean": 7.65,
+		"arousalSD": 1.67,
+		"dominanceMean": 5.35,
+		"dominanceSD": 2.58
+	},
+	"mischief": {
+		"valenceMean": 5.57,
+		"valenceSD": 2.05,
+		"arousalMean": 5.76,
+		"arousalSD": 1.95,
+		"dominanceMean": 5.56,
+		"dominanceSD": 1.88
+	},
+	"misery": {
+		"valenceMean": 1.93,
+		"valenceSD": 1.6,
+		"arousalMean": 5.17,
+		"arousalSD": 2.69,
+		"dominanceMean": 2.55,
+		"dominanceSD": 1.45
+	},
+	"mistake": {
+		"valenceMean": 2.86,
+		"valenceSD": 1.79,
+		"arousalMean": 5.18,
+		"arousalSD": 2.42,
+		"dominanceMean": 3.86,
+		"dominanceSD": 2.42
+	},
+	"mobility": {
+		"valenceMean": 6.83,
+		"valenceSD": 1.79,
+		"arousalMean": 5.0,
+		"arousalSD": 2.18,
+		"dominanceMean": 6.43,
+		"dominanceSD": 1.48
+	},
+	"modest": {
+		"valenceMean": 5.76,
+		"valenceSD": 1.28,
+		"arousalMean": 3.98,
+		"arousalSD": 2.24,
+		"dominanceMean": 4.96,
+		"dominanceSD": 2.16
+	},
+	"mold": {
+		"valenceMean": 3.55,
+		"valenceSD": 1.7,
+		"arousalMean": 4.07,
+		"arousalSD": 1.98,
+		"dominanceMean": 4.33,
+		"dominanceSD": 1.83
+	},
+	"moment": {
+		"valenceMean": 5.76,
+		"valenceSD": 1.65,
+		"arousalMean": 3.83,
+		"arousalSD": 2.29,
+		"dominanceMean": 4.81,
+		"dominanceSD": 1.92
+	},
+	"money": {
+		"valenceMean": 7.59,
+		"valenceSD": 1.4,
+		"arousalMean": 5.7,
+		"arousalSD": 2.66,
+		"dominanceMean": 6.25,
+		"dominanceSD": 2.33
+	},
+	"month": {
+		"valenceMean": 5.15,
+		"valenceSD": 1.09,
+		"arousalMean": 4.03,
+		"arousalSD": 1.77,
+		"dominanceMean": 4.85,
+		"dominanceSD": 1.14
+	},
+	"moody": {
+		"valenceMean": 3.2,
+		"valenceSD": 1.58,
+		"arousalMean": 4.18,
+		"arousalSD": 2.38,
+		"dominanceMean": 4.39,
+		"dominanceSD": 1.71
+	},
+	"moral": {
+		"valenceMean": 6.2,
+		"valenceSD": 1.85,
+		"arousalMean": 4.49,
+		"arousalSD": 2.28,
+		"dominanceMean": 5.9,
+		"dominanceSD": 2.2
+	},
+	"morbid": {
+		"valenceMean": 2.87,
+		"valenceSD": 2.14,
+		"arousalMean": 5.06,
+		"arousalSD": 2.68,
+		"dominanceMean": 4.34,
+		"dominanceSD": 2.5
+	},
+	"morgue": {
+		"valenceMean": 1.92,
+		"valenceSD": 1.32,
+		"arousalMean": 4.84,
+		"arousalSD": 2.96,
+		"dominanceMean": 3.61,
+		"dominanceSD": 1.94
+	},
+	"mosquito": {
+		"valenceMean": 2.8,
+		"valenceSD": 1.91,
+		"arousalMean": 4.78,
+		"arousalSD": 2.72,
+		"dominanceMean": 4.51,
+		"dominanceSD": 2.15
+	},
+	"mother": {
+		"valenceMean": 8.39,
+		"valenceSD": 1.15,
+		"arousalMean": 6.13,
+		"arousalSD": 2.71,
+		"dominanceMean": 5.74,
+		"dominanceSD": 2.37
+	},
+	"mountain": {
+		"valenceMean": 6.59,
+		"valenceSD": 1.66,
+		"arousalMean": 5.49,
+		"arousalSD": 2.43,
+		"dominanceMean": 5.46,
+		"dominanceSD": 2.36
+	},
+	"movie": {
+		"valenceMean": 6.86,
+		"valenceSD": 1.81,
+		"arousalMean": 4.93,
+		"arousalSD": 2.54,
+		"dominanceMean": 5.0,
+		"dominanceSD": 1.79
+	},
+	"mucus": {
+		"valenceMean": 3.34,
+		"valenceSD": 2.29,
+		"arousalMean": 3.41,
+		"arousalSD": 2.17,
+		"dominanceMean": 4.8,
+		"dominanceSD": 1.83
+	},
+	"muddy": {
+		"valenceMean": 4.44,
+		"valenceSD": 2.07,
+		"arousalMean": 4.13,
+		"arousalSD": 2.13,
+		"dominanceMean": 4.73,
+		"dominanceSD": 1.77
+	},
+	"muffin": {
+		"valenceMean": 6.57,
+		"valenceSD": 2.04,
+		"arousalMean": 4.76,
+		"arousalSD": 2.42,
+		"dominanceMean": 5.51,
+		"dominanceSD": 1.63
+	},
+	"murderer": {
+		"valenceMean": 1.53,
+		"valenceSD": 0.96,
+		"arousalMean": 7.47,
+		"arousalSD": 2.18,
+		"dominanceMean": 3.77,
+		"dominanceSD": 3.06
+	},
+	"muscular": {
+		"valenceMean": 6.82,
+		"valenceSD": 1.63,
+		"arousalMean": 5.47,
+		"arousalSD": 2.2,
+		"dominanceMean": 6.58,
+		"dominanceSD": 2.28
+	},
+	"museum": {
+		"valenceMean": 5.54,
+		"valenceSD": 1.86,
+		"arousalMean": 3.6,
+		"arousalSD": 2.13,
+		"dominanceMean": 5.32,
+		"dominanceSD": 1.68
+	},
+	"mushroom": {
+		"valenceMean": 5.78,
+		"valenceSD": 2.22,
+		"arousalMean": 4.72,
+		"arousalSD": 2.33,
+		"dominanceMean": 5.52,
+		"dominanceSD": 2.1
+	},
+	"music": {
+		"valenceMean": 8.13,
+		"valenceSD": 1.09,
+		"arousalMean": 5.32,
+		"arousalSD": 3.19,
+		"dominanceMean": 6.39,
+		"dominanceSD": 2.44
+	},
+	"mutation": {
+		"valenceMean": 3.91,
+		"valenceSD": 2.44,
+		"arousalMean": 4.84,
+		"arousalSD": 2.52,
+		"dominanceMean": 4.07,
+		"dominanceSD": 2.1
+	},
+	"mutilate": {
+		"valenceMean": 1.82,
+		"valenceSD": 1.45,
+		"arousalMean": 6.41,
+		"arousalSD": 2.94,
+		"dominanceMean": 3.41,
+		"dominanceSD": 2.71
+	},
+	"mystic": {
+		"valenceMean": 6.0,
+		"valenceSD": 2.21,
+		"arousalMean": 4.84,
+		"arousalSD": 2.57,
+		"dominanceMean": 5.52,
+		"dominanceSD": 1.93
+	},
+	"naked": {
+		"valenceMean": 6.34,
+		"valenceSD": 2.42,
+		"arousalMean": 5.8,
+		"arousalSD": 2.8,
+		"dominanceMean": 6.0,
+		"dominanceSD": 2.05
+	},
+	"name": {
+		"valenceMean": 5.55,
+		"valenceSD": 2.24,
+		"arousalMean": 4.25,
+		"arousalSD": 2.47,
+		"dominanceMean": 5.16,
+		"dominanceSD": 2.08
+	},
+	"narcotic": {
+		"valenceMean": 4.29,
+		"valenceSD": 2.3,
+		"arousalMean": 4.93,
+		"arousalSD": 2.57,
+		"dominanceMean": 4.44,
+		"dominanceSD": 2.43
+	},
+	"nasty": {
+		"valenceMean": 3.58,
+		"valenceSD": 2.38,
+		"arousalMean": 4.89,
+		"arousalSD": 2.5,
+		"dominanceMean": 5.0,
+		"dominanceSD": 2.17
+	},
+	"natural": {
+		"valenceMean": 6.59,
+		"valenceSD": 1.57,
+		"arousalMean": 4.09,
+		"arousalSD": 2.37,
+		"dominanceMean": 5.57,
+		"dominanceSD": 1.69
+	},
+	"nature": {
+		"valenceMean": 7.65,
+		"valenceSD": 1.37,
+		"arousalMean": 4.37,
+		"arousalSD": 2.51,
+		"dominanceMean": 4.95,
+		"dominanceSD": 2.72
+	},
+	"nectar": {
+		"valenceMean": 6.9,
+		"valenceSD": 1.53,
+		"arousalMean": 3.89,
+		"arousalSD": 2.48,
+		"dominanceMean": 4.54,
+		"dominanceSD": 2.06
+	},
+	"needle": {
+		"valenceMean": 3.82,
+		"valenceSD": 1.73,
+		"arousalMean": 5.36,
+		"arousalSD": 2.89,
+		"dominanceMean": 3.95,
+		"dominanceSD": 2.17
+	},
+	"neglect": {
+		"valenceMean": 2.63,
+		"valenceSD": 1.64,
+		"arousalMean": 4.83,
+		"arousalSD": 2.31,
+		"dominanceMean": 3.85,
+		"dominanceSD": 2.29
+	},
+	"nervous": {
+		"valenceMean": 3.29,
+		"valenceSD": 1.47,
+		"arousalMean": 6.59,
+		"arousalSD": 2.07,
+		"dominanceMean": 3.56,
+		"dominanceSD": 1.73
+	},
+	"neurotic": {
+		"valenceMean": 4.45,
+		"valenceSD": 2.23,
+		"arousalMean": 5.13,
+		"arousalSD": 2.76,
+		"dominanceMean": 4.41,
+		"dominanceSD": 2.05
+	},
+	"news": {
+		"valenceMean": 5.3,
+		"valenceSD": 1.67,
+		"arousalMean": 5.17,
+		"arousalSD": 2.11,
+		"dominanceMean": 4.6,
+		"dominanceSD": 1.88
+	},
+	"nice": {
+		"valenceMean": 6.55,
+		"valenceSD": 2.44,
+		"arousalMean": 4.38,
+		"arousalSD": 2.69,
+		"dominanceMean": 5.58,
+		"dominanceSD": 2.2
+	},
+	"nightmare": {
+		"valenceMean": 1.91,
+		"valenceSD": 1.54,
+		"arousalMean": 7.59,
+		"arousalSD": 2.23,
+		"dominanceMean": 3.68,
+		"dominanceSD": 2.76
+	},
+	"nipple": {
+		"valenceMean": 6.27,
+		"valenceSD": 1.81,
+		"arousalMean": 5.56,
+		"arousalSD": 2.55,
+		"dominanceMean": 5.57,
+		"dominanceSD": 2.0
+	},
+	"noisy": {
+		"valenceMean": 5.02,
+		"valenceSD": 2.02,
+		"arousalMean": 6.38,
+		"arousalSD": 1.78,
+		"dominanceMean": 4.93,
+		"dominanceSD": 1.76
+	},
+	"nonchalant": {
+		"valenceMean": 4.74,
+		"valenceSD": 1.11,
+		"arousalMean": 3.12,
+		"arousalSD": 1.93,
+		"dominanceMean": 4.31,
+		"dominanceSD": 1.54
+	},
+	"nonsense": {
+		"valenceMean": 4.61,
+		"valenceSD": 1.63,
+		"arousalMean": 4.17,
+		"arousalSD": 2.02,
+		"dominanceMean": 4.9,
+		"dominanceSD": 1.55
+	},
+	"noose": {
+		"valenceMean": 3.76,
+		"valenceSD": 1.64,
+		"arousalMean": 4.39,
+		"arousalSD": 2.08,
+		"dominanceMean": 4.17,
+		"dominanceSD": 1.92
+	},
+	"nourish": {
+		"valenceMean": 6.46,
+		"valenceSD": 1.69,
+		"arousalMean": 4.29,
+		"arousalSD": 2.51,
+		"dominanceMean": 5.8,
+		"dominanceSD": 1.62
+	},
+	"nude": {
+		"valenceMean": 6.82,
+		"valenceSD": 1.63,
+		"arousalMean": 6.41,
+		"arousalSD": 2.09,
+		"dominanceMean": 5.96,
+		"dominanceSD": 2.29
+	},
+	"nuisance": {
+		"valenceMean": 3.27,
+		"valenceSD": 1.86,
+		"arousalMean": 4.49,
+		"arousalSD": 2.69,
+		"dominanceMean": 4.36,
+		"dominanceSD": 1.73
+	},
+	"nun": {
+		"valenceMean": 4.93,
+		"valenceSD": 1.89,
+		"arousalMean": 2.93,
+		"arousalSD": 1.8,
+		"dominanceMean": 4.93,
+		"dominanceSD": 1.69
+	},
+	"nurse": {
+		"valenceMean": 6.08,
+		"valenceSD": 2.08,
+		"arousalMean": 4.84,
+		"arousalSD": 2.04,
+		"dominanceMean": 4.84,
+		"dominanceSD": 2.2
+	},
+	"nursery": {
+		"valenceMean": 5.73,
+		"valenceSD": 2.3,
+		"arousalMean": 4.04,
+		"arousalSD": 2.74,
+		"dominanceMean": 5.18,
+		"dominanceSD": 2.23
+	},
+	"obesity": {
+		"valenceMean": 2.73,
+		"valenceSD": 1.85,
+		"arousalMean": 3.87,
+		"arousalSD": 2.82,
+		"dominanceMean": 3.74,
+		"dominanceSD": 2.45
+	},
+	"obey": {
+		"valenceMean": 4.52,
+		"valenceSD": 1.88,
+		"arousalMean": 4.23,
+		"arousalSD": 1.72,
+		"dominanceMean": 4.26,
+		"dominanceSD": 2.4
+	},
+	"obnoxious": {
+		"valenceMean": 3.5,
+		"valenceSD": 2.18,
+		"arousalMean": 4.74,
+		"arousalSD": 2.42,
+		"dominanceMean": 5.39,
+		"dominanceSD": 2.2
+	},
+	"obscene": {
+		"valenceMean": 4.23,
+		"valenceSD": 2.3,
+		"arousalMean": 5.04,
+		"arousalSD": 2.3,
+		"dominanceMean": 4.48,
+		"dominanceSD": 1.91
+	},
+	"obsession": {
+		"valenceMean": 4.52,
+		"valenceSD": 2.13,
+		"arousalMean": 6.41,
+		"arousalSD": 2.13,
+		"dominanceMean": 4.77,
+		"dominanceSD": 2.38
+	},
+	"ocean": {
+		"valenceMean": 7.12,
+		"valenceSD": 1.72,
+		"arousalMean": 4.95,
+		"arousalSD": 2.79,
+		"dominanceMean": 5.53,
+		"dominanceSD": 2.75
+	},
+	"odd": {
+		"valenceMean": 4.82,
+		"valenceSD": 2.04,
+		"arousalMean": 4.27,
+		"arousalSD": 2.46,
+		"dominanceMean": 4.77,
+		"dominanceSD": 1.89
+	},
+	"offend": {
+		"valenceMean": 2.76,
+		"valenceSD": 1.5,
+		"arousalMean": 5.56,
+		"arousalSD": 2.06,
+		"dominanceMean": 3.73,
+		"dominanceSD": 2.03
+	},
+	"office": {
+		"valenceMean": 5.24,
+		"valenceSD": 1.59,
+		"arousalMean": 4.08,
+		"arousalSD": 1.92,
+		"dominanceMean": 5.59,
+		"dominanceSD": 1.89
+	},
+	"opinion": {
+		"valenceMean": 6.28,
+		"valenceSD": 1.45,
+		"arousalMean": 4.89,
+		"arousalSD": 2.46,
+		"dominanceMean": 5.53,
+		"dominanceSD": 1.93
+	},
+	"optimism": {
+		"valenceMean": 6.95,
+		"valenceSD": 2.24,
+		"arousalMean": 5.34,
+		"arousalSD": 2.58,
+		"dominanceMean": 6.61,
+		"dominanceSD": 2.06
+	},
+	"option": {
+		"valenceMean": 6.49,
+		"valenceSD": 1.31,
+		"arousalMean": 4.74,
+		"arousalSD": 2.23,
+		"dominanceMean": 6.34,
+		"dominanceSD": 1.8
+	},
+	"orchestra": {
+		"valenceMean": 6.02,
+		"valenceSD": 1.89,
+		"arousalMean": 3.52,
+		"arousalSD": 2.29,
+		"dominanceMean": 5.17,
+		"dominanceSD": 2.14
+	},
+	"orgasm": {
+		"valenceMean": 8.32,
+		"valenceSD": 1.31,
+		"arousalMean": 8.1,
+		"arousalSD": 1.45,
+		"dominanceMean": 6.83,
+		"dominanceSD": 2.18
+	},
+	"outdoors": {
+		"valenceMean": 7.47,
+		"valenceSD": 1.8,
+		"arousalMean": 5.92,
+		"arousalSD": 2.55,
+		"dominanceMean": 6.27,
+		"dominanceSD": 2.24
+	},
+	"outrage": {
+		"valenceMean": 3.52,
+		"valenceSD": 2.12,
+		"arousalMean": 6.83,
+		"arousalSD": 2.26,
+		"dominanceMean": 5.26,
+		"dominanceSD": 2.72
+	},
+	"outstanding": {
+		"valenceMean": 7.75,
+		"valenceSD": 1.75,
+		"arousalMean": 6.24,
+		"arousalSD": 2.59,
+		"dominanceMean": 6.4,
+		"dominanceSD": 2.29
+	},
+	"overcast": {
+		"valenceMean": 3.65,
+		"valenceSD": 1.61,
+		"arousalMean": 3.46,
+		"arousalSD": 1.92,
+		"dominanceMean": 4.2,
+		"dominanceSD": 1.79
+	},
+	"overwhelmed": {
+		"valenceMean": 4.19,
+		"valenceSD": 2.61,
+		"arousalMean": 7.0,
+		"arousalSD": 2.37,
+		"dominanceMean": 3.89,
+		"dominanceSD": 2.58
+	},
+	"owl": {
+		"valenceMean": 5.8,
+		"valenceSD": 1.31,
+		"arousalMean": 3.98,
+		"arousalSD": 1.87,
+		"dominanceMean": 5.82,
+		"dominanceSD": 1.62
+	},
+	"pain": {
+		"valenceMean": 2.13,
+		"valenceSD": 1.81,
+		"arousalMean": 6.5,
+		"arousalSD": 2.49,
+		"dominanceMean": 3.71,
+		"dominanceSD": 2.53
+	},
+	"paint": {
+		"valenceMean": 5.62,
+		"valenceSD": 1.72,
+		"arousalMean": 4.1,
+		"arousalSD": 2.36,
+		"dominanceMean": 5.75,
+		"dominanceSD": 1.71
+	},
+	"palace": {
+		"valenceMean": 7.19,
+		"valenceSD": 1.78,
+		"arousalMean": 5.1,
+		"arousalSD": 2.75,
+		"dominanceMean": 5.69,
+		"dominanceSD": 2.17
+	},
+	"pamphlet": {
+		"valenceMean": 4.79,
+		"valenceSD": 1.05,
+		"arousalMean": 3.62,
+		"arousalSD": 2.02,
+		"dominanceMean": 4.63,
+		"dominanceSD": 1.48
+	},
+	"pancakes": {
+		"valenceMean": 6.08,
+		"valenceSD": 1.83,
+		"arousalMean": 4.06,
+		"arousalSD": 2.13,
+		"dominanceMean": 5.76,
+		"dominanceSD": 1.61
+	},
+	"panic": {
+		"valenceMean": 3.12,
+		"valenceSD": 1.84,
+		"arousalMean": 7.02,
+		"arousalSD": 2.02,
+		"dominanceMean": 3.2,
+		"dominanceSD": 1.67
+	},
+	"paper": {
+		"valenceMean": 5.2,
+		"valenceSD": 1.21,
+		"arousalMean": 2.5,
+		"arousalSD": 1.85,
+		"dominanceMean": 4.47,
+		"dominanceSD": 1.67
+	},
+	"paradise": {
+		"valenceMean": 8.72,
+		"valenceSD": 0.6,
+		"arousalMean": 5.12,
+		"arousalSD": 3.38,
+		"dominanceMean": 6.03,
+		"dominanceSD": 2.79
+	},
+	"paralysis": {
+		"valenceMean": 1.98,
+		"valenceSD": 1.44,
+		"arousalMean": 4.73,
+		"arousalSD": 2.83,
+		"dominanceMean": 2.56,
+		"dominanceSD": 1.82
+	},
+	"part": {
+		"valenceMean": 5.11,
+		"valenceSD": 1.78,
+		"arousalMean": 3.82,
+		"arousalSD": 2.24,
+		"dominanceMean": 4.75,
+		"dominanceSD": 1.59
+	},
+	"party": {
+		"valenceMean": 7.86,
+		"valenceSD": 1.83,
+		"arousalMean": 6.69,
+		"arousalSD": 2.84,
+		"dominanceMean": 5.83,
+		"dominanceSD": 2.46
+	},
+	"passage": {
+		"valenceMean": 5.28,
+		"valenceSD": 1.44,
+		"arousalMean": 4.36,
+		"arousalSD": 2.13,
+		"dominanceMean": 5.02,
+		"dominanceSD": 1.62
+	},
+	"passion": {
+		"valenceMean": 8.03,
+		"valenceSD": 1.27,
+		"arousalMean": 7.26,
+		"arousalSD": 2.57,
+		"dominanceMean": 6.13,
+		"dominanceSD": 2.24
+	},
+	"pasta": {
+		"valenceMean": 6.69,
+		"valenceSD": 1.64,
+		"arousalMean": 4.94,
+		"arousalSD": 2.04,
+		"dominanceMean": 5.8,
+		"dominanceSD": 1.47
+	},
+	"patent": {
+		"valenceMean": 5.29,
+		"valenceSD": 1.08,
+		"arousalMean": 3.5,
+		"arousalSD": 1.84,
+		"dominanceMean": 4.9,
+		"dominanceSD": 1.79
+	},
+	"patient": {
+		"valenceMean": 5.29,
+		"valenceSD": 1.89,
+		"arousalMean": 4.21,
+		"arousalSD": 2.37,
+		"dominanceMean": 4.9,
+		"dominanceSD": 2.31
+	},
+	"patriot": {
+		"valenceMean": 6.71,
+		"valenceSD": 1.69,
+		"arousalMean": 5.17,
+		"arousalSD": 2.53,
+		"dominanceMean": 5.9,
+		"dominanceSD": 1.54
+	},
+	"peace": {
+		"valenceMean": 7.72,
+		"valenceSD": 1.75,
+		"arousalMean": 2.95,
+		"arousalSD": 2.55,
+		"dominanceMean": 5.45,
+		"dominanceSD": 2.84
+	},
+	"penalty": {
+		"valenceMean": 2.83,
+		"valenceSD": 1.56,
+		"arousalMean": 5.1,
+		"arousalSD": 2.31,
+		"dominanceMean": 3.95,
+		"dominanceSD": 1.97
+	},
+	"pencil": {
+		"valenceMean": 5.22,
+		"valenceSD": 0.68,
+		"arousalMean": 3.14,
+		"arousalSD": 1.9,
+		"dominanceMean": 4.78,
+		"dominanceSD": 1.73
+	},
+	"penis": {
+		"valenceMean": 5.9,
+		"valenceSD": 1.72,
+		"arousalMean": 5.54,
+		"arousalSD": 2.63,
+		"dominanceMean": 5.92,
+		"dominanceSD": 2.54
+	},
+	"penthouse": {
+		"valenceMean": 6.81,
+		"valenceSD": 1.64,
+		"arousalMean": 5.52,
+		"arousalSD": 2.49,
+		"dominanceMean": 6.52,
+		"dominanceSD": 1.82
+	},
+	"people": {
+		"valenceMean": 7.33,
+		"valenceSD": 1.7,
+		"arousalMean": 5.94,
+		"arousalSD": 2.09,
+		"dominanceMean": 6.14,
+		"dominanceSD": 2.02
+	},
+	"perfection": {
+		"valenceMean": 7.25,
+		"valenceSD": 2.05,
+		"arousalMean": 5.95,
+		"arousalSD": 2.73,
+		"dominanceMean": 6.71,
+		"dominanceSD": 2.26
+	},
+	"perfume": {
+		"valenceMean": 6.76,
+		"valenceSD": 1.48,
+		"arousalMean": 5.05,
+		"arousalSD": 2.36,
+		"dominanceMean": 5.93,
+		"dominanceSD": 1.69
+	},
+	"person": {
+		"valenceMean": 6.32,
+		"valenceSD": 1.74,
+		"arousalMean": 4.19,
+		"arousalSD": 2.45,
+		"dominanceMean": 5.35,
+		"dominanceSD": 2.02
+	},
+	"pervert": {
+		"valenceMean": 2.79,
+		"valenceSD": 2.12,
+		"arousalMean": 6.26,
+		"arousalSD": 2.61,
+		"dominanceMean": 4.72,
+		"dominanceSD": 2.83
+	},
+	"pest": {
+		"valenceMean": 3.13,
+		"valenceSD": 1.82,
+		"arousalMean": 5.62,
+		"arousalSD": 2.15,
+		"dominanceMean": 5.29,
+		"dominanceSD": 2.13
+	},
+	"pet": {
+		"valenceMean": 6.79,
+		"valenceSD": 2.32,
+		"arousalMean": 5.1,
+		"arousalSD": 2.59,
+		"dominanceMean": 5.85,
+		"dominanceSD": 2.28
+	},
+	"phase": {
+		"valenceMean": 5.17,
+		"valenceSD": 0.79,
+		"arousalMean": 3.98,
+		"arousalSD": 1.82,
+		"dominanceMean": 4.65,
+		"dominanceSD": 1.72
+	},
+	"pie": {
+		"valenceMean": 6.41,
+		"valenceSD": 1.89,
+		"arousalMean": 4.2,
+		"arousalSD": 2.4,
+		"dominanceMean": 5.35,
+		"dominanceSD": 1.78
+	},
+	"pig": {
+		"valenceMean": 5.07,
+		"valenceSD": 1.97,
+		"arousalMean": 4.2,
+		"arousalSD": 2.42,
+		"dominanceMean": 5.34,
+		"dominanceSD": 1.88
+	},
+	"pillow": {
+		"valenceMean": 7.92,
+		"valenceSD": 1.4,
+		"arousalMean": 2.97,
+		"arousalSD": 2.52,
+		"dominanceMean": 4.56,
+		"dominanceSD": 2.17
+	},
+	"pinch": {
+		"valenceMean": 3.83,
+		"valenceSD": 1.7,
+		"arousalMean": 4.59,
+		"arousalSD": 2.1,
+		"dominanceMean": 4.76,
+		"dominanceSD": 1.73
+	},
+	"pistol": {
+		"valenceMean": 4.2,
+		"valenceSD": 2.58,
+		"arousalMean": 6.15,
+		"arousalSD": 2.19,
+		"dominanceMean": 5.05,
+		"dominanceSD": 2.77
+	},
+	"pity": {
+		"valenceMean": 3.37,
+		"valenceSD": 1.57,
+		"arousalMean": 3.72,
+		"arousalSD": 2.02,
+		"dominanceMean": 4.12,
+		"dominanceSD": 1.82
+	},
+	"pizza": {
+		"valenceMean": 6.65,
+		"valenceSD": 2.23,
+		"arousalMean": 5.24,
+		"arousalSD": 2.09,
+		"dominanceMean": 5.69,
+		"dominanceSD": 1.9
+	},
+	"plain": {
+		"valenceMean": 4.39,
+		"valenceSD": 1.46,
+		"arousalMean": 3.52,
+		"arousalSD": 2.05,
+		"dominanceMean": 4.71,
+		"dominanceSD": 1.68
+	},
+	"plane": {
+		"valenceMean": 6.43,
+		"valenceSD": 1.98,
+		"arousalMean": 6.14,
+		"arousalSD": 2.39,
+		"dominanceMean": 4.78,
+		"dominanceSD": 2.19
+	},
+	"plant": {
+		"valenceMean": 5.98,
+		"valenceSD": 1.83,
+		"arousalMean": 3.62,
+		"arousalSD": 2.25,
+		"dominanceMean": 4.71,
+		"dominanceSD": 2.12
+	},
+	"pleasure": {
+		"valenceMean": 8.28,
+		"valenceSD": 0.92,
+		"arousalMean": 5.74,
+		"arousalSD": 2.81,
+		"dominanceMean": 6.15,
+		"dominanceSD": 2.31
+	},
+	"poetry": {
+		"valenceMean": 5.86,
+		"valenceSD": 1.91,
+		"arousalMean": 4.0,
+		"arousalSD": 2.85,
+		"dominanceMean": 5.31,
+		"dominanceSD": 1.81
+	},
+	"poison": {
+		"valenceMean": 1.98,
+		"valenceSD": 1.44,
+		"arousalMean": 6.05,
+		"arousalSD": 2.82,
+		"dominanceMean": 3.1,
+		"dominanceSD": 2.44
+	},
+	"politeness": {
+		"valenceMean": 7.18,
+		"valenceSD": 1.5,
+		"arousalMean": 3.74,
+		"arousalSD": 2.37,
+		"dominanceMean": 5.74,
+		"dominanceSD": 1.7
+	},
+	"pollute": {
+		"valenceMean": 1.85,
+		"valenceSD": 1.11,
+		"arousalMean": 6.08,
+		"arousalSD": 2.42,
+		"dominanceMean": 4.92,
+		"dominanceSD": 2.51
+	},
+	"poster": {
+		"valenceMean": 5.34,
+		"valenceSD": 1.75,
+		"arousalMean": 3.93,
+		"arousalSD": 2.56,
+		"dominanceMean": 4.91,
+		"dominanceSD": 1.87
+	},
+	"poverty": {
+		"valenceMean": 1.67,
+		"valenceSD": 0.9,
+		"arousalMean": 4.87,
+		"arousalSD": 2.66,
+		"dominanceMean": 3.21,
+		"dominanceSD": 2.21
+	},
+	"power": {
+		"valenceMean": 6.54,
+		"valenceSD": 2.21,
+		"arousalMean": 6.67,
+		"arousalSD": 1.87,
+		"dominanceMean": 7.28,
+		"dominanceSD": 2.35
+	},
+	"powerful": {
+		"valenceMean": 6.84,
+		"valenceSD": 1.8,
+		"arousalMean": 5.83,
+		"arousalSD": 2.69,
+		"dominanceMean": 7.19,
+		"dominanceSD": 2.52
+	},
+	"prairie": {
+		"valenceMean": 5.75,
+		"valenceSD": 1.43,
+		"arousalMean": 3.41,
+		"arousalSD": 2.17,
+		"dominanceMean": 4.62,
+		"dominanceSD": 2.13
+	},
+	"present": {
+		"valenceMean": 6.95,
+		"valenceSD": 1.85,
+		"arousalMean": 5.12,
+		"arousalSD": 2.39,
+		"dominanceMean": 5.83,
+		"dominanceSD": 1.78
+	},
+	"pressure": {
+		"valenceMean": 3.38,
+		"valenceSD": 1.61,
+		"arousalMean": 6.07,
+		"arousalSD": 2.26,
+		"dominanceMean": 3.45,
+		"dominanceSD": 2.07
+	},
+	"prestige": {
+		"valenceMean": 7.26,
+		"valenceSD": 1.9,
+		"arousalMean": 5.86,
+		"arousalSD": 2.08,
+		"dominanceMean": 6.9,
+		"dominanceSD": 1.96
+	},
+	"pretty": {
+		"valenceMean": 7.75,
+		"valenceSD": 1.26,
+		"arousalMean": 6.03,
+		"arousalSD": 2.22,
+		"dominanceMean": 5.5,
+		"dominanceSD": 1.97
+	},
+	"prick": {
+		"valenceMean": 3.98,
+		"valenceSD": 1.73,
+		"arousalMean": 4.7,
+		"arousalSD": 2.59,
+		"dominanceMean": 4.47,
+		"dominanceSD": 1.88
+	},
+	"pride": {
+		"valenceMean": 7.0,
+		"valenceSD": 2.11,
+		"arousalMean": 5.83,
+		"arousalSD": 2.48,
+		"dominanceMean": 7.06,
+		"dominanceSD": 2.15
+	},
+	"priest": {
+		"valenceMean": 6.42,
+		"valenceSD": 2.0,
+		"arousalMean": 4.41,
+		"arousalSD": 2.71,
+		"dominanceMean": 4.88,
+		"dominanceSD": 2.07
+	},
+	"prison": {
+		"valenceMean": 2.05,
+		"valenceSD": 1.34,
+		"arousalMean": 5.7,
+		"arousalSD": 2.56,
+		"dominanceMean": 4.2,
+		"dominanceSD": 2.58
+	},
+	"privacy": {
+		"valenceMean": 5.88,
+		"valenceSD": 1.5,
+		"arousalMean": 4.12,
+		"arousalSD": 1.83,
+		"dominanceMean": 5.66,
+		"dominanceSD": 1.78
+	},
+	"profit": {
+		"valenceMean": 7.63,
+		"valenceSD": 1.3,
+		"arousalMean": 6.68,
+		"arousalSD": 1.78,
+		"dominanceMean": 5.85,
+		"dominanceSD": 2.47
+	},
+	"progress": {
+		"valenceMean": 7.73,
+		"valenceSD": 1.34,
+		"arousalMean": 6.02,
+		"arousalSD": 2.58,
+		"dominanceMean": 6.76,
+		"dominanceSD": 2.05
+	},
+	"promotion": {
+		"valenceMean": 8.2,
+		"valenceSD": 1.15,
+		"arousalMean": 6.44,
+		"arousalSD": 2.58,
+		"dominanceMean": 6.79,
+		"dominanceSD": 2.28
+	},
+	"protected": {
+		"valenceMean": 7.29,
+		"valenceSD": 1.79,
+		"arousalMean": 4.09,
+		"arousalSD": 2.77,
+		"dominanceMean": 5.8,
+		"dominanceSD": 2.54
+	},
+	"proud": {
+		"valenceMean": 8.03,
+		"valenceSD": 1.56,
+		"arousalMean": 5.56,
+		"arousalSD": 3.01,
+		"dominanceMean": 6.74,
+		"dominanceSD": 2.73
+	},
+	"pungent": {
+		"valenceMean": 3.95,
+		"valenceSD": 2.09,
+		"arousalMean": 4.24,
+		"arousalSD": 2.17,
+		"dominanceMean": 4.78,
+		"dominanceSD": 1.52
+	},
+	"punishment": {
+		"valenceMean": 2.22,
+		"valenceSD": 1.41,
+		"arousalMean": 5.93,
+		"arousalSD": 2.4,
+		"dominanceMean": 3.5,
+		"dominanceSD": 2.43
+	},
+	"puppy": {
+		"valenceMean": 7.56,
+		"valenceSD": 1.9,
+		"arousalMean": 5.85,
+		"arousalSD": 2.78,
+		"dominanceMean": 5.51,
+		"dominanceSD": 2.39
+	},
+	"pus": {
+		"valenceMean": 2.86,
+		"valenceSD": 1.91,
+		"arousalMean": 4.82,
+		"arousalSD": 2.06,
+		"dominanceMean": 4.35,
+		"dominanceSD": 1.82
+	},
+	"putrid": {
+		"valenceMean": 2.38,
+		"valenceSD": 1.71,
+		"arousalMean": 5.74,
+		"arousalSD": 2.26,
+		"dominanceMean": 4.89,
+		"dominanceSD": 2.09
+	},
+	"python": {
+		"valenceMean": 4.05,
+		"valenceSD": 2.48,
+		"arousalMean": 6.18,
+		"arousalSD": 2.25,
+		"dominanceMean": 4.52,
+		"dominanceSD": 2.56
+	},
+	"quality": {
+		"valenceMean": 6.25,
+		"valenceSD": 1.59,
+		"arousalMean": 4.48,
+		"arousalSD": 2.12,
+		"dominanceMean": 5.64,
+		"dominanceSD": 1.59
+	},
+	"quarrel": {
+		"valenceMean": 2.93,
+		"valenceSD": 2.06,
+		"arousalMean": 6.29,
+		"arousalSD": 2.56,
+		"dominanceMean": 4.02,
+		"dominanceSD": 2.16
+	},
+	"quart": {
+		"valenceMean": 5.39,
+		"valenceSD": 2.01,
+		"arousalMean": 3.59,
+		"arousalSD": 2.51,
+		"dominanceMean": 5.2,
+		"dominanceSD": 1.86
+	},
+	"queen": {
+		"valenceMean": 6.44,
+		"valenceSD": 1.43,
+		"arousalMean": 4.76,
+		"arousalSD": 2.18,
+		"dominanceMean": 5.49,
+		"dominanceSD": 2.12
+	},
+	"quick": {
+		"valenceMean": 6.64,
+		"valenceSD": 1.61,
+		"arousalMean": 6.57,
+		"arousalSD": 1.78,
+		"dominanceMean": 6.57,
+		"dominanceSD": 1.91
+	},
+	"quiet": {
+		"valenceMean": 5.58,
+		"valenceSD": 1.83,
+		"arousalMean": 2.82,
+		"arousalSD": 2.13,
+		"dominanceMean": 4.42,
+		"dominanceSD": 2.3
+	},
+	"rabbit": {
+		"valenceMean": 6.57,
+		"valenceSD": 1.92,
+		"arousalMean": 4.02,
+		"arousalSD": 2.19,
+		"dominanceMean": 6.08,
+		"dominanceSD": 1.72
+	},
+	"rabies": {
+		"valenceMean": 1.77,
+		"valenceSD": 0.97,
+		"arousalMean": 6.1,
+		"arousalSD": 2.62,
+		"dominanceMean": 3.85,
+		"dominanceSD": 2.34
+	},
+	"radiant": {
+		"valenceMean": 6.73,
+		"valenceSD": 2.17,
+		"arousalMean": 5.39,
+		"arousalSD": 2.82,
+		"dominanceMean": 5.61,
+		"dominanceSD": 2.17
+	},
+	"radiator": {
+		"valenceMean": 4.67,
+		"valenceSD": 1.05,
+		"arousalMean": 4.02,
+		"arousalSD": 1.94,
+		"dominanceMean": 4.81,
+		"dominanceSD": 1.38
+	},
+	"radio": {
+		"valenceMean": 6.73,
+		"valenceSD": 1.47,
+		"arousalMean": 4.78,
+		"arousalSD": 2.82,
+		"dominanceMean": 5.28,
+		"dominanceSD": 1.85
+	},
+	"rage": {
+		"valenceMean": 2.41,
+		"valenceSD": 1.86,
+		"arousalMean": 8.17,
+		"arousalSD": 1.4,
+		"dominanceMean": 5.68,
+		"dominanceSD": 3.01
+	},
+	"rain": {
+		"valenceMean": 5.08,
+		"valenceSD": 2.51,
+		"arousalMean": 3.65,
+		"arousalSD": 2.35,
+		"dominanceMean": 4.78,
+		"dominanceSD": 1.68
+	},
+	"rainbow": {
+		"valenceMean": 8.14,
+		"valenceSD": 1.23,
+		"arousalMean": 4.64,
+		"arousalSD": 2.88,
+		"dominanceMean": 4.72,
+		"dominanceSD": 2.37
+	},
+	"rancid": {
+		"valenceMean": 4.34,
+		"valenceSD": 2.28,
+		"arousalMean": 5.04,
+		"arousalSD": 2.27,
+		"dominanceMean": 4.59,
+		"dominanceSD": 1.86
+	},
+	"rape": {
+		"valenceMean": 1.25,
+		"valenceSD": 0.91,
+		"arousalMean": 6.81,
+		"arousalSD": 3.17,
+		"dominanceMean": 2.97,
+		"dominanceSD": 2.94
+	},
+	"rat": {
+		"valenceMean": 3.02,
+		"valenceSD": 1.66,
+		"arousalMean": 4.95,
+		"arousalSD": 2.36,
+		"dominanceMean": 4.55,
+		"dominanceSD": 2.14
+	},
+	"rattle": {
+		"valenceMean": 5.03,
+		"valenceSD": 1.23,
+		"arousalMean": 4.36,
+		"arousalSD": 2.18,
+		"dominanceMean": 4.17,
+		"dominanceSD": 1.56
+	},
+	"razor": {
+		"valenceMean": 4.81,
+		"valenceSD": 2.16,
+		"arousalMean": 5.36,
+		"arousalSD": 2.44,
+		"dominanceMean": 4.91,
+		"dominanceSD": 1.95
+	},
+	"red": {
+		"valenceMean": 6.41,
+		"valenceSD": 1.61,
+		"arousalMean": 5.29,
+		"arousalSD": 2.04,
+		"dominanceMean": 5.78,
+		"dominanceSD": 1.59
+	},
+	"refreshment": {
+		"valenceMean": 7.44,
+		"valenceSD": 1.29,
+		"arousalMean": 4.45,
+		"arousalSD": 2.7,
+		"dominanceMean": 5.0,
+		"dominanceSD": 1.92
+	},
+	"regretful": {
+		"valenceMean": 2.28,
+		"valenceSD": 1.42,
+		"arousalMean": 5.74,
+		"arousalSD": 2.32,
+		"dominanceMean": 3.43,
+		"dominanceSD": 2.52
+	},
+	"rejected": {
+		"valenceMean": 1.5,
+		"valenceSD": 1.09,
+		"arousalMean": 6.37,
+		"arousalSD": 2.56,
+		"dominanceMean": 2.72,
+		"dominanceSD": 2.58
+	},
+	"relaxed": {
+		"valenceMean": 7.0,
+		"valenceSD": 1.77,
+		"arousalMean": 2.39,
+		"arousalSD": 2.13,
+		"dominanceMean": 5.55,
+		"dominanceSD": 1.9
+	},
+	"repentant": {
+		"valenceMean": 5.53,
+		"valenceSD": 1.86,
+		"arousalMean": 4.69,
+		"arousalSD": 1.98,
+		"dominanceMean": 5.42,
+		"dominanceSD": 2.06
+	},
+	"reptile": {
+		"valenceMean": 4.77,
+		"valenceSD": 2.0,
+		"arousalMean": 5.18,
+		"arousalSD": 2.19,
+		"dominanceMean": 4.77,
+		"dominanceSD": 2.02
+	},
+	"rescue": {
+		"valenceMean": 7.7,
+		"valenceSD": 1.24,
+		"arousalMean": 6.53,
+		"arousalSD": 2.56,
+		"dominanceMean": 6.45,
+		"dominanceSD": 2.29
+	},
+	"resent": {
+		"valenceMean": 3.76,
+		"valenceSD": 1.9,
+		"arousalMean": 4.47,
+		"arousalSD": 2.12,
+		"dominanceMean": 4.46,
+		"dominanceSD": 2.09
+	},
+	"reserved": {
+		"valenceMean": 4.88,
+		"valenceSD": 1.83,
+		"arousalMean": 3.27,
+		"arousalSD": 2.05,
+		"dominanceMean": 4.3,
+		"dominanceSD": 1.93
+	},
+	"respect": {
+		"valenceMean": 7.64,
+		"valenceSD": 1.29,
+		"arousalMean": 5.19,
+		"arousalSD": 2.39,
+		"dominanceMean": 6.89,
+		"dominanceSD": 2.11
+	},
+	"respectful": {
+		"valenceMean": 7.22,
+		"valenceSD": 1.27,
+		"arousalMean": 4.6,
+		"arousalSD": 2.67,
+		"dominanceMean": 5.67,
+		"dominanceSD": 2.38
+	},
+	"restaurant": {
+		"valenceMean": 6.76,
+		"valenceSD": 1.85,
+		"arousalMean": 5.41,
+		"arousalSD": 2.55,
+		"dominanceMean": 5.73,
+		"dominanceSD": 1.41
+	},
+	"reunion": {
+		"valenceMean": 6.48,
+		"valenceSD": 2.45,
+		"arousalMean": 6.34,
+		"arousalSD": 2.35,
+		"dominanceMean": 5.64,
+		"dominanceSD": 1.95
+	},
+	"reverent": {
+		"valenceMean": 5.35,
+		"valenceSD": 1.21,
+		"arousalMean": 4.0,
+		"arousalSD": 1.6,
+		"dominanceMean": 4.67,
+		"dominanceSD": 1.68
+	},
+	"revolt": {
+		"valenceMean": 4.13,
+		"valenceSD": 1.78,
+		"arousalMean": 6.56,
+		"arousalSD": 2.34,
+		"dominanceMean": 6.18,
+		"dominanceSD": 2.11
+	},
+	"revolver": {
+		"valenceMean": 4.02,
+		"valenceSD": 2.44,
+		"arousalMean": 5.55,
+		"arousalSD": 2.39,
+		"dominanceMean": 4.39,
+		"dominanceSD": 2.47
+	},
+	"reward": {
+		"valenceMean": 7.53,
+		"valenceSD": 1.67,
+		"arousalMean": 4.95,
+		"arousalSD": 2.62,
+		"dominanceMean": 6.0,
+		"dominanceSD": 2.14
+	},
+	"riches": {
+		"valenceMean": 7.7,
+		"valenceSD": 1.95,
+		"arousalMean": 6.17,
+		"arousalSD": 2.7,
+		"dominanceMean": 6.74,
+		"dominanceSD": 2.43
+	},
+	"ridicule": {
+		"valenceMean": 3.13,
+		"valenceSD": 2.24,
+		"arousalMean": 5.83,
+		"arousalSD": 2.73,
+		"dominanceMean": 3.87,
+		"dominanceSD": 2.7
+	},
+	"rifle": {
+		"valenceMean": 4.02,
+		"valenceSD": 2.76,
+		"arousalMean": 6.35,
+		"arousalSD": 2.04,
+		"dominanceMean": 4.16,
+		"dominanceSD": 2.71
+	},
+	"rigid": {
+		"valenceMean": 3.66,
+		"valenceSD": 2.12,
+		"arousalMean": 4.66,
+		"arousalSD": 2.47,
+		"dominanceMean": 4.61,
+		"dominanceSD": 2.04
+	},
+	"riot": {
+		"valenceMean": 2.96,
+		"valenceSD": 1.93,
+		"arousalMean": 6.39,
+		"arousalSD": 2.63,
+		"dominanceMean": 4.18,
+		"dominanceSD": 2.47
+	},
+	"river": {
+		"valenceMean": 6.85,
+		"valenceSD": 1.69,
+		"arousalMean": 4.51,
+		"arousalSD": 2.42,
+		"dominanceMean": 5.1,
+		"dominanceSD": 1.86
+	},
+	"roach": {
+		"valenceMean": 2.35,
+		"valenceSD": 1.7,
+		"arousalMean": 6.64,
+		"arousalSD": 2.64,
+		"dominanceMean": 4.82,
+		"dominanceSD": 2.94
+	},
+	"robber": {
+		"valenceMean": 2.61,
+		"valenceSD": 1.69,
+		"arousalMean": 5.62,
+		"arousalSD": 2.72,
+		"dominanceMean": 3.62,
+		"dominanceSD": 2.38
+	},
+	"rock": {
+		"valenceMean": 5.56,
+		"valenceSD": 1.38,
+		"arousalMean": 4.52,
+		"arousalSD": 2.37,
+		"dominanceMean": 5.15,
+		"dominanceSD": 2.01
+	},
+	"rollercoaster": {
+		"valenceMean": 8.02,
+		"valenceSD": 1.63,
+		"arousalMean": 8.06,
+		"arousalSD": 1.71,
+		"dominanceMean": 5.1,
+		"dominanceSD": 2.76
+	},
+	"romantic": {
+		"valenceMean": 8.32,
+		"valenceSD": 1.0,
+		"arousalMean": 7.59,
+		"arousalSD": 2.07,
+		"dominanceMean": 6.08,
+		"dominanceSD": 2.29
+	},
+	"rotten": {
+		"valenceMean": 2.26,
+		"valenceSD": 1.37,
+		"arousalMean": 4.53,
+		"arousalSD": 2.38,
+		"dominanceMean": 4.32,
+		"dominanceSD": 2.09
+	},
+	"rough": {
+		"valenceMean": 4.74,
+		"valenceSD": 2.0,
+		"arousalMean": 5.33,
+		"arousalSD": 2.04,
+		"dominanceMean": 4.81,
+		"dominanceSD": 1.7
+	},
+	"rude": {
+		"valenceMean": 2.5,
+		"valenceSD": 2.11,
+		"arousalMean": 6.31,
+		"arousalSD": 2.47,
+		"dominanceMean": 4.91,
+		"dominanceSD": 2.49
+	},
+	"runner": {
+		"valenceMean": 5.67,
+		"valenceSD": 1.91,
+		"arousalMean": 4.76,
+		"arousalSD": 2.4,
+		"dominanceMean": 5.47,
+		"dominanceSD": 1.84
+	},
+	"rusty": {
+		"valenceMean": 3.86,
+		"valenceSD": 1.47,
+		"arousalMean": 3.77,
+		"arousalSD": 2.16,
+		"dominanceMean": 4.53,
+		"dominanceSD": 1.62
+	},
+	"sad": {
+		"valenceMean": 1.61,
+		"valenceSD": 0.95,
+		"arousalMean": 4.13,
+		"arousalSD": 2.38,
+		"dominanceMean": 3.45,
+		"dominanceSD": 2.18
+	},
+	"safe": {
+		"valenceMean": 7.07,
+		"valenceSD": 1.9,
+		"arousalMean": 3.86,
+		"arousalSD": 2.72,
+		"dominanceMean": 5.81,
+		"dominanceSD": 2.06
+	},
+	"sailboat": {
+		"valenceMean": 7.25,
+		"valenceSD": 1.71,
+		"arousalMean": 4.88,
+		"arousalSD": 2.73,
+		"dominanceMean": 5.86,
+		"dominanceSD": 1.71
+	},
+	"saint": {
+		"valenceMean": 6.49,
+		"valenceSD": 1.7,
+		"arousalMean": 4.49,
+		"arousalSD": 1.9,
+		"dominanceMean": 5.37,
+		"dominanceSD": 2.11
+	},
+	"salad": {
+		"valenceMean": 5.74,
+		"valenceSD": 1.62,
+		"arousalMean": 3.81,
+		"arousalSD": 2.29,
+		"dominanceMean": 5.47,
+		"dominanceSD": 1.68
+	},
+	"salute": {
+		"valenceMean": 5.92,
+		"valenceSD": 1.57,
+		"arousalMean": 5.31,
+		"arousalSD": 2.23,
+		"dominanceMean": 5.46,
+		"dominanceSD": 2.05
+	},
+	"sapphire": {
+		"valenceMean": 7.0,
+		"valenceSD": 1.88,
+		"arousalMean": 5.0,
+		"arousalSD": 2.72,
+		"dominanceMean": 5.55,
+		"dominanceSD": 2.24
+	},
+	"satisfied": {
+		"valenceMean": 7.94,
+		"valenceSD": 1.19,
+		"arousalMean": 4.94,
+		"arousalSD": 2.63,
+		"dominanceMean": 6.14,
+		"dominanceSD": 2.37
+	},
+	"save": {
+		"valenceMean": 6.45,
+		"valenceSD": 1.93,
+		"arousalMean": 4.95,
+		"arousalSD": 2.19,
+		"dominanceMean": 6.0,
+		"dominanceSD": 1.79
+	},
+	"savior": {
+		"valenceMean": 7.73,
+		"valenceSD": 1.56,
+		"arousalMean": 5.8,
+		"arousalSD": 3.01,
+		"dominanceMean": 6.64,
+		"dominanceSD": 2.18
+	},
+	"scalding": {
+		"valenceMean": 2.82,
+		"valenceSD": 2.12,
+		"arousalMean": 5.95,
+		"arousalSD": 2.55,
+		"dominanceMean": 3.82,
+		"dominanceSD": 2.3
+	},
+	"scandal": {
+		"valenceMean": 3.32,
+		"valenceSD": 1.81,
+		"arousalMean": 5.12,
+		"arousalSD": 2.22,
+		"dominanceMean": 4.34,
+		"dominanceSD": 1.73
+	},
+	"scapegoat": {
+		"valenceMean": 3.67,
+		"valenceSD": 1.65,
+		"arousalMean": 4.53,
+		"arousalSD": 2.13,
+		"dominanceMean": 3.52,
+		"dominanceSD": 1.7
+	},
+	"scar": {
+		"valenceMean": 3.38,
+		"valenceSD": 1.7,
+		"arousalMean": 4.79,
+		"arousalSD": 2.11,
+		"dominanceMean": 3.88,
+		"dominanceSD": 1.71
+	},
+	"scared": {
+		"valenceMean": 2.78,
+		"valenceSD": 1.99,
+		"arousalMean": 6.82,
+		"arousalSD": 2.03,
+		"dominanceMean": 2.94,
+		"dominanceSD": 2.19
+	},
+	"scholar": {
+		"valenceMean": 7.26,
+		"valenceSD": 1.42,
+		"arousalMean": 5.12,
+		"arousalSD": 2.46,
+		"dominanceMean": 6.59,
+		"dominanceSD": 2.02
+	},
+	"scissors": {
+		"valenceMean": 5.05,
+		"valenceSD": 0.96,
+		"arousalMean": 4.47,
+		"arousalSD": 1.76,
+		"dominanceMean": 5.16,
+		"dominanceSD": 1.84
+	},
+	"scorching": {
+		"valenceMean": 3.76,
+		"valenceSD": 1.83,
+		"arousalMean": 5.0,
+		"arousalSD": 2.74,
+		"dominanceMean": 4.1,
+		"dominanceSD": 2.01
+	},
+	"scorn": {
+		"valenceMean": 2.84,
+		"valenceSD": 2.07,
+		"arousalMean": 5.48,
+		"arousalSD": 2.52,
+		"dominanceMean": 3.93,
+		"dominanceSD": 2.64
+	},
+	"scornful": {
+		"valenceMean": 3.02,
+		"valenceSD": 2.03,
+		"arousalMean": 5.04,
+		"arousalSD": 2.56,
+		"dominanceMean": 4.59,
+		"dominanceSD": 2.18
+	},
+	"scorpion": {
+		"valenceMean": 3.69,
+		"valenceSD": 2.63,
+		"arousalMean": 5.38,
+		"arousalSD": 3.08,
+		"dominanceMean": 3.98,
+		"dominanceSD": 2.44
+	},
+	"scream": {
+		"valenceMean": 3.88,
+		"valenceSD": 2.07,
+		"arousalMean": 7.04,
+		"arousalSD": 1.96,
+		"dominanceMean": 4.75,
+		"dominanceSD": 2.21
+	},
+	"scum": {
+		"valenceMean": 2.43,
+		"valenceSD": 1.56,
+		"arousalMean": 4.88,
+		"arousalSD": 2.36,
+		"dominanceMean": 4.26,
+		"dominanceSD": 1.99
+	},
+	"scurvy": {
+		"valenceMean": 3.19,
+		"valenceSD": 2.0,
+		"arousalMean": 4.71,
+		"arousalSD": 2.72,
+		"dominanceMean": 4.48,
+		"dominanceSD": 2.48
+	},
+	"seasick": {
+		"valenceMean": 2.05,
+		"valenceSD": 1.2,
+		"arousalMean": 5.8,
+		"arousalSD": 2.88,
+		"dominanceMean": 3.41,
+		"dominanceSD": 2.39
+	},
+	"seat": {
+		"valenceMean": 4.95,
+		"valenceSD": 0.98,
+		"arousalMean": 2.95,
+		"arousalSD": 1.72,
+		"dominanceMean": 4.84,
+		"dominanceSD": 1.88
+	},
+	"secure": {
+		"valenceMean": 7.57,
+		"valenceSD": 1.76,
+		"arousalMean": 3.14,
+		"arousalSD": 2.47,
+		"dominanceMean": 5.93,
+		"dominanceSD": 2.57
+	},
+	"selfish": {
+		"valenceMean": 2.42,
+		"valenceSD": 1.62,
+		"arousalMean": 5.5,
+		"arousalSD": 2.62,
+		"dominanceMean": 4.64,
+		"dominanceSD": 2.31
+	},
+	"sentiment": {
+		"valenceMean": 5.98,
+		"valenceSD": 1.71,
+		"arousalMean": 4.41,
+		"arousalSD": 2.3,
+		"dominanceMean": 5.09,
+		"dominanceSD": 1.46
+	},
+	"serious": {
+		"valenceMean": 5.08,
+		"valenceSD": 1.59,
+		"arousalMean": 4.0,
+		"arousalSD": 1.87,
+		"dominanceMean": 5.12,
+		"dominanceSD": 1.65
+	},
+	"severe": {
+		"valenceMean": 3.2,
+		"valenceSD": 1.74,
+		"arousalMean": 5.26,
+		"arousalSD": 2.36,
+		"dominanceMean": 3.83,
+		"dominanceSD": 1.91
+	},
+	"sex": {
+		"valenceMean": 8.05,
+		"valenceSD": 1.53,
+		"arousalMean": 7.36,
+		"arousalSD": 1.91,
+		"dominanceMean": 5.75,
+		"dominanceSD": 2.25
+	},
+	"sexy": {
+		"valenceMean": 8.02,
+		"valenceSD": 1.12,
+		"arousalMean": 7.36,
+		"arousalSD": 1.91,
+		"dominanceMean": 6.82,
+		"dominanceSD": 2.13
+	},
+	"shadow": {
+		"valenceMean": 4.35,
+		"valenceSD": 1.23,
+		"arousalMean": 4.3,
+		"arousalSD": 2.26,
+		"dominanceMean": 4.19,
+		"dominanceSD": 1.82
+	},
+	"shamed": {
+		"valenceMean": 2.5,
+		"valenceSD": 1.34,
+		"arousalMean": 4.88,
+		"arousalSD": 2.27,
+		"dominanceMean": 2.98,
+		"dominanceSD": 1.94
+	},
+	"shark": {
+		"valenceMean": 3.65,
+		"valenceSD": 2.47,
+		"arousalMean": 7.16,
+		"arousalSD": 1.96,
+		"dominanceMean": 2.63,
+		"dominanceSD": 2.16
+	},
+	"sheltered": {
+		"valenceMean": 5.75,
+		"valenceSD": 1.92,
+		"arousalMean": 4.28,
+		"arousalSD": 1.77,
+		"dominanceMean": 3.76,
+		"dominanceSD": 1.91
+	},
+	"ship": {
+		"valenceMean": 5.55,
+		"valenceSD": 1.4,
+		"arousalMean": 4.38,
+		"arousalSD": 2.29,
+		"dominanceMean": 5.12,
+		"dominanceSD": 2.31
+	},
+	"shotgun": {
+		"valenceMean": 4.37,
+		"valenceSD": 2.75,
+		"arousalMean": 6.27,
+		"arousalSD": 1.94,
+		"dominanceMean": 5.29,
+		"dominanceSD": 2.67
+	},
+	"shriek": {
+		"valenceMean": 3.93,
+		"valenceSD": 2.22,
+		"arousalMean": 5.36,
+		"arousalSD": 2.91,
+		"dominanceMean": 4.3,
+		"dominanceSD": 1.86
+	},
+	"shy": {
+		"valenceMean": 4.64,
+		"valenceSD": 1.83,
+		"arousalMean": 3.77,
+		"arousalSD": 2.29,
+		"dominanceMean": 3.44,
+		"dominanceSD": 1.96
+	},
+	"sick": {
+		"valenceMean": 1.9,
+		"valenceSD": 1.14,
+		"arousalMean": 4.29,
+		"arousalSD": 2.45,
+		"dominanceMean": 3.04,
+		"dominanceSD": 1.65
+	},
+	"sickness": {
+		"valenceMean": 2.25,
+		"valenceSD": 1.71,
+		"arousalMean": 5.61,
+		"arousalSD": 2.67,
+		"dominanceMean": 3.84,
+		"dominanceSD": 2.5
+	},
+	"silk": {
+		"valenceMean": 6.9,
+		"valenceSD": 1.27,
+		"arousalMean": 3.71,
+		"arousalSD": 2.51,
+		"dominanceMean": 4.81,
+		"dominanceSD": 1.93
+	},
+	"silly": {
+		"valenceMean": 7.41,
+		"valenceSD": 1.8,
+		"arousalMean": 5.88,
+		"arousalSD": 2.38,
+		"dominanceMean": 6.0,
+		"dominanceSD": 2.09
+	},
+	"sin": {
+		"valenceMean": 2.8,
+		"valenceSD": 1.67,
+		"arousalMean": 5.78,
+		"arousalSD": 2.21,
+		"dominanceMean": 3.62,
+		"dominanceSD": 2.29
+	},
+	"sinful": {
+		"valenceMean": 2.93,
+		"valenceSD": 2.15,
+		"arousalMean": 6.29,
+		"arousalSD": 2.43,
+		"dominanceMean": 4.24,
+		"dominanceSD": 2.73
+	},
+	"sissy": {
+		"valenceMean": 3.14,
+		"valenceSD": 1.96,
+		"arousalMean": 5.17,
+		"arousalSD": 2.57,
+		"dominanceMean": 3.58,
+		"dominanceSD": 2.74
+	},
+	"skeptical": {
+		"valenceMean": 4.52,
+		"valenceSD": 1.63,
+		"arousalMean": 4.91,
+		"arousalSD": 1.92,
+		"dominanceMean": 4.5,
+		"dominanceSD": 1.61
+	},
+	"skijump": {
+		"valenceMean": 7.06,
+		"valenceSD": 1.73,
+		"arousalMean": 7.06,
+		"arousalSD": 2.1,
+		"dominanceMean": 4.9,
+		"dominanceSD": 2.32
+	},
+	"skull": {
+		"valenceMean": 4.27,
+		"valenceSD": 1.83,
+		"arousalMean": 4.75,
+		"arousalSD": 1.85,
+		"dominanceMean": 4.86,
+		"dominanceSD": 1.62
+	},
+	"sky": {
+		"valenceMean": 7.37,
+		"valenceSD": 1.4,
+		"arousalMean": 4.27,
+		"arousalSD": 2.17,
+		"dominanceMean": 5.16,
+		"dominanceSD": 2.0
+	},
+	"skyscraper": {
+		"valenceMean": 5.88,
+		"valenceSD": 1.87,
+		"arousalMean": 5.71,
+		"arousalSD": 2.17,
+		"dominanceMean": 4.33,
+		"dominanceSD": 2.36
+	},
+	"slap": {
+		"valenceMean": 2.95,
+		"valenceSD": 1.79,
+		"arousalMean": 6.46,
+		"arousalSD": 2.58,
+		"dominanceMean": 4.21,
+		"dominanceSD": 2.29
+	},
+	"slaughter": {
+		"valenceMean": 1.64,
+		"valenceSD": 1.18,
+		"arousalMean": 6.77,
+		"arousalSD": 2.42,
+		"dominanceMean": 3.82,
+		"dominanceSD": 2.75
+	},
+	"slave": {
+		"valenceMean": 1.84,
+		"valenceSD": 1.13,
+		"arousalMean": 6.21,
+		"arousalSD": 2.93,
+		"dominanceMean": 3.29,
+		"dominanceSD": 2.76
+	},
+	"sleep": {
+		"valenceMean": 7.2,
+		"valenceSD": 1.77,
+		"arousalMean": 2.8,
+		"arousalSD": 2.66,
+		"dominanceMean": 5.41,
+		"dominanceSD": 2.41
+	},
+	"slime": {
+		"valenceMean": 2.68,
+		"valenceSD": 1.66,
+		"arousalMean": 5.36,
+		"arousalSD": 2.63,
+		"dominanceMean": 4.17,
+		"dominanceSD": 1.82
+	},
+	"slow": {
+		"valenceMean": 3.93,
+		"valenceSD": 1.6,
+		"arousalMean": 3.39,
+		"arousalSD": 2.22,
+		"dominanceMean": 4.35,
+		"dominanceSD": 1.61
+	},
+	"slum": {
+		"valenceMean": 2.39,
+		"valenceSD": 1.25,
+		"arousalMean": 4.78,
+		"arousalSD": 2.52,
+		"dominanceMean": 3.83,
+		"dominanceSD": 2.18
+	},
+	"slush": {
+		"valenceMean": 4.66,
+		"valenceSD": 1.88,
+		"arousalMean": 3.73,
+		"arousalSD": 2.23,
+		"dominanceMean": 4.91,
+		"dominanceSD": 1.48
+	},
+	"smallpox": {
+		"valenceMean": 2.52,
+		"valenceSD": 2.08,
+		"arousalMean": 5.58,
+		"arousalSD": 2.13,
+		"dominanceMean": 4.29,
+		"dominanceSD": 2.17
+	},
+	"smooth": {
+		"valenceMean": 6.58,
+		"valenceSD": 1.78,
+		"arousalMean": 4.91,
+		"arousalSD": 2.57,
+		"dominanceMean": 5.09,
+		"dominanceSD": 2.09
+	},
+	"snake": {
+		"valenceMean": 3.31,
+		"valenceSD": 2.2,
+		"arousalMean": 6.82,
+		"arousalSD": 2.1,
+		"dominanceMean": 3.78,
+		"dominanceSD": 2.05
+	},
+	"snob": {
+		"valenceMean": 3.36,
+		"valenceSD": 1.81,
+		"arousalMean": 5.65,
+		"arousalSD": 2.36,
+		"dominanceMean": 5.11,
+		"dominanceSD": 2.25
+	},
+	"snow": {
+		"valenceMean": 7.08,
+		"valenceSD": 1.83,
+		"arousalMean": 5.75,
+		"arousalSD": 2.47,
+		"dominanceMean": 5.8,
+		"dominanceSD": 1.97
+	},
+	"snuggle": {
+		"valenceMean": 7.92,
+		"valenceSD": 1.24,
+		"arousalMean": 4.16,
+		"arousalSD": 2.8,
+		"dominanceMean": 5.66,
+		"dominanceSD": 2.47
+	},
+	"social": {
+		"valenceMean": 6.88,
+		"valenceSD": 1.82,
+		"arousalMean": 4.98,
+		"arousalSD": 2.59,
+		"dominanceMean": 5.91,
+		"dominanceSD": 2.07
+	},
+	"soft": {
+		"valenceMean": 7.12,
+		"valenceSD": 1.34,
+		"arousalMean": 4.63,
+		"arousalSD": 2.61,
+		"dominanceMean": 6.0,
+		"dominanceSD": 1.8
+	},
+	"solemn": {
+		"valenceMean": 4.32,
+		"valenceSD": 1.51,
+		"arousalMean": 3.56,
+		"arousalSD": 1.95,
+		"dominanceMean": 4.61,
+		"dominanceSD": 1.87
+	},
+	"song": {
+		"valenceMean": 7.1,
+		"valenceSD": 1.97,
+		"arousalMean": 6.07,
+		"arousalSD": 2.42,
+		"dominanceMean": 5.85,
+		"dominanceSD": 2.12
+	},
+	"soothe": {
+		"valenceMean": 7.3,
+		"valenceSD": 1.85,
+		"arousalMean": 4.4,
+		"arousalSD": 3.08,
+		"dominanceMean": 5.36,
+		"dominanceSD": 2.24
+	},
+	"sour": {
+		"valenceMean": 3.93,
+		"valenceSD": 1.98,
+		"arousalMean": 5.1,
+		"arousalSD": 1.95,
+		"dominanceMean": 4.64,
+		"dominanceSD": 1.5
+	},
+	"space": {
+		"valenceMean": 6.78,
+		"valenceSD": 1.66,
+		"arousalMean": 5.14,
+		"arousalSD": 2.54,
+		"dominanceMean": 5.2,
+		"dominanceSD": 2.44
+	},
+	"spanking": {
+		"valenceMean": 3.55,
+		"valenceSD": 2.54,
+		"arousalMean": 5.41,
+		"arousalSD": 2.73,
+		"dominanceMean": 3.91,
+		"dominanceSD": 2.51
+	},
+	"sphere": {
+		"valenceMean": 5.33,
+		"valenceSD": 0.87,
+		"arousalMean": 3.88,
+		"arousalSD": 1.99,
+		"dominanceMean": 5.0,
+		"dominanceSD": 0.92
+	},
+	"spider": {
+		"valenceMean": 3.33,
+		"valenceSD": 1.72,
+		"arousalMean": 5.71,
+		"arousalSD": 2.21,
+		"dominanceMean": 4.75,
+		"dominanceSD": 2.11
+	},
+	"spirit": {
+		"valenceMean": 7.0,
+		"valenceSD": 1.32,
+		"arousalMean": 5.56,
+		"arousalSD": 2.62,
+		"dominanceMean": 5.82,
+		"dominanceSD": 2.42
+	},
+	"spouse": {
+		"valenceMean": 7.58,
+		"valenceSD": 1.48,
+		"arousalMean": 5.21,
+		"arousalSD": 2.75,
+		"dominanceMean": 5.53,
+		"dominanceSD": 1.97
+	},
+	"spray": {
+		"valenceMean": 5.45,
+		"valenceSD": 1.63,
+		"arousalMean": 4.14,
+		"arousalSD": 2.28,
+		"dominanceMean": 5.12,
+		"dominanceSD": 1.43
+	},
+	"spring": {
+		"valenceMean": 7.76,
+		"valenceSD": 1.51,
+		"arousalMean": 5.67,
+		"arousalSD": 2.51,
+		"dominanceMean": 6.26,
+		"dominanceSD": 1.98
+	},
+	"square": {
+		"valenceMean": 4.74,
+		"valenceSD": 1.02,
+		"arousalMean": 3.18,
+		"arousalSD": 1.76,
+		"dominanceMean": 4.51,
+		"dominanceSD": 1.45
+	},
+	"stagnant": {
+		"valenceMean": 4.15,
+		"valenceSD": 1.57,
+		"arousalMean": 3.93,
+		"arousalSD": 1.94,
+		"dominanceMean": 4.71,
+		"dominanceSD": 1.36
+	},
+	"star": {
+		"valenceMean": 7.27,
+		"valenceSD": 1.66,
+		"arousalMean": 5.83,
+		"arousalSD": 2.44,
+		"dominanceMean": 4.68,
+		"dominanceSD": 2.15
+	},
+	"startled": {
+		"valenceMean": 4.5,
+		"valenceSD": 1.67,
+		"arousalMean": 6.93,
+		"arousalSD": 2.24,
+		"dominanceMean": 4.48,
+		"dominanceSD": 1.57
+	},
+	"starving": {
+		"valenceMean": 2.39,
+		"valenceSD": 1.82,
+		"arousalMean": 5.61,
+		"arousalSD": 2.53,
+		"dominanceMean": 3.63,
+		"dominanceSD": 2.1
+	},
+	"statue": {
+		"valenceMean": 5.17,
+		"valenceSD": 0.7,
+		"arousalMean": 3.46,
+		"arousalSD": 1.72,
+		"dominanceMean": 4.95,
+		"dominanceSD": 1.4
+	},
+	"stench": {
+		"valenceMean": 2.19,
+		"valenceSD": 1.37,
+		"arousalMean": 4.36,
+		"arousalSD": 2.46,
+		"dominanceMean": 4.29,
+		"dominanceSD": 1.91
+	},
+	"stiff": {
+		"valenceMean": 4.68,
+		"valenceSD": 1.97,
+		"arousalMean": 4.02,
+		"arousalSD": 2.41,
+		"dominanceMean": 4.93,
+		"dominanceSD": 2.04
+	},
+	"stink": {
+		"valenceMean": 3.0,
+		"valenceSD": 1.79,
+		"arousalMean": 4.26,
+		"arousalSD": 2.1,
+		"dominanceMean": 4.16,
+		"dominanceSD": 1.98
+	},
+	"stomach": {
+		"valenceMean": 4.82,
+		"valenceSD": 2.06,
+		"arousalMean": 3.93,
+		"arousalSD": 2.49,
+		"dominanceMean": 4.68,
+		"dominanceSD": 1.85
+	},
+	"stool": {
+		"valenceMean": 4.56,
+		"valenceSD": 1.72,
+		"arousalMean": 4.0,
+		"arousalSD": 2.14,
+		"dominanceMean": 4.98,
+		"dominanceSD": 1.85
+	},
+	"storm": {
+		"valenceMean": 4.95,
+		"valenceSD": 2.22,
+		"arousalMean": 5.71,
+		"arousalSD": 2.34,
+		"dominanceMean": 4.54,
+		"dominanceSD": 2.04
+	},
+	"stove": {
+		"valenceMean": 4.98,
+		"valenceSD": 1.69,
+		"arousalMean": 4.51,
+		"arousalSD": 2.14,
+		"dominanceMean": 5.36,
+		"dominanceSD": 1.87
+	},
+	"street": {
+		"valenceMean": 5.22,
+		"valenceSD": 0.72,
+		"arousalMean": 3.39,
+		"arousalSD": 1.87,
+		"dominanceMean": 4.81,
+		"dominanceSD": 1.21
+	},
+	"stress": {
+		"valenceMean": 2.09,
+		"valenceSD": 1.41,
+		"arousalMean": 7.45,
+		"arousalSD": 2.38,
+		"dominanceMean": 3.93,
+		"dominanceSD": 2.75
+	},
+	"strong": {
+		"valenceMean": 7.11,
+		"valenceSD": 1.48,
+		"arousalMean": 5.92,
+		"arousalSD": 2.28,
+		"dominanceMean": 6.92,
+		"dominanceSD": 2.43
+	},
+	"stupid": {
+		"valenceMean": 2.31,
+		"valenceSD": 1.37,
+		"arousalMean": 4.72,
+		"arousalSD": 2.71,
+		"dominanceMean": 2.98,
+		"dominanceSD": 2.18
+	},
+	"subdued": {
+		"valenceMean": 4.67,
+		"valenceSD": 1.31,
+		"arousalMean": 2.9,
+		"arousalSD": 1.81,
+		"dominanceMean": 4.08,
+		"dominanceSD": 1.56
+	},
+	"success": {
+		"valenceMean": 8.29,
+		"valenceSD": 0.93,
+		"arousalMean": 6.11,
+		"arousalSD": 2.65,
+		"dominanceMean": 6.89,
+		"dominanceSD": 2.4
+	},
+	"suffocate": {
+		"valenceMean": 1.56,
+		"valenceSD": 0.96,
+		"arousalMean": 6.03,
+		"arousalSD": 3.19,
+		"dominanceMean": 3.44,
+		"dominanceSD": 2.81
+	},
+	"sugar": {
+		"valenceMean": 6.74,
+		"valenceSD": 1.73,
+		"arousalMean": 5.64,
+		"arousalSD": 2.18,
+		"dominanceMean": 5.5,
+		"dominanceSD": 1.5
+	},
+	"suicide": {
+		"valenceMean": 1.25,
+		"valenceSD": 0.69,
+		"arousalMean": 5.73,
+		"arousalSD": 3.14,
+		"dominanceMean": 3.58,
+		"dominanceSD": 3.02
+	},
+	"sun": {
+		"valenceMean": 7.55,
+		"valenceSD": 1.85,
+		"arousalMean": 5.04,
+		"arousalSD": 2.66,
+		"dominanceMean": 6.16,
+		"dominanceSD": 2.09
+	},
+	"sunlight": {
+		"valenceMean": 7.76,
+		"valenceSD": 1.43,
+		"arousalMean": 6.1,
+		"arousalSD": 2.3,
+		"dominanceMean": 5.63,
+		"dominanceSD": 2.15
+	},
+	"sunrise": {
+		"valenceMean": 7.86,
+		"valenceSD": 1.35,
+		"arousalMean": 5.06,
+		"arousalSD": 3.05,
+		"dominanceMean": 5.29,
+		"dominanceSD": 2.41
+	},
+	"sunset": {
+		"valenceMean": 7.68,
+		"valenceSD": 1.72,
+		"arousalMean": 4.2,
+		"arousalSD": 2.99,
+		"dominanceMean": 5.66,
+		"dominanceSD": 2.08
+	},
+	"surgery": {
+		"valenceMean": 2.86,
+		"valenceSD": 2.19,
+		"arousalMean": 6.35,
+		"arousalSD": 2.32,
+		"dominanceMean": 2.75,
+		"dominanceSD": 1.86
+	},
+	"surprised": {
+		"valenceMean": 7.47,
+		"valenceSD": 1.56,
+		"arousalMean": 7.47,
+		"arousalSD": 2.09,
+		"dominanceMean": 6.11,
+		"dominanceSD": 2.19
+	},
+	"suspicious": {
+		"valenceMean": 3.76,
+		"valenceSD": 1.42,
+		"arousalMean": 6.25,
+		"arousalSD": 1.59,
+		"dominanceMean": 4.47,
+		"dominanceSD": 1.99
+	},
+	"swamp": {
+		"valenceMean": 5.14,
+		"valenceSD": 2.24,
+		"arousalMean": 4.86,
+		"arousalSD": 2.36,
+		"dominanceMean": 5.29,
+		"dominanceSD": 1.63
+	},
+	"sweetheart": {
+		"valenceMean": 8.42,
+		"valenceSD": 0.83,
+		"arousalMean": 5.5,
+		"arousalSD": 2.73,
+		"dominanceMean": 6.03,
+		"dominanceSD": 2.24
+	},
+	"swift": {
+		"valenceMean": 6.46,
+		"valenceSD": 1.76,
+		"arousalMean": 5.39,
+		"arousalSD": 2.53,
+		"dominanceMean": 6.29,
+		"dominanceSD": 1.85
+	},
+	"swimmer": {
+		"valenceMean": 6.54,
+		"valenceSD": 1.64,
+		"arousalMean": 4.82,
+		"arousalSD": 2.49,
+		"dominanceMean": 5.96,
+		"dominanceSD": 1.91
+	},
+	"syphilis": {
+		"valenceMean": 1.68,
+		"valenceSD": 1.23,
+		"arousalMean": 5.69,
+		"arousalSD": 3.25,
+		"dominanceMean": 3.33,
+		"dominanceSD": 2.67
+	},
+	"table": {
+		"valenceMean": 5.22,
+		"valenceSD": 0.72,
+		"arousalMean": 2.92,
+		"arousalSD": 2.16,
+		"dominanceMean": 4.47,
+		"dominanceSD": 1.66
+	},
+	"talent": {
+		"valenceMean": 7.56,
+		"valenceSD": 1.25,
+		"arousalMean": 6.27,
+		"arousalSD": 1.8,
+		"dominanceMean": 6.49,
+		"dominanceSD": 1.75
+	},
+	"tamper": {
+		"valenceMean": 4.1,
+		"valenceSD": 1.88,
+		"arousalMean": 4.95,
+		"arousalSD": 2.01,
+		"dominanceMean": 4.58,
+		"dominanceSD": 2.1
+	},
+	"tank": {
+		"valenceMean": 5.16,
+		"valenceSD": 1.87,
+		"arousalMean": 4.88,
+		"arousalSD": 1.86,
+		"dominanceMean": 4.78,
+		"dominanceSD": 1.93
+	},
+	"taste": {
+		"valenceMean": 6.66,
+		"valenceSD": 1.57,
+		"arousalMean": 5.22,
+		"arousalSD": 2.38,
+		"dominanceMean": 5.5,
+		"dominanceSD": 1.65
+	},
+	"taxi": {
+		"valenceMean": 5.0,
+		"valenceSD": 1.96,
+		"arousalMean": 3.41,
+		"arousalSD": 2.14,
+		"dominanceMean": 4.64,
+		"dominanceSD": 1.83
+	},
+	"teacher": {
+		"valenceMean": 5.68,
+		"valenceSD": 2.12,
+		"arousalMean": 4.05,
+		"arousalSD": 2.61,
+		"dominanceMean": 5.11,
+		"dominanceSD": 2.2
+	},
+	"tease": {
+		"valenceMean": 4.84,
+		"valenceSD": 2.51,
+		"arousalMean": 5.87,
+		"arousalSD": 2.56,
+		"dominanceMean": 4.67,
+		"dominanceSD": 2.37
+	},
+	"tender": {
+		"valenceMean": 6.93,
+		"valenceSD": 1.28,
+		"arousalMean": 4.88,
+		"arousalSD": 2.3,
+		"dominanceMean": 5.33,
+		"dominanceSD": 1.75
+	},
+	"tennis": {
+		"valenceMean": 6.02,
+		"valenceSD": 1.97,
+		"arousalMean": 4.61,
+		"arousalSD": 2.6,
+		"dominanceMean": 5.61,
+		"dominanceSD": 2.12
+	},
+	"tense": {
+		"valenceMean": 3.56,
+		"valenceSD": 1.36,
+		"arousalMean": 6.53,
+		"arousalSD": 2.1,
+		"dominanceMean": 5.22,
+		"dominanceSD": 2.02
+	},
+	"termite": {
+		"valenceMean": 3.58,
+		"valenceSD": 2.08,
+		"arousalMean": 5.39,
+		"arousalSD": 2.43,
+		"dominanceMean": 3.87,
+		"dominanceSD": 1.87
+	},
+	"terrible": {
+		"valenceMean": 1.93,
+		"valenceSD": 1.44,
+		"arousalMean": 6.27,
+		"arousalSD": 2.44,
+		"dominanceMean": 3.58,
+		"dominanceSD": 2.34
+	},
+	"terrific": {
+		"valenceMean": 8.16,
+		"valenceSD": 1.12,
+		"arousalMean": 6.23,
+		"arousalSD": 2.73,
+		"dominanceMean": 6.6,
+		"dominanceSD": 2.15
+	},
+	"terrified": {
+		"valenceMean": 1.72,
+		"valenceSD": 1.14,
+		"arousalMean": 7.86,
+		"arousalSD": 2.27,
+		"dominanceMean": 3.08,
+		"dominanceSD": 2.75
+	},
+	"terrorist": {
+		"valenceMean": 1.69,
+		"valenceSD": 1.42,
+		"arousalMean": 7.27,
+		"arousalSD": 2.38,
+		"dominanceMean": 2.65,
+		"dominanceSD": 2.3
+	},
+	"thankful": {
+		"valenceMean": 6.89,
+		"valenceSD": 2.29,
+		"arousalMean": 4.34,
+		"arousalSD": 2.31,
+		"dominanceMean": 5.32,
+		"dominanceSD": 2.0
+	},
+	"theory": {
+		"valenceMean": 5.3,
+		"valenceSD": 1.49,
+		"arousalMean": 4.62,
+		"arousalSD": 1.94,
+		"dominanceMean": 4.88,
+		"dominanceSD": 1.81
+	},
+	"thermometer": {
+		"valenceMean": 4.73,
+		"valenceSD": 1.05,
+		"arousalMean": 3.79,
+		"arousalSD": 2.02,
+		"dominanceMean": 4.39,
+		"dominanceSD": 1.51
+	},
+	"thief": {
+		"valenceMean": 2.13,
+		"valenceSD": 1.69,
+		"arousalMean": 6.89,
+		"arousalSD": 2.13,
+		"dominanceMean": 3.79,
+		"dominanceSD": 2.55
+	},
+	"thorn": {
+		"valenceMean": 3.64,
+		"valenceSD": 1.76,
+		"arousalMean": 5.14,
+		"arousalSD": 2.14,
+		"dominanceMean": 4.45,
+		"dominanceSD": 1.5
+	},
+	"thought": {
+		"valenceMean": 6.39,
+		"valenceSD": 1.58,
+		"arousalMean": 4.83,
+		"arousalSD": 2.46,
+		"dominanceMean": 6.02,
+		"dominanceSD": 1.7
+	},
+	"thoughtful": {
+		"valenceMean": 7.65,
+		"valenceSD": 1.03,
+		"arousalMean": 5.72,
+		"arousalSD": 2.3,
+		"dominanceMean": 5.61,
+		"dominanceSD": 2.11
+	},
+	"thrill": {
+		"valenceMean": 8.05,
+		"valenceSD": 1.48,
+		"arousalMean": 8.02,
+		"arousalSD": 1.65,
+		"dominanceMean": 6.54,
+		"dominanceSD": 2.3
+	},
+	"tidy": {
+		"valenceMean": 6.3,
+		"valenceSD": 1.56,
+		"arousalMean": 3.98,
+		"arousalSD": 2.22,
+		"dominanceMean": 5.49,
+		"dominanceSD": 1.93
+	},
+	"time": {
+		"valenceMean": 5.31,
+		"valenceSD": 2.02,
+		"arousalMean": 4.64,
+		"arousalSD": 2.75,
+		"dominanceMean": 4.63,
+		"dominanceSD": 2.24
+	},
+	"timid": {
+		"valenceMean": 3.86,
+		"valenceSD": 1.55,
+		"arousalMean": 4.11,
+		"arousalSD": 2.09,
+		"dominanceMean": 3.09,
+		"dominanceSD": 1.91
+	},
+	"tobacco": {
+		"valenceMean": 3.28,
+		"valenceSD": 2.16,
+		"arousalMean": 4.83,
+		"arousalSD": 2.9,
+		"dominanceMean": 4.08,
+		"dominanceSD": 2.27
+	},
+	"tomb": {
+		"valenceMean": 2.94,
+		"valenceSD": 1.88,
+		"arousalMean": 4.73,
+		"arousalSD": 2.72,
+		"dominanceMean": 3.72,
+		"dominanceSD": 2.05
+	},
+	"tool": {
+		"valenceMean": 5.19,
+		"valenceSD": 1.27,
+		"arousalMean": 4.33,
+		"arousalSD": 1.78,
+		"dominanceMean": 5.67,
+		"dominanceSD": 1.62
+	},
+	"toothache": {
+		"valenceMean": 1.98,
+		"valenceSD": 1.15,
+		"arousalMean": 5.55,
+		"arousalSD": 2.51,
+		"dominanceMean": 3.9,
+		"dominanceSD": 1.85
+	},
+	"tornado": {
+		"valenceMean": 2.55,
+		"valenceSD": 1.78,
+		"arousalMean": 6.83,
+		"arousalSD": 2.49,
+		"dominanceMean": 4.3,
+		"dominanceSD": 2.42
+	},
+	"torture": {
+		"valenceMean": 1.56,
+		"valenceSD": 0.79,
+		"arousalMean": 6.1,
+		"arousalSD": 2.77,
+		"dominanceMean": 3.33,
+		"dominanceSD": 2.37
+	},
+	"tower": {
+		"valenceMean": 5.46,
+		"valenceSD": 1.75,
+		"arousalMean": 3.95,
+		"arousalSD": 2.28,
+		"dominanceMean": 5.78,
+		"dominanceSD": 2.14
+	},
+	"toxic": {
+		"valenceMean": 2.1,
+		"valenceSD": 1.48,
+		"arousalMean": 6.4,
+		"arousalSD": 2.41,
+		"dominanceMean": 4.42,
+		"dominanceSD": 2.51
+	},
+	"toy": {
+		"valenceMean": 7.0,
+		"valenceSD": 2.01,
+		"arousalMean": 5.11,
+		"arousalSD": 2.84,
+		"dominanceMean": 6.09,
+		"dominanceSD": 1.84
+	},
+	"tragedy": {
+		"valenceMean": 1.78,
+		"valenceSD": 1.31,
+		"arousalMean": 6.24,
+		"arousalSD": 2.64,
+		"dominanceMean": 3.5,
+		"dominanceSD": 2.34
+	},
+	"traitor": {
+		"valenceMean": 2.22,
+		"valenceSD": 1.69,
+		"arousalMean": 5.78,
+		"arousalSD": 2.47,
+		"dominanceMean": 4.61,
+		"dominanceSD": 2.71
+	},
+	"trash": {
+		"valenceMean": 2.67,
+		"valenceSD": 1.45,
+		"arousalMean": 4.16,
+		"arousalSD": 2.16,
+		"dominanceMean": 5.24,
+		"dominanceSD": 1.85
+	},
+	"trauma": {
+		"valenceMean": 2.1,
+		"valenceSD": 1.49,
+		"arousalMean": 6.33,
+		"arousalSD": 2.45,
+		"dominanceMean": 2.84,
+		"dominanceSD": 1.87
+	},
+	"travel": {
+		"valenceMean": 7.1,
+		"valenceSD": 2.0,
+		"arousalMean": 6.21,
+		"arousalSD": 2.51,
+		"dominanceMean": 6.31,
+		"dominanceSD": 2.08
+	},
+	"treasure": {
+		"valenceMean": 8.27,
+		"valenceSD": 0.9,
+		"arousalMean": 6.75,
+		"arousalSD": 2.3,
+		"dominanceMean": 6.36,
+		"dominanceSD": 2.42
+	},
+	"treat": {
+		"valenceMean": 7.36,
+		"valenceSD": 1.38,
+		"arousalMean": 5.62,
+		"arousalSD": 2.25,
+		"dominanceMean": 5.78,
+		"dominanceSD": 1.82
+	},
+	"tree": {
+		"valenceMean": 6.32,
+		"valenceSD": 1.56,
+		"arousalMean": 3.42,
+		"arousalSD": 2.21,
+		"dominanceMean": 5.08,
+		"dominanceSD": 2.29
+	},
+	"triumph": {
+		"valenceMean": 7.8,
+		"valenceSD": 1.83,
+		"arousalMean": 5.78,
+		"arousalSD": 2.6,
+		"dominanceMean": 6.98,
+		"dominanceSD": 2.2
+	},
+	"triumphant": {
+		"valenceMean": 8.82,
+		"valenceSD": 0.73,
+		"arousalMean": 6.78,
+		"arousalSD": 2.58,
+		"dominanceMean": 6.95,
+		"dominanceSD": 2.55
+	},
+	"trophy": {
+		"valenceMean": 7.78,
+		"valenceSD": 1.22,
+		"arousalMean": 5.39,
+		"arousalSD": 2.44,
+		"dominanceMean": 6.44,
+		"dominanceSD": 2.32
+	},
+	"trouble": {
+		"valenceMean": 3.03,
+		"valenceSD": 2.09,
+		"arousalMean": 6.85,
+		"arousalSD": 2.03,
+		"dominanceMean": 4.85,
+		"dominanceSD": 2.39
+	},
+	"troubled": {
+		"valenceMean": 2.17,
+		"valenceSD": 1.21,
+		"arousalMean": 5.94,
+		"arousalSD": 2.36,
+		"dominanceMean": 3.91,
+		"dominanceSD": 2.33
+	},
+	"truck": {
+		"valenceMean": 5.47,
+		"valenceSD": 1.88,
+		"arousalMean": 4.84,
+		"arousalSD": 2.17,
+		"dominanceMean": 5.33,
+		"dominanceSD": 1.83
+	},
+	"trumpet": {
+		"valenceMean": 5.75,
+		"valenceSD": 1.38,
+		"arousalMean": 4.97,
+		"arousalSD": 2.13,
+		"dominanceMean": 4.57,
+		"dominanceSD": 1.72
+	},
+	"trunk": {
+		"valenceMean": 5.09,
+		"valenceSD": 1.57,
+		"arousalMean": 4.18,
+		"arousalSD": 2.19,
+		"dominanceMean": 5.14,
+		"dominanceSD": 1.9
+	},
+	"trust": {
+		"valenceMean": 6.68,
+		"valenceSD": 2.71,
+		"arousalMean": 5.3,
+		"arousalSD": 2.66,
+		"dominanceMean": 6.61,
+		"dominanceSD": 2.04
+	},
+	"truth": {
+		"valenceMean": 7.8,
+		"valenceSD": 1.29,
+		"arousalMean": 5.0,
+		"arousalSD": 2.77,
+		"dominanceMean": 6.47,
+		"dominanceSD": 2.11
+	},
+	"tumor": {
+		"valenceMean": 2.36,
+		"valenceSD": 2.04,
+		"arousalMean": 6.51,
+		"arousalSD": 2.85,
+		"dominanceMean": 3.58,
+		"dominanceSD": 2.42
+	},
+	"tune": {
+		"valenceMean": 6.93,
+		"valenceSD": 1.47,
+		"arousalMean": 4.71,
+		"arousalSD": 2.09,
+		"dominanceMean": 5.74,
+		"dominanceSD": 1.82
+	},
+	"twilight": {
+		"valenceMean": 7.23,
+		"valenceSD": 1.8,
+		"arousalMean": 4.7,
+		"arousalSD": 2.41,
+		"dominanceMean": 5.59,
+		"dominanceSD": 1.82
+	},
+	"ugly": {
+		"valenceMean": 2.43,
+		"valenceSD": 1.27,
+		"arousalMean": 5.38,
+		"arousalSD": 2.23,
+		"dominanceMean": 4.26,
+		"dominanceSD": 2.33
+	},
+	"ulcer": {
+		"valenceMean": 1.78,
+		"valenceSD": 1.17,
+		"arousalMean": 6.12,
+		"arousalSD": 2.68,
+		"dominanceMean": 4.17,
+		"dominanceSD": 2.22
+	},
+	"umbrella": {
+		"valenceMean": 5.16,
+		"valenceSD": 1.57,
+		"arousalMean": 3.68,
+		"arousalSD": 1.99,
+		"dominanceMean": 5.42,
+		"dominanceSD": 1.91
+	},
+	"unfaithful": {
+		"valenceMean": 2.05,
+		"valenceSD": 1.55,
+		"arousalMean": 6.2,
+		"arousalSD": 2.7,
+		"dominanceMean": 3.02,
+		"dominanceSD": 2.54
+	},
+	"unhappy": {
+		"valenceMean": 1.57,
+		"valenceSD": 0.96,
+		"arousalMean": 4.18,
+		"arousalSD": 2.5,
+		"dominanceMean": 3.34,
+		"dominanceSD": 2.35
+	},
+	"unit": {
+		"valenceMean": 5.59,
+		"valenceSD": 1.87,
+		"arousalMean": 3.75,
+		"arousalSD": 2.49,
+		"dominanceMean": 5.11,
+		"dominanceSD": 1.74
+	},
+	"untroubled": {
+		"valenceMean": 7.62,
+		"valenceSD": 1.41,
+		"arousalMean": 3.89,
+		"arousalSD": 2.54,
+		"dominanceMean": 5.53,
+		"dominanceSD": 2.54
+	},
+	"upset": {
+		"valenceMean": 2.0,
+		"valenceSD": 1.18,
+		"arousalMean": 5.86,
+		"arousalSD": 2.4,
+		"dominanceMean": 4.08,
+		"dominanceSD": 2.31
+	},
+	"urine": {
+		"valenceMean": 3.25,
+		"valenceSD": 1.71,
+		"arousalMean": 4.2,
+		"arousalSD": 2.18,
+		"dominanceMean": 5.24,
+		"dominanceSD": 1.86
+	},
+	"useful": {
+		"valenceMean": 7.14,
+		"valenceSD": 1.6,
+		"arousalMean": 4.26,
+		"arousalSD": 2.47,
+		"dominanceMean": 5.93,
+		"dominanceSD": 2.1
+	},
+	"useless": {
+		"valenceMean": 2.13,
+		"valenceSD": 1.42,
+		"arousalMean": 4.87,
+		"arousalSD": 2.58,
+		"dominanceMean": 3.92,
+		"dominanceSD": 2.62
+	},
+	"utensil": {
+		"valenceMean": 5.14,
+		"valenceSD": 1.39,
+		"arousalMean": 3.57,
+		"arousalSD": 1.98,
+		"dominanceMean": 5.4,
+		"dominanceSD": 1.47
+	},
+	"vacation": {
+		"valenceMean": 8.16,
+		"valenceSD": 1.36,
+		"arousalMean": 5.64,
+		"arousalSD": 2.99,
+		"dominanceMean": 6.8,
+		"dominanceSD": 2.08
+	},
+	"vagina": {
+		"valenceMean": 6.14,
+		"valenceSD": 1.77,
+		"arousalMean": 5.55,
+		"arousalSD": 2.55,
+		"dominanceMean": 5.88,
+		"dominanceSD": 1.74
+	},
+	"valentine": {
+		"valenceMean": 8.11,
+		"valenceSD": 1.35,
+		"arousalMean": 6.06,
+		"arousalSD": 2.91,
+		"dominanceMean": 5.81,
+		"dominanceSD": 2.45
+	},
+	"vampire": {
+		"valenceMean": 4.26,
+		"valenceSD": 1.86,
+		"arousalMean": 6.37,
+		"arousalSD": 2.35,
+		"dominanceMean": 5.05,
+		"dominanceSD": 2.27
+	},
+	"vandal": {
+		"valenceMean": 2.71,
+		"valenceSD": 1.91,
+		"arousalMean": 6.4,
+		"arousalSD": 1.88,
+		"dominanceMean": 3.91,
+		"dominanceSD": 2.49
+	},
+	"vanity": {
+		"valenceMean": 4.3,
+		"valenceSD": 1.91,
+		"arousalMean": 4.98,
+		"arousalSD": 2.31,
+		"dominanceMean": 4.8,
+		"dominanceSD": 2.03
+	},
+	"vehicle": {
+		"valenceMean": 6.27,
+		"valenceSD": 2.34,
+		"arousalMean": 4.63,
+		"arousalSD": 2.81,
+		"dominanceMean": 5.77,
+		"dominanceSD": 2.61
+	},
+	"venom": {
+		"valenceMean": 2.68,
+		"valenceSD": 1.81,
+		"arousalMean": 6.08,
+		"arousalSD": 2.44,
+		"dominanceMean": 3.94,
+		"dominanceSD": 2.23
+	},
+	"vest": {
+		"valenceMean": 5.25,
+		"valenceSD": 1.33,
+		"arousalMean": 3.95,
+		"arousalSD": 2.09,
+		"dominanceMean": 5.09,
+		"dominanceSD": 1.24
+	},
+	"victim": {
+		"valenceMean": 2.18,
+		"valenceSD": 1.48,
+		"arousalMean": 6.06,
+		"arousalSD": 2.32,
+		"dominanceMean": 2.69,
+		"dominanceSD": 2.04
+	},
+	"victory": {
+		"valenceMean": 8.32,
+		"valenceSD": 1.16,
+		"arousalMean": 6.63,
+		"arousalSD": 2.84,
+		"dominanceMean": 7.26,
+		"dominanceSD": 2.14
+	},
+	"vigorous": {
+		"valenceMean": 6.79,
+		"valenceSD": 1.54,
+		"arousalMean": 5.9,
+		"arousalSD": 2.66,
+		"dominanceMean": 5.41,
+		"dominanceSD": 2.22
+	},
+	"village": {
+		"valenceMean": 5.92,
+		"valenceSD": 1.34,
+		"arousalMean": 4.08,
+		"arousalSD": 1.87,
+		"dominanceMean": 4.94,
+		"dominanceSD": 1.74
+	},
+	"violent": {
+		"valenceMean": 2.29,
+		"valenceSD": 1.78,
+		"arousalMean": 6.89,
+		"arousalSD": 2.47,
+		"dominanceMean": 5.16,
+		"dominanceSD": 2.86
+	},
+	"violin": {
+		"valenceMean": 5.43,
+		"valenceSD": 1.98,
+		"arousalMean": 3.49,
+		"arousalSD": 2.26,
+		"dominanceMean": 5.18,
+		"dominanceSD": 2.01
+	},
+	"virgin": {
+		"valenceMean": 6.45,
+		"valenceSD": 1.76,
+		"arousalMean": 5.51,
+		"arousalSD": 2.06,
+		"dominanceMean": 6.24,
+		"dominanceSD": 2.48
+	},
+	"virtue": {
+		"valenceMean": 6.22,
+		"valenceSD": 2.06,
+		"arousalMean": 4.52,
+		"arousalSD": 2.52,
+		"dominanceMean": 6.13,
+		"dominanceSD": 2.09
+	},
+	"vision": {
+		"valenceMean": 6.62,
+		"valenceSD": 1.84,
+		"arousalMean": 4.66,
+		"arousalSD": 2.43,
+		"dominanceMean": 6.02,
+		"dominanceSD": 1.96
+	},
+	"volcano": {
+		"valenceMean": 4.84,
+		"valenceSD": 2.14,
+		"arousalMean": 6.33,
+		"arousalSD": 2.21,
+		"dominanceMean": 3.25,
+		"dominanceSD": 1.97
+	},
+	"vomit": {
+		"valenceMean": 2.06,
+		"valenceSD": 1.57,
+		"arousalMean": 5.75,
+		"arousalSD": 2.84,
+		"dominanceMean": 3.58,
+		"dominanceSD": 2.45
+	},
+	"voyage": {
+		"valenceMean": 6.25,
+		"valenceSD": 1.91,
+		"arousalMean": 5.55,
+		"arousalSD": 2.23,
+		"dominanceMean": 5.18,
+		"dominanceSD": 1.98
+	},
+	"wagon": {
+		"valenceMean": 5.37,
+		"valenceSD": 0.97,
+		"arousalMean": 3.98,
+		"arousalSD": 2.04,
+		"dominanceMean": 5.05,
+		"dominanceSD": 1.2
+	},
+	"war": {
+		"valenceMean": 2.08,
+		"valenceSD": 1.91,
+		"arousalMean": 7.49,
+		"arousalSD": 2.16,
+		"dominanceMean": 4.5,
+		"dominanceSD": 3.0
+	},
+	"warmth": {
+		"valenceMean": 7.41,
+		"valenceSD": 1.81,
+		"arousalMean": 3.73,
+		"arousalSD": 2.4,
+		"dominanceMean": 5.61,
+		"dominanceSD": 1.67
+	},
+	"wasp": {
+		"valenceMean": 3.37,
+		"valenceSD": 1.63,
+		"arousalMean": 5.5,
+		"arousalSD": 2.17,
+		"dominanceMean": 3.76,
+		"dominanceSD": 1.82
+	},
+	"waste": {
+		"valenceMean": 2.93,
+		"valenceSD": 1.76,
+		"arousalMean": 4.14,
+		"arousalSD": 2.3,
+		"dominanceMean": 4.72,
+		"dominanceSD": 1.94
+	},
+	"watch": {
+		"valenceMean": 5.78,
+		"valenceSD": 1.51,
+		"arousalMean": 4.1,
+		"arousalSD": 2.12,
+		"dominanceMean": 5.37,
+		"dominanceSD": 1.75
+	},
+	"water": {
+		"valenceMean": 6.61,
+		"valenceSD": 1.78,
+		"arousalMean": 4.97,
+		"arousalSD": 2.49,
+		"dominanceMean": 5.08,
+		"dominanceSD": 1.99
+	},
+	"waterfall": {
+		"valenceMean": 7.88,
+		"valenceSD": 1.03,
+		"arousalMean": 5.37,
+		"arousalSD": 2.84,
+		"dominanceMean": 5.2,
+		"dominanceSD": 2.18
+	},
+	"wealthy": {
+		"valenceMean": 7.7,
+		"valenceSD": 1.34,
+		"arousalMean": 5.8,
+		"arousalSD": 2.73,
+		"dominanceMean": 6.77,
+		"dominanceSD": 2.57
+	},
+	"weapon": {
+		"valenceMean": 3.97,
+		"valenceSD": 1.92,
+		"arousalMean": 6.03,
+		"arousalSD": 1.89,
+		"dominanceMean": 5.19,
+		"dominanceSD": 2.61
+	},
+	"weary": {
+		"valenceMean": 3.79,
+		"valenceSD": 2.12,
+		"arousalMean": 3.81,
+		"arousalSD": 2.29,
+		"dominanceMean": 4.0,
+		"dominanceSD": 1.91
+	},
+	"wedding": {
+		"valenceMean": 7.82,
+		"valenceSD": 1.56,
+		"arousalMean": 5.97,
+		"arousalSD": 2.85,
+		"dominanceMean": 6.68,
+		"dominanceSD": 2.08
+	},
+	"whistle": {
+		"valenceMean": 5.81,
+		"valenceSD": 1.21,
+		"arousalMean": 4.69,
+		"arousalSD": 1.99,
+		"dominanceMean": 5.27,
+		"dominanceSD": 1.87
+	},
+	"white": {
+		"valenceMean": 6.47,
+		"valenceSD": 1.59,
+		"arousalMean": 4.37,
+		"arousalSD": 2.14,
+		"dominanceMean": 5.98,
+		"dominanceSD": 1.73
+	},
+	"whore": {
+		"valenceMean": 2.3,
+		"valenceSD": 2.11,
+		"arousalMean": 5.85,
+		"arousalSD": 2.93,
+		"dominanceMean": 4.61,
+		"dominanceSD": 2.73
+	},
+	"wicked": {
+		"valenceMean": 2.96,
+		"valenceSD": 2.37,
+		"arousalMean": 6.09,
+		"arousalSD": 2.44,
+		"dominanceMean": 4.36,
+		"dominanceSD": 2.65
+	},
+	"wife": {
+		"valenceMean": 6.33,
+		"valenceSD": 1.97,
+		"arousalMean": 4.93,
+		"arousalSD": 2.22,
+		"dominanceMean": 5.57,
+		"dominanceSD": 1.68
+	},
+	"win": {
+		"valenceMean": 8.38,
+		"valenceSD": 0.92,
+		"arousalMean": 7.72,
+		"arousalSD": 2.16,
+		"dominanceMean": 7.39,
+		"dominanceSD": 2.36
+	},
+	"windmill": {
+		"valenceMean": 5.6,
+		"valenceSD": 1.65,
+		"arousalMean": 3.74,
+		"arousalSD": 2.13,
+		"dominanceMean": 5.24,
+		"dominanceSD": 1.04
+	},
+	"window": {
+		"valenceMean": 5.91,
+		"valenceSD": 1.38,
+		"arousalMean": 3.97,
+		"arousalSD": 2.01,
+		"dominanceMean": 4.91,
+		"dominanceSD": 1.6
+	},
+	"wine": {
+		"valenceMean": 5.95,
+		"valenceSD": 2.19,
+		"arousalMean": 4.78,
+		"arousalSD": 2.34,
+		"dominanceMean": 5.31,
+		"dominanceSD": 2.15
+	},
+	"wink": {
+		"valenceMean": 6.93,
+		"valenceSD": 1.83,
+		"arousalMean": 5.44,
+		"arousalSD": 2.68,
+		"dominanceMean": 5.7,
+		"dominanceSD": 1.77
+	},
+	"wise": {
+		"valenceMean": 7.52,
+		"valenceSD": 1.23,
+		"arousalMean": 3.91,
+		"arousalSD": 2.64,
+		"dominanceMean": 6.7,
+		"dominanceSD": 2.39
+	},
+	"world": {
+		"valenceMean": 6.5,
+		"valenceSD": 2.03,
+		"arousalMean": 5.32,
+		"arousalSD": 2.39,
+		"dominanceMean": 5.26,
+		"dominanceSD": 2.47
+	},
+	"wounds": {
+		"valenceMean": 2.51,
+		"valenceSD": 1.58,
+		"arousalMean": 5.82,
+		"arousalSD": 2.01,
+		"dominanceMean": 3.92,
+		"dominanceSD": 1.57
+	},
+	"writer": {
+		"valenceMean": 5.52,
+		"valenceSD": 1.9,
+		"arousalMean": 4.33,
+		"arousalSD": 2.45,
+		"dominanceMean": 4.73,
+		"dominanceSD": 1.84
+	},
+	"yacht": {
+		"valenceMean": 6.95,
+		"valenceSD": 1.79,
+		"arousalMean": 5.61,
+		"arousalSD": 2.72,
+		"dominanceMean": 6.1,
+		"dominanceSD": 2.13
+	},
+	"yellow": {
+		"valenceMean": 5.61,
+		"valenceSD": 1.94,
+		"arousalMean": 4.43,
+		"arousalSD": 2.05,
+		"dominanceMean": 5.47,
+		"dominanceSD": 1.58
+	},
+	"young": {
+		"valenceMean": 6.89,
+		"valenceSD": 2.12,
+		"arousalMean": 5.64,
+		"arousalSD": 2.51,
+		"dominanceMean": 5.3,
+		"dominanceSD": 2.49
+	},
+	"youth": {
+		"valenceMean": 6.75,
+		"valenceSD": 2.29,
+		"arousalMean": 5.67,
+		"arousalSD": 2.52,
+		"dominanceMean": 5.11,
+		"dominanceSD": 2.55
+	},
+	"zest": {
+		"valenceMean": 6.79,
+		"valenceSD": 2.04,
+		"arousalMean": 5.59,
+		"arousalSD": 2.66,
+		"dominanceMean": 6.0,
+		"dominanceSD": 1.99
+	},
+	"0": {
+		"valenceMean": 3.27,
+		"valenceSD": 1.4,
+		"arousalMean": 3.43,
+		"arousalSD": 2.09,
+		"dominanceMean": 4.1,
+		"dominanceSD": 1.56
+	}
+}
