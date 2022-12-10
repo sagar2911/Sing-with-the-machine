@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "body-parser": "^1.17.1",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "fs-extra": "^7.0.1",
     "jsmidgen": "0.1.5",
     "nunjucks": "^3.0.0",
